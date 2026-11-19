@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-20-science",
+  "date": "2026-11-20",
+  "title": "每日五篇 · 科学新闻标题阅读",
+  "note": "NASA RSS 最近五篇英文标题与原文链接；日期是收录日期，每篇另标来源发布日期，可能含前日内容。不是完整双语新闻简报。图片为本站示意插图。",
+  "articles": [
+    {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "titleEn": "",
+      "topic": "科学与太空",
+      "en": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "zh": "英文标题阅读卡：请打开 NASA 原文了解详情，再整理自己的观点。",
+      "sourceName": "NASA 官方原文",
+      "sourceUrl": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "published": "2026-11-19",
+      "question": "What does this development suggest about science, public investment or society?"
+    },
+    {
+      "title": "Lake Pelku",
+      "titleEn": "",
+      "topic": "科学与太空",
+      "en": "Lake Pelku",
+      "zh": "英文标题阅读卡：请打开 NASA 原文了解详情，再整理自己的观点。",
+      "sourceName": "NASA 官方原文",
+      "sourceUrl": "https://www.nasa.gov/image-article/lake-pelku/",
+      "published": "2026-11-19",
+      "question": "What does this development suggest about science, public investment or society?"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "titleEn": "",
+      "topic": "科学与太空",
+      "en": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "zh": "英文标题阅读卡：请打开 NASA 原文了解详情，再整理自己的观点。",
+      "sourceName": "NASA 官方原文",
+      "sourceUrl": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "published": "2026-11-19",
+      "question": "What does this development suggest about science, public investment or society?"
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "titleEn": "",
+      "topic": "科学与太空",
+      "en": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "zh": "英文标题阅读卡：请打开 NASA 原文了解详情，再整理自己的观点。",
+      "sourceName": "NASA 官方原文",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "published": "2026-11-19",
+      "question": "What does this development suggest about science, public investment or society?"
+    },
+    {
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "titleEn": "",
+      "topic": "科学与太空",
+      "en": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "zh": "英文标题阅读卡：请打开 NASA 原文了解详情，再整理自己的观点。",
+      "sourceName": "NASA 官方原文",
+      "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "published": "2026-11-19",
+      "question": "What does this development suggest about science, public investment or society?"
+    }
+  ]
+}
