@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
@@ -17,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -52,10 +53,23 @@ jobs:
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v4
         with:
+          name: eap-learning-site-${{ github.run_attempt }}
           path: _site
       - name: Deploy website
         id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: eap-learning-site-${{ github.run_attempt }}
+      - name: Allow artifact metadata to become available
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 15
+      - name: Retry deployment after transient artifact errors
+        id: retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: eap-learning-site-${{ github.run_attempt }}
       - name: Fail visibly if news fetch failed
         if: steps.news.outcome == 'failure'
         run: exit 1
