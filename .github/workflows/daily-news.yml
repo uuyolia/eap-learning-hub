@@ -1,0 +1,61 @@
+name: Daily news and Pages
+on:
+  schedule:
+    - cron: '17 23 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: eap-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch five source headlines
+        id: news
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/update_news.py
+      - name: Record news fetch failure
+        if: steps.news.outcome == 'failure'
+        run: echo '::warning::News update failed. Existing archives will still be deployed.'
+      - name: Save new archives
+        if: github.event_name != 'push' && steps.news.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update five science reading links'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Prepare public website files
+        run: |
+          mkdir -p _site
+          cp index.html app.js app.css _site/
+          cp -r data assets _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Fail visibly if news fetch failed
+        if: steps.news.outcome == 'failure'
+        run: exit 1
