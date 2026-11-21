@@ -1,0 +1,116 @@
+{
+  "id": "2026-11-20-briefing",
+  "date": "2026-11-20",
+  "title": "第 2 期 · 聊天每日简报",
+  "note": "迁移自「🐾」每日简报，保留原双语摘要与讨论思路；报道与数字尚未在本站独立核验，请结合所附来源使用。口语题目为模拟练习，并非官方考题。",
+  "articles": [
+    {
+      "topic": "环境与科技",
+      "title": "COP31：用电更多，就一定更环保吗？",
+      "titleEn": "COP31 debates whether electrification is enough to tackle climate change",
+      "en": "At COP31 in Turkey, more than 30 countries backed a voluntary pledge to increase electricity's share of global energy consumption from roughly 20% to 35% by 2035. Yet the proposal does not require that electricity to come from renewable sources. Critics argue that electrification（电气化）could deliver limited climate benefits if fossil fuels（化石燃料）continue to dominate power generation.",
+      "zh": "30 多个国家支持到 2035 年提高电力在能源消费中的占比，但没有要求这些电力必须是清洁能源。因此，“电气化”不一定等于“减碳”。",
+      "whyItMatters": "AI 数据中心和电动车都需要大量电力。讨论科技是否环保，不能只看产品，还要看电力从哪里来。",
+      "question": "Is switching to electric technology always beneficial for the environment?",
+      "speakingHint": "先肯定电气化的潜力，再让步指出电力来源的重要性。用 COP31 的 35% 目标举例。",
+      "expressions": "It depends largely on...（这很大程度取决于……） · We shouldn't overlook the fact that...（我们不应忽视……）",
+      "sourceName": "Reuters 原文",
+      "sourceUrl": "https://www.reuters.com/sustainability/cop31-split-over-fossil-fuels-ai-electrification-2026-11-19/",
+      "sources": [
+        {
+          "name": "Reuters 原文",
+          "url": "https://www.reuters.com/sustainability/cop31-split-over-fossil-fuels-ai-electrification-2026-11-19/"
+        }
+      ],
+      "published": "Reuters · 11 月 19 日",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "中国与科技",
+      "title": "美国进一步限制中国企业获取先进 AI 算力",
+      "titleEn": "New US chip restrictions put pressure on China's AI industry",
+      "en": "Chinese technology companies are assessing the consequences of tighter US restrictions on advanced AI chips, including access through overseas data centres. Alibaba reported a 53% year-on-year increase in AI cloud and computing revenue, even as restrictions threaten its expansion plans. The measures may accelerate China's push for technological self-reliance（技术自主）, but developing competitive domestic alternatives could take time.",
+      "zh": "美国进一步限制中国企业通过海外数据中心使用先进芯片。阿里巴巴 AI 云及计算收入同比增长 53%，但未来扩张面临不确定性。",
+      "whyItMatters": "这不仅是贸易问题，还涉及 AI 创新、供应链以及技术全球化。",
+      "question": "Should countries prioritise technological independence over international cooperation?",
+      "speakingHint": "技术自主有助于降低供应风险，但国际合作也能提高创新效率。引用中国企业面临芯片限制的案例。",
+      "expressions": "reduce dependence on...（减少对……的依赖） · come at the expense of...（以牺牲……为代价）",
+      "sourceName": "AP 原文",
+      "sourceUrl": "https://apnews.com/article/922a7ccb3ee1b1336af112ace0e3b288",
+      "sources": [
+        {
+          "name": "AP 原文",
+          "url": "https://apnews.com/article/922a7ccb3ee1b1336af112ace0e3b288"
+        }
+      ],
+      "published": "AP · 11 月 19 日",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "国际关系",
+      "title": "中美俄三方会晤：对话是否等于进展？",
+      "titleEn": "US, China and Russia hold high-level talks without a major breakthrough",
+      "en": "The leaders of China, the United States and Russia held a roughly 90-minute meeting during the APEC summit in Shenzhen. Their discussions addressed nuclear risks and international security, but produced no concrete breakthrough（实质性突破）on major conflicts. The meeting illustrates how diplomatic engagement（外交接触）can keep communication channels open without necessarily resolving disagreements.",
+      "zh": "三方领导人在深圳 APEC 会议期间进行了约 90 分钟的会晤，讨论核风险与国际安全，但没有在重大冲突问题上取得明确突破。",
+      "whyItMatters": "外交成功不一定意味着马上达成协议。有时防止误判本身就有价值。",
+      "question": "Can diplomatic meetings be considered successful even without an agreement?",
+      "speakingHint": "区分短期成果和长期价值。会谈可能缺少实质进展，但有助于维持沟通。",
+      "expressions": "keep communication channels open（保持沟通渠道） · lay the groundwork for...（为……奠定基础）",
+      "sourceName": "The Guardian 报道",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
+      "sources": [
+        {
+          "name": "The Guardian 报道",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+        }
+      ],
+      "published": "The Guardian · 11 月 19 日",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "经济与 AI",
+      "title": "AI 投资太快，也可能推高通胀？",
+      "titleEn": "Federal Reserve official warns that the AI boom could fuel inflation",
+      "en": "Chicago Federal Reserve President Austan Goolsbee warned that surging investment in AI infrastructure could strain the economy's productive capacity（生产能力）. Although AI may improve productivity in the long run, unusually rapid spending on data centres and equipment could create inflationary pressure（通胀压力）in the short term.",
+      "zh": "AI 长期可能提高生产率，但如果企业短时间内集中投资数据中心、设备和基础设施，经济供给能力可能跟不上需求，推动价格上涨。",
+      "whyItMatters": "技术进步不一定立刻带来经济好处；短期成本与长期收益可能不同。这是美联储官员的风险判断，而非通胀已经发生的证据。",
+      "question": "Does rapid technological investment always benefit the economy?",
+      "speakingHint": "用 short-term versus long-term 结构：短期可能增加成本，长期可能提高效率。",
+      "expressions": "in the long run（从长远来看） · put pressure on...（给……带来压力）",
+      "sourceName": "Reuters 原文",
+      "sourceUrl": "https://www.reuters.com/business/feds-goolsbee-says-ai-surge-could-strain-us-capacity-overheat-economy-2026-11-19/",
+      "sources": [
+        {
+          "name": "Reuters 原文",
+          "url": "https://www.reuters.com/business/feds-goolsbee-says-ai-surge-could-strain-us-capacity-overheat-economy-2026-11-19/"
+        }
+      ],
+      "published": "Reuters · 11 月 19 日",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "全球公平与气候",
+      "title": "厄尔尼诺风险加剧，穷国气候适应资金不足",
+      "titleEn": "El Niño intensifies climate risks as adaptation funding falls short",
+      "en": "As COP31 negotiations continue, a powerful El Niño is raising concerns about droughts, floods and food insecurity（粮食不安全）across vulnerable regions. Developing countries are estimated to need around $300 billion annually for climate adaptation（气候适应）, yet received only $36 billion in 2024. The widening funding gap highlights an unequal distribution of climate risks and resources.",
+      "zh": "发展中国家每年约需 3000 亿美元应对气候影响，但 2024 年实际获得的资金只有 360 亿美元。厄尔尼诺带来的旱涝风险使问题更紧迫。",
+      "whyItMatters": "受到气候灾害影响最严重的地区，未必拥有足够资金保护农业、基础设施和居民。",
+      "question": "Should wealthier countries contribute more to climate adaptation?",
+      "speakingHint": "支持者强调历史排放责任和支付能力；另一种观点强调资金使用透明度与各国共同责任。",
+      "expressions": "bear a disproportionate burden（承担不成比例的负担） · bridge the funding gap（弥合资金缺口）",
+      "sourceName": "Reuters 原文",
+      "sourceUrl": "https://www.reuters.com/sustainability/cop/el-nino-raises-stakes-cop31-wrestles-over-finance-2026-11-19/",
+      "sources": [
+        {
+          "name": "Reuters 原文",
+          "url": "https://www.reuters.com/sustainability/cop/el-nino-raises-stakes-cop31-wrestles-over-finance-2026-11-19/"
+        }
+      ],
+      "published": "Reuters · 11 月 19 日",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    }
+  ],
+  "speaking": {
+    "text": "主题：Technology and the Environment (推荐练习 · 1–2 分钟)\n\n今天选择第 1 条 COP31 新闻，因为它非常适合练习 balanced argument（平衡论证）。\n\nDo you think technological progress is always good for the environment?\n\n你认为技术进步总是对环境有利吗？\n\n用这四步组织自己的回答：\n\n1. 观点：Not necessarily. I think it depends on how technology is used.\n2. 具体例子：At COP31, countries supported expanding electrification, but clean energy was not mandatory.\n3. 解释影响：If electricity is generated from fossil fuels, some environmental benefits may be undermined.\n4. 总结：So technological progress needs to go hand in hand with responsible energy policies.\n\n---\n\nPart 2 Follow-up\n\nWhat can university students do to make technology more sustainable?\n\n回答要点：避免不必要的电子设备更新、延长设备寿命、支持节能措施，同时承认个人行动无法替代政府和企业的系统性改变。\n\n[一个加分思路]"
+  }
+}

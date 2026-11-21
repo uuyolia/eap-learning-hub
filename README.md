@@ -15,14 +15,14 @@
 - 新闻按日期归档，一期五篇，逐篇翻页。素材库自动收录公共案例，另可本地写笔记、按主题/日期/关键词筛选和新增每日素材。
 - assets/topic.svg 为本站原创示意插图，非现场照片，无第三方新闻照片授权依赖。
 
-## 自动更新与上线
+## 聊天简报同步与上线
 
-`.github/workflows/daily-news.yml` 在北京时间每天约 07:17（GitHub 定时任务可能延迟）和手动运行时读取 NASA 官方 RSS 最近五篇标题、来源时间和原文链接。当天已存档或来源没有变化则跳过；来源不足五篇/失败则不覆盖旧档案。只发布标题阅读卡，不生成双语摘要，也不假称是五篇当日新新闻。先以科学新闻运行，无需外部密钥；全面国际新闻与中文编辑需另选合法来源和生成/编辑流程。
+优先展示「🐾」中的每日双语简报，迁入 2026-11-20 和 2026-11-21 两期，每期五篇，保留双语摘要、Why it matters、口语题、回答思路、表达和来源链接。每期 Speaking Challenge 随所选期数切换，任意文章可点击“练习这一题”。报道与数字迁移时未独立核验，页面逐篇保留说明。模拟题不等同于老师给出的正式考试话题。
 
-推送 main 时部署现有数据；定时更新即使未生成 GitHub push 事件，也会在同一工作流显式部署。因此无需每天手动导入这一来源的内容。ChatGPT 里的每日新闻简报不会自动进入仓库；必须另建取得简报并提交数据的连接。
+停止 NASA 单一来源的定时抓取，保留既有科学档案与 scripts/update_news.py 作为历史工具。GitHub Actions 仅在 main 推送或手动触发时发布网站，不读取私人 ChatGPT 聊天。
 
-GitHub Settings → Pages → Build and deployment → Source 应为 **GitHub Actions**。若仍为 Deploy from a branch，切换后在 Actions 手动运行 Daily news and Pages。仓库/组织需允许 Actions 及此工作流的 contents:write、pages:write、id-token:write；分支保护或环境审批可能阻止自动提交/部署。工作流失败会在 Actions 中显示；不要把文件已提交等同于网站已更新。
+后续由 Codex 的独立定时任务读取来源聊天中新的完整五篇简报，按日期去重后提交到 data/，由 Pages 发布。它依赖该任务可运行且能读取聊天、写入 GitHub；无新简报时保留网站现状。不能把部署工作流存在等同于每天一定已同步成功。
 
-数据契约：data/issues.json 是期数索引；每个 file 指向含五篇 articles 的 JSON；data/materials.json 为累计公共素材。脚本只添加期数，不删除旧档案。
+数据契约：data/issues.json 是期数索引；每个 file 指向含五篇 articles 的 JSON；data/materials.json 为累计公共素材。新增 articles 字段：whyItMatters、speakingHint、expressions、sources、verification；期数可含 speaking.text。个人学习记录继续留在浏览器中，不进入公共仓库。
 
-本站是在线静态网站，初次访问和更新需要网络；当前没有离线缓存或服务器端用户账户。
+在线地址：https://uuyolia.github.io/eap-learning-hub/

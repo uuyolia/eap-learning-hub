@@ -1,0 +1,124 @@
+{
+  "id": "2026-11-21-briefing",
+  "date": "2026-11-21",
+  "title": "第 3 期 · 聊天每日简报",
+  "note": "迁移自「🐾」每日简报，保留原双语摘要与讨论思路；报道与数字尚未在本站独立核验，请结合所附来源使用。口语题目为模拟练习，并非官方考题。",
+  "articles": [
+    {
+      "topic": "国际关系 / 人权",
+      "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
+      "titleEn": "UN court finds Myanmar responsible for Rohingya genocide",
+      "en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority during its 2017 military campaign. The court ordered reparations（赔偿）and measures to enable the safe return of displaced people（流离失所者）. Myanmar rejected the ruling, arguing that its military operations were counterterrorism measures. The judgment is legally significant, but enforcing it remains a major challenge.",
+      "zh": "国际法院认定缅甸军方在 2017 年对罗兴亚人实施了种族灭绝，并要求赔偿和安全遣返。缅甸政府否认这一结论。法院裁决与实际执行是两回事。",
+      "whyItMatters": "国际法可以确立国家责任，但司法裁决不一定能立即改变受害者的生活。约 120 万罗兴亚难民仍生活在孟加拉国。",
+      "question": "Can international courts make a difference if they cannot directly enforce their decisions?",
+      "speakingHint": "肯定司法裁决有助于确认责任和推动国际关注；同时承认缺乏执行机制可能削弱实际效果。举出本次判决和难民处境。",
+      "expressions": "hold a government accountable（追究政府责任） · turn legal decisions into practical action（将法律裁决转化为实际行动）",
+      "sourceName": "AP 原文",
+      "sourceUrl": "https://apnews.com/article/c76dcb3f97c1077262f87e0cba01bb78",
+      "sources": [
+        {
+          "name": "AP 原文",
+          "url": "https://apnews.com/article/c76dcb3f97c1077262f87e0cba01bb78"
+        },
+        {
+          "name": "Reuters 报道",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-calls-icj-ruling-genocide-unfair-2026-11-20/"
+        }
+      ],
+      "published": "11月19–20日 · AP / Reuters",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "科学 / 日本与欧洲",
+      "title": "历时八年，欧洲与日本联合探测器抵达水星附近",
+      "titleEn": "BepiColombo prepares to enter orbit around Mercury",
+      "en": "After an eight-year journey, the European-Japanese BepiColombo mission is approaching a crucial milestone: orbital insertion（进入轨道）around Mercury, scheduled for November 21. Its two orbiters will eventually study the planet's surface, interior and magnetic field. Scientists hope the mission will shed light on（帮助阐明）how rocky planets formed and evolved so close to the Sun.",
+      "zh": "欧日联合探测任务 BepiColombo 经过八年航行，计划于 11 月 21 日进入水星轨道。两台探测器之后将分离，研究水星的内部结构、磁场和表面。科学观测预计于 2027 年开始。",
+      "whyItMatters": "研究水星可以帮助科学家理解太阳系早期的形成过程，也展示了国际科研合作的价值。",
+      "question": "Should governments spend money on space exploration when there are urgent problems on Earth?",
+      "speakingHint": "承认公共资金有限，但长期科学研究能创造知识和技术价值。用欧日合作、八年航行作为例子。",
+      "expressions": "push the boundaries of knowledge（拓展知识边界） · a long-term investment in science（对科学的长期投资）",
+      "sourceName": "ESA 官方任务进展",
+      "sourceUrl": "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury",
+      "sources": [
+        {
+          "name": "ESA 官方任务进展",
+          "url": "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"
+        },
+        {
+          "name": "The Guardian 报道",
+          "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
+        }
+      ],
+      "published": "11月20日 · ESA / The Guardian",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "公共健康",
+      "title": "美国时隔 26 年失去麻疹消除认证",
+      "titleEn": "The US loses its measles elimination status",
+      "en": "The Pan American Health Organization confirmed that sustained measles transmission（持续的麻疹传播）has returned to the United States, Mexico and Bolivia. The US had maintained its elimination status since 2000. Public health experts warn that gaps in vaccination coverage（疫苗接种覆盖率）can undermine（削弱）decades of progress against a highly contagious disease.",
+      "zh": "美国、墨西哥和玻利维亚因麻疹持续传播超过一年，失去麻疹消除认证。这不意味着麻疹曾经完全不存在，而是说明本土持续传播已经重新出现。",
+      "whyItMatters": "公共健康成果需要长期维护。PAHO 指出，截至 11 月 13 日，美洲地区 2026 年已报告超过 5.8 万例确诊病例。",
+      "question": "Should vaccination be considered an individual choice or a collective responsibility?",
+      "speakingHint": "尊重个人自主权很重要，但传染病也会影响无法接种的群体。讨论政策时可区分宣传教育、便利接种和强制措施。",
+      "expressions": "protect vulnerable populations（保护脆弱群体） · take public health for granted（把公共健康成果视为理所当然）",
+      "sourceName": "PAHO 官方通报",
+      "sourceUrl": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
+      "sources": [
+        {
+          "name": "PAHO 官方通报",
+          "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"
+        }
+      ],
+      "published": "11月17–20日 · PAHO / APHA",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "经济 / AI",
+      "title": "全球股市大跌：AI 热潮会不会成为泡沫？",
+      "titleEn": "Global markets slide amid fears of an AI investment bubble",
+      "en": "Global stock markets experienced a sharp sell-off（集中抛售）as investors grew concerned about excessive AI valuations（估值）and the possibility of further US interest-rate increases. Reuters reported that nearly $9 trillion in global market value had been wiped out since August. The downturn illustrates how expectations about future growth can influence financial markets long before the underlying technologies deliver profits.",
+      "zh": "投资者担心 AI 相关企业估值过高，加上美国利率可能进一步上升，引发全球股市下跌。路透社报道，全球股市市值自 8 月以来缩水近 9 万亿美元。",
+      "whyItMatters": "技术很有前景，不代表所有相关投资都合理。应该区分技术本身的潜力和市场对其商业回报的预期。",
+      "question": "Can excessive investment in new technology do more harm than good?",
+      "speakingHint": "投资推动创新，但过度乐观可能造成资源浪费和市场波动。AI 投资热潮是一个很具体的例子。",
+      "expressions": "live up to expectations（达到预期） · strike a balance between innovation and caution（在创新与谨慎之间取得平衡）",
+      "sourceName": "Reuters 原文",
+      "sourceUrl": "https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/",
+      "sources": [
+        {
+          "name": "Reuters 原文",
+          "url": "https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/"
+        }
+      ],
+      "published": "11月20日 · Reuters",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    },
+    {
+      "topic": "中美关系 / AI 安全",
+      "title": "中美据称同意：重大军事 AI 决策必须有人参与",
+      "titleEn": "US and China reportedly agree on human oversight of military AI",
+      "en": "US Treasury Secretary Scott Bessent said that Donald Trump and Xi Jinping had agreed on the importance of keeping humans involved in military decisions involving artificial intelligence. The reported understanding highlights the need for human oversight（人工监督）when automated systems could have life-or-death consequences. However, no detailed verification or enforcement mechanism was announced.",
+      "zh": "美国财长表示，中美领导人同意重大军事 AI 决策应保留人类参与。但这属于美方官员披露的会谈成果，不能直接等同于双方已经签署了具有约束力的正式协议。",
+      "whyItMatters": "即使国家在 AI 技术上竞争，也可能在共同安全风险上合作。",
+      "question": "Should AI ever be allowed to make decisions that could put human lives at risk?",
+      "speakingHint": "AI 可以辅助快速分析，但高风险决策应保留人类责任和监督。使用中美会谈的报道举例，同时指出正式规则仍待落实。",
+      "expressions": "keep humans in the loop（确保人类参与决策） · establish clear safeguards（建立明确的安全保障措施）",
+      "sourceName": "Reuters 原文",
+      "sourceUrl": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+      "sources": [
+        {
+          "name": "Reuters 原文",
+          "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+        }
+      ],
+      "published": "11月20日 · Reuters",
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+    }
+  ],
+  "speaking": {
+    "text": "AI and Human Responsibility (1–2 分钟)\n\nDo you think humans should always have the final say when AI is used in important decisions?\n\n你认为当 AI 被用于重要决策时，人类是否应该始终拥有最终决定权？\n\n试着用四个部分完成回答：\n\n1. 观点 Opinion：Personally, I think human oversight is essential, particularly in high-risk situations.\n2. 具体例子 Example：提到 11 月 20 日关于中美领导人讨论军事 AI 安全的报道。\n3. 原因 / 影响 Explanation：AI 处理信息很快，但责任归属、判断失误及伦理问题不能被忽视。\n4. 总结 Conclusion：Ultimately, AI should support human judgement rather than replace it entirely.\n\n---\n\nPart 2 Follow-up\n\nWhat about less serious decisions, such as recommending university courses?\n\n示范回答要点：对于低风险选择，可以允许更多自动化；但学生应该了解推荐依据并保留最终选择权。用 The level of human involvement should depend on the potential consequences. 来表达有条件的观点。"
+  }
+}
