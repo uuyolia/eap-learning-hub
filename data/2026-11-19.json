@@ -10,7 +10,10 @@
       "titleEn": "Why dialogue between major powers still matters",
       "en": "Even when countries have conflicting interests, diplomatic engagement can reduce the risk of misunderstandings. However, negotiations do not necessarily translate into concrete progress.",
       "zh": "即使国家之间存在利益冲突，外交接触仍可能减少误判风险。不过，谈判不一定带来实质进展。",
-      "question": "Should rival countries continue talking even when they strongly disagree?"
+      "question": "Should rival countries continue talking even when they strongly disagree?",
+      "courseTopics": [
+        "Communication"
+      ]
     },
     {
       "topic": "教育科技",
@@ -18,7 +21,11 @@
       "titleEn": "How AI could reshape university learning",
       "en": "AI can provide personalised support and improve access to information. Yet excessive reliance on automated answers may undermine independent thinking and widen existing inequalities.",
       "zh": "人工智能能够提供个性化支持、改善信息获取，但过度依赖自动生成的答案可能削弱独立思考，并扩大原有差距。",
-      "question": "Does AI make university students more independent or more dependent?"
+      "question": "Does AI make university students more independent or more dependent?",
+      "courseTopics": [
+        "Education",
+        "Technology"
+      ]
     },
     {
       "topic": "环境",
@@ -26,7 +33,11 @@
       "titleEn": "The environmental cost of artificial intelligence",
       "en": "Data centres consume substantial amounts of electricity. Voluntary environmental pledges may encourage transparency, but critics question whether they provide sufficient accountability.",
       "zh": "数据中心消耗大量电力。自愿环保承诺可能提升透明度，但也有人质疑其问责力度是否足够。",
-      "question": "Should governments impose stricter environmental rules on AI companies?"
+      "question": "Should governments impose stricter environmental rules on AI companies?",
+      "courseTopics": [
+        "Environment",
+        "Technology"
+      ]
     },
     {
       "topic": "经济",
@@ -34,7 +45,11 @@
       "titleEn": "Who benefits from economic growth?",
       "en": "Strong exports and rapid technological development do not automatically improve everyone's standard of living. The benefits of growth can be distributed unevenly across society.",
       "zh": "强劲出口与技术发展并不自动改善每个人的生活水平；经济增长的收益可能分配不均。",
-      "question": "Is economic growth meaningful if its benefits are unevenly shared?"
+      "question": "Is economic growth meaningful if its benefits are unevenly shared?",
+      "courseTopics": [
+        "Jobs",
+        "Change"
+      ]
     },
     {
       "topic": "教育政策",
@@ -42,7 +57,10 @@
       "titleEn": "Should universities teach financial literacy?",
       "en": "Financial literacy can equip young adults with practical skills, including budgeting and understanding financial risks. However, compulsory courses may add pressure to an already packed timetable.",
       "zh": "金融素养能帮助年轻人掌握预算规划和理解金融风险等实用技能，但必修课程也可能增加课业负担。",
-      "question": "Should financial education be compulsory at university?"
+      "question": "Should financial education be compulsory at university?",
+      "courseTopics": [
+        "Education"
+      ]
     }
   ]
 }

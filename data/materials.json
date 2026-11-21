@@ -5,7 +5,10 @@
     "topic": "国际关系",
     "title": "大国之间为什么仍需要对话？",
     "text": "即使国家之间存在利益冲突，外交接触仍可能减少误判风险。不过，谈判不一定带来实质进展。\nEven when countries have conflicting interests, diplomatic engagement can reduce the risk of misunderstandings. However, negotiations do not necessarily translate into concrete progress.",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Communication"
+    ]
   },
   {
     "id": "2026-11-19:人工智能会改变大学学习吗？",
@@ -13,7 +16,11 @@
     "topic": "教育科技",
     "title": "人工智能会改变大学学习吗？",
     "text": "人工智能能够提供个性化支持、改善信息获取，但过度依赖自动生成的答案可能削弱独立思考，并扩大原有差距。\nAI can provide personalised support and improve access to information. Yet excessive reliance on automated answers may undermine independent thinking and widen existing inequalities.",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Education",
+      "Technology"
+    ]
   },
   {
     "id": "2026-11-19:人工智能也有环境成本",
@@ -21,7 +28,11 @@
     "topic": "环境",
     "title": "人工智能也有环境成本",
     "text": "数据中心消耗大量电力。自愿环保承诺可能提升透明度，但也有人质疑其问责力度是否足够。\nData centres consume substantial amounts of electricity. Voluntary environmental pledges may encourage transparency, but critics question whether they provide sufficient accountability.",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Environment",
+      "Technology"
+    ]
   },
   {
     "id": "2026-11-19:经济增长是否让每个人受益？",
@@ -29,7 +40,11 @@
     "topic": "经济",
     "title": "经济增长是否让每个人受益？",
     "text": "强劲出口与技术发展并不自动改善每个人的生活水平；经济增长的收益可能分配不均。\nStrong exports and rapid technological development do not automatically improve everyone's standard of living. The benefits of growth can be distributed unevenly across society.",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Jobs",
+      "Change"
+    ]
   },
   {
     "id": "2026-11-19:大学应该教授理财知识吗？",
@@ -37,7 +52,10 @@
     "topic": "教育政策",
     "title": "大学应该教授理财知识吗？",
     "text": "金融素养能帮助年轻人掌握预算规划和理解金融风险等实用技能，但必修课程也可能增加课业负担。\nFinancial literacy can equip young adults with practical skills, including budgeting and understanding financial risks. However, compulsory courses may add pressure to an already packed timetable.",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Education"
+    ]
   },
   {
     "id": "2026-11-20-science:NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
@@ -46,7 +64,8 @@
     "topic": "科学与太空",
     "text": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
     "sourceUrl": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-science:Lake Pelku",
@@ -55,7 +74,8 @@
     "topic": "科学与太空",
     "text": "Lake Pelku",
     "sourceUrl": "https://www.nasa.gov/image-article/lake-pelku/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-science:NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
@@ -64,7 +84,8 @@
     "topic": "科学与太空",
     "text": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
     "sourceUrl": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-science:NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
@@ -73,7 +94,8 @@
     "topic": "科学与太空",
     "text": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
     "sourceUrl": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-science:APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
@@ -82,7 +104,8 @@
     "topic": "科学与太空",
     "text": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-science:Curiosity Spots Drifting Twilight Clouds",
@@ -91,7 +114,8 @@
     "topic": "科学与太空",
     "text": "Curiosity Spots Drifting Twilight Clouds",
     "sourceUrl": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-science:New NASA Seed Funding Primes Small Businesses for Innovation",
@@ -100,7 +124,8 @@
     "topic": "科学与太空",
     "text": "New NASA Seed Funding Primes Small Businesses for Innovation",
     "sourceUrl": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-science:NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
@@ -109,7 +134,8 @@
     "topic": "科学与太空",
     "text": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
     "sourceUrl": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-science:NASA’s Curiosity Mars Rover Collects Samples",
@@ -118,7 +144,8 @@
     "topic": "科学与太空",
     "text": "NASA’s Curiosity Mars Rover Collects Samples",
     "sourceUrl": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-science:APOD: 2026 November 20 – V-G-R",
@@ -127,7 +154,8 @@
     "topic": "科学与太空",
     "text": "APOD: 2026 November 20 – V-G-R",
     "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-briefing:COP31：用电更多，就一定更环保吗？",
@@ -136,7 +164,11 @@
     "title": "COP31：用电更多，就一定更环保吗？",
     "text": "30 多个国家支持到 2035 年提高电力在能源消费中的占比，但没有要求这些电力必须是清洁能源。因此，“电气化”不一定等于“减碳”。\n\nAt COP31 in Turkey, more than 30 countries backed a voluntary pledge to increase electricity's share of global energy consumption from roughly 20% to 35% by 2035. Yet the proposal does not require that electricity to come from renewable sources. Critics argue that electrification（电气化）could deliver limited climate benefits if fossil fuels（化石燃料）continue to dominate power generation.\n\n为什么值得讨论：AI 数据中心和电动车都需要大量电力。讨论科技是否环保，不能只看产品，还要看电力从哪里来。\n\n模拟题：Is switching to electric technology always beneficial for the environment?\n\n思路：先肯定电气化的潜力，再让步指出电力来源的重要性。用 COP31 的 35% 目标举例。\n\n表达：It depends largely on...（这很大程度取决于……） · We shouldn't overlook the fact that...（我们不应忽视……）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.reuters.com/sustainability/cop31-split-over-fossil-fuels-ai-electrification-2026-11-19/",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Environment",
+      "Technology"
+    ]
   },
   {
     "id": "2026-11-20-briefing:美国进一步限制中国企业获取先进 AI 算力",
@@ -145,7 +177,11 @@
     "title": "美国进一步限制中国企业获取先进 AI 算力",
     "text": "美国进一步限制中国企业通过海外数据中心使用先进芯片。阿里巴巴 AI 云及计算收入同比增长 53%，但未来扩张面临不确定性。\n\nChinese technology companies are assessing the consequences of tighter US restrictions on advanced AI chips, including access through overseas data centres. Alibaba reported a 53% year-on-year increase in AI cloud and computing revenue, even as restrictions threaten its expansion plans. The measures may accelerate China's push for technological self-reliance（技术自主）, but developing competitive domestic alternatives could take time.\n\n为什么值得讨论：这不仅是贸易问题，还涉及 AI 创新、供应链以及技术全球化。\n\n模拟题：Should countries prioritise technological independence over international cooperation?\n\n思路：技术自主有助于降低供应风险，但国际合作也能提高创新效率。引用中国企业面临芯片限制的案例。\n\n表达：reduce dependence on...（减少对……的依赖） · come at the expense of...（以牺牲……为代价）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://apnews.com/article/922a7ccb3ee1b1336af112ace0e3b288",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Technology",
+      "Change"
+    ]
   },
   {
     "id": "2026-11-20-briefing:中美俄三方会晤：对话是否等于进展？",
@@ -154,7 +190,10 @@
     "title": "中美俄三方会晤：对话是否等于进展？",
     "text": "三方领导人在深圳 APEC 会议期间进行了约 90 分钟的会晤，讨论核风险与国际安全，但没有在重大冲突问题上取得明确突破。\n\nThe leaders of China, the United States and Russia held a roughly 90-minute meeting during the APEC summit in Shenzhen. Their discussions addressed nuclear risks and international security, but produced no concrete breakthrough（实质性突破）on major conflicts. The meeting illustrates how diplomatic engagement（外交接触）can keep communication channels open without necessarily resolving disagreements.\n\n为什么值得讨论：外交成功不一定意味着马上达成协议。有时防止误判本身就有价值。\n\n模拟题：Can diplomatic meetings be considered successful even without an agreement?\n\n思路：区分短期成果和长期价值。会谈可能缺少实质进展，但有助于维持沟通。\n\n表达：keep communication channels open（保持沟通渠道） · lay the groundwork for...（为……奠定基础）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Communication"
+    ]
   },
   {
     "id": "2026-11-20-briefing:AI 投资太快，也可能推高通胀？",
@@ -163,7 +202,11 @@
     "title": "AI 投资太快，也可能推高通胀？",
     "text": "AI 长期可能提高生产率，但如果企业短时间内集中投资数据中心、设备和基础设施，经济供给能力可能跟不上需求，推动价格上涨。\n\nChicago Federal Reserve President Austan Goolsbee warned that surging investment in AI infrastructure could strain the economy's productive capacity（生产能力）. Although AI may improve productivity in the long run, unusually rapid spending on data centres and equipment could create inflationary pressure（通胀压力）in the short term.\n\n为什么值得讨论：技术进步不一定立刻带来经济好处；短期成本与长期收益可能不同。这是美联储官员的风险判断，而非通胀已经发生的证据。\n\n模拟题：Does rapid technological investment always benefit the economy?\n\n思路：用 short-term versus long-term 结构：短期可能增加成本，长期可能提高效率。\n\n表达：in the long run（从长远来看） · put pressure on...（给……带来压力）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.reuters.com/business/feds-goolsbee-says-ai-surge-could-strain-us-capacity-overheat-economy-2026-11-19/",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Technology",
+      "Change"
+    ]
   },
   {
     "id": "2026-11-20-briefing:厄尔尼诺风险加剧，穷国气候适应资金不足",
@@ -172,7 +215,10 @@
     "title": "厄尔尼诺风险加剧，穷国气候适应资金不足",
     "text": "发展中国家每年约需 3000 亿美元应对气候影响，但 2024 年实际获得的资金只有 360 亿美元。厄尔尼诺带来的旱涝风险使问题更紧迫。\n\nAs COP31 negotiations continue, a powerful El Niño is raising concerns about droughts, floods and food insecurity（粮食不安全）across vulnerable regions. Developing countries are estimated to need around $300 billion annually for climate adaptation（气候适应）, yet received only $36 billion in 2024. The widening funding gap highlights an unequal distribution of climate risks and resources.\n\n为什么值得讨论：受到气候灾害影响最严重的地区，未必拥有足够资金保护农业、基础设施和居民。\n\n模拟题：Should wealthier countries contribute more to climate adaptation?\n\n思路：支持者强调历史排放责任和支付能力；另一种观点强调资金使用透明度与各国共同责任。\n\n表达：bear a disproportionate burden（承担不成比例的负担） · bridge the funding gap（弥合资金缺口）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.reuters.com/sustainability/cop/el-nino-raises-stakes-cop31-wrestles-over-finance-2026-11-19/",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Environment"
+    ]
   },
   {
     "id": "2026-11-21-briefing:国际法院裁定缅甸对罗兴亚人实施种族灭绝",
@@ -181,7 +227,10 @@
     "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
     "text": "国际法院认定缅甸军方在 2017 年对罗兴亚人实施了种族灭绝，并要求赔偿和安全遣返。缅甸政府否认这一结论。法院裁决与实际执行是两回事。\n\nThe International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority during its 2017 military campaign. The court ordered reparations（赔偿）and measures to enable the safe return of displaced people（流离失所者）. Myanmar rejected the ruling, arguing that its military operations were counterterrorism measures. The judgment is legally significant, but enforcing it remains a major challenge.\n\n为什么值得讨论：国际法可以确立国家责任，但司法裁决不一定能立即改变受害者的生活。约 120 万罗兴亚难民仍生活在孟加拉国。\n\n模拟题：Can international courts make a difference if they cannot directly enforce their decisions?\n\n思路：肯定司法裁决有助于确认责任和推动国际关注；同时承认缺乏执行机制可能削弱实际效果。举出本次判决和难民处境。\n\n表达：hold a government accountable（追究政府责任） · turn legal decisions into practical action（将法律裁决转化为实际行动）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://apnews.com/article/c76dcb3f97c1077262f87e0cba01bb78",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "People"
+    ]
   },
   {
     "id": "2026-11-21-briefing:历时八年，欧洲与日本联合探测器抵达水星附近",
@@ -190,7 +239,8 @@
     "title": "历时八年，欧洲与日本联合探测器抵达水星附近",
     "text": "欧日联合探测任务 BepiColombo 经过八年航行，计划于 11 月 21 日进入水星轨道。两台探测器之后将分离，研究水星的内部结构、磁场和表面。科学观测预计于 2027 年开始。\n\nAfter an eight-year journey, the European-Japanese BepiColombo mission is approaching a crucial milestone: orbital insertion（进入轨道）around Mercury, scheduled for November 21. Its two orbiters will eventually study the planet's surface, interior and magnetic field. Scientists hope the mission will shed light on（帮助阐明）how rocky planets formed and evolved so close to the Sun.\n\n为什么值得讨论：研究水星可以帮助科学家理解太阳系早期的形成过程，也展示了国际科研合作的价值。\n\n模拟题：Should governments spend money on space exploration when there are urgent problems on Earth?\n\n思路：承认公共资金有限，但长期科学研究能创造知识和技术价值。用欧日合作、八年航行作为例子。\n\n表达：push the boundaries of knowledge（拓展知识边界） · a long-term investment in science（对科学的长期投资）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury",
-    "note": ""
+    "note": "",
+    "courseTopics": []
   },
   {
     "id": "2026-11-21-briefing:美国时隔 26 年失去麻疹消除认证",
@@ -199,7 +249,10 @@
     "title": "美国时隔 26 年失去麻疹消除认证",
     "text": "美国、墨西哥和玻利维亚因麻疹持续传播超过一年，失去麻疹消除认证。这不意味着麻疹曾经完全不存在，而是说明本土持续传播已经重新出现。\n\nThe Pan American Health Organization confirmed that sustained measles transmission（持续的麻疹传播）has returned to the United States, Mexico and Bolivia. The US had maintained its elimination status since 2000. Public health experts warn that gaps in vaccination coverage（疫苗接种覆盖率）can undermine（削弱）decades of progress against a highly contagious disease.\n\n为什么值得讨论：公共健康成果需要长期维护。PAHO 指出，截至 11 月 13 日，美洲地区 2026 年已报告超过 5.8 万例确诊病例。\n\n模拟题：Should vaccination be considered an individual choice or a collective responsibility?\n\n思路：尊重个人自主权很重要，但传染病也会影响无法接种的群体。讨论政策时可区分宣传教育、便利接种和强制措施。\n\n表达：protect vulnerable populations（保护脆弱群体） · take public health for granted（把公共健康成果视为理所当然）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Health"
+    ]
   },
   {
     "id": "2026-11-21-briefing:全球股市大跌：AI 热潮会不会成为泡沫？",
@@ -208,7 +261,11 @@
     "title": "全球股市大跌：AI 热潮会不会成为泡沫？",
     "text": "投资者担心 AI 相关企业估值过高，加上美国利率可能进一步上升，引发全球股市下跌。路透社报道，全球股市市值自 8 月以来缩水近 9 万亿美元。\n\nGlobal stock markets experienced a sharp sell-off（集中抛售）as investors grew concerned about excessive AI valuations（估值）and the possibility of further US interest-rate increases. Reuters reported that nearly $9 trillion in global market value had been wiped out since August. The downturn illustrates how expectations about future growth can influence financial markets long before the underlying technologies deliver profits.\n\n为什么值得讨论：技术很有前景，不代表所有相关投资都合理。应该区分技术本身的潜力和市场对其商业回报的预期。\n\n模拟题：Can excessive investment in new technology do more harm than good?\n\n思路：投资推动创新，但过度乐观可能造成资源浪费和市场波动。AI 投资热潮是一个很具体的例子。\n\n表达：live up to expectations（达到预期） · strike a balance between innovation and caution（在创新与谨慎之间取得平衡）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Technology",
+      "Change"
+    ]
   },
   {
     "id": "2026-11-21-briefing:中美据称同意：重大军事 AI 决策必须有人参与",
@@ -217,6 +274,9 @@
     "title": "中美据称同意：重大军事 AI 决策必须有人参与",
     "text": "美国财长表示，中美领导人同意重大军事 AI 决策应保留人类参与。但这属于美方官员披露的会谈成果，不能直接等同于双方已经签署了具有约束力的正式协议。\n\nUS Treasury Secretary Scott Bessent said that Donald Trump and Xi Jinping had agreed on the importance of keeping humans involved in military decisions involving artificial intelligence. The reported understanding highlights the need for human oversight（人工监督）when automated systems could have life-or-death consequences. However, no detailed verification or enforcement mechanism was announced.\n\n为什么值得讨论：即使国家在 AI 技术上竞争，也可能在共同安全风险上合作。\n\n模拟题：Should AI ever be allowed to make decisions that could put human lives at risk?\n\n思路：AI 可以辅助快速分析，但高风险决策应保留人类责任和监督。使用中美会谈的报道举例，同时指出正式规则仍待落实。\n\n表达：keep humans in the loop（确保人类参与决策） · establish clear safeguards（建立明确的安全保障措施）\n\n来自原聊天的学习摘要；本站迁移时未独立核验报道。",
     "sourceUrl": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
-    "note": ""
+    "note": "",
+    "courseTopics": [
+      "Technology"
+    ]
   }
 ]

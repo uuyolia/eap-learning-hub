@@ -27,7 +27,10 @@
         }
       ],
       "published": "11月19–20日 · AP / Reuters",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "People"
+      ]
     },
     {
       "topic": "科学 / 日本与欧洲",
@@ -52,7 +55,8 @@
         }
       ],
       "published": "11月20日 · ESA / The Guardian",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": []
     },
     {
       "topic": "公共健康",
@@ -73,7 +77,10 @@
         }
       ],
       "published": "11月17–20日 · PAHO / APHA",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Health"
+      ]
     },
     {
       "topic": "经济 / AI",
@@ -94,7 +101,11 @@
         }
       ],
       "published": "11月20日 · Reuters",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Technology",
+        "Change"
+      ]
     },
     {
       "topic": "中美关系 / AI 安全",
@@ -115,7 +126,10 @@
         }
       ],
       "published": "11月20日 · Reuters",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Technology"
+      ]
     }
   ],
   "speaking": {

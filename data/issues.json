@@ -4,31 +4,53 @@
     "date": "2026-11-21",
     "title": "第 3 期 · 聊天每日简报",
     "file": "data/2026-11-21-briefing.json",
-    "kind": "chat-briefing"
+    "kind": "chat-briefing",
+    "courseTopics": [
+      "People",
+      "Health",
+      "Technology",
+      "Change"
+    ]
   },
   {
     "id": "2026-11-21-science",
     "date": "2026-11-21",
     "title": "每日五篇 · 科学新闻标题阅读",
-    "file": "data/2026-11-21-science.json"
+    "file": "data/2026-11-21-science.json",
+    "courseTopics": []
   },
   {
     "id": "2026-11-20-briefing",
     "date": "2026-11-20",
     "title": "第 2 期 · 聊天每日简报",
     "file": "data/2026-11-20-briefing.json",
-    "kind": "chat-briefing"
+    "kind": "chat-briefing",
+    "courseTopics": [
+      "Environment",
+      "Technology",
+      "Change",
+      "Communication"
+    ]
   },
   {
     "id": "2026-11-20-science",
     "date": "2026-11-20",
     "title": "每日五篇 · 科学新闻标题阅读",
-    "file": "data/2026-11-20-science.json"
+    "file": "data/2026-11-20-science.json",
+    "courseTopics": []
   },
   {
     "id": "2026-11-19",
     "date": "2026-11-19",
     "title": "第 1 期 · 五个 EAP 主题",
-    "file": "data/2026-11-19.json"
+    "file": "data/2026-11-19.json",
+    "courseTopics": [
+      "Communication",
+      "Education",
+      "Technology",
+      "Environment",
+      "Jobs",
+      "Change"
+    ]
   }
 ]

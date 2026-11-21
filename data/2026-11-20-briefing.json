@@ -23,7 +23,11 @@
         }
       ],
       "published": "Reuters · 11 月 19 日",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Environment",
+        "Technology"
+      ]
     },
     {
       "topic": "中国与科技",
@@ -44,7 +48,11 @@
         }
       ],
       "published": "AP · 11 月 19 日",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Technology",
+        "Change"
+      ]
     },
     {
       "topic": "国际关系",
@@ -65,7 +73,10 @@
         }
       ],
       "published": "The Guardian · 11 月 19 日",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Communication"
+      ]
     },
     {
       "topic": "经济与 AI",
@@ -86,7 +97,11 @@
         }
       ],
       "published": "Reuters · 11 月 19 日",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Technology",
+        "Change"
+      ]
     },
     {
       "topic": "全球公平与气候",
@@ -107,7 +122,10 @@
         }
       ],
       "published": "Reuters · 11 月 19 日",
-      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。"
+      "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
+      "courseTopics": [
+        "Environment"
+      ]
     }
   ],
   "speaking": {
