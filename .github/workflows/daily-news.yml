@@ -25,7 +25,7 @@ jobs:
       - name: Prepare public website files
         run: |
           mkdir -p _site
-          cp index.html app.js app.css exam-core.js exam.js library-core.js library.js screens.js news-practice.js _site/
+          cp index.html app.js app.css exam-core.js exam.js library-core.js library.js screens.js news-practice.js learning-core.js learning.js _site/
           cp -r data assets _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v4
