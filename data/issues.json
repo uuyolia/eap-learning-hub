@@ -13,13 +13,6 @@
     ]
   },
   {
-    "id": "2026-11-21-science",
-    "date": "2026-11-21",
-    "title": "每日五篇 · 科学新闻标题阅读",
-    "file": "data/2026-11-21-science.json",
-    "courseTopics": []
-  },
-  {
     "id": "2026-11-20-briefing",
     "date": "2026-11-20",
     "title": "第 2 期 · 聊天每日简报",
@@ -31,13 +24,6 @@
       "Change",
       "Communication"
     ]
-  },
-  {
-    "id": "2026-11-20-science",
-    "date": "2026-11-20",
-    "title": "每日五篇 · 科学新闻标题阅读",
-    "file": "data/2026-11-20-science.json",
-    "courseTopics": []
   },
   {
     "id": "2026-11-19",
