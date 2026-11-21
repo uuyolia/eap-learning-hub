@@ -31,8 +31,8 @@ const groups=new Map();[...state.attempts].reverse().forEach(a=>{const k=JSON.st
 if(!groups.size)box.textContent='还没有保存的回答。开始一道题，录音后补全英文转写并保存；也可以先用文字练习。'}
 function draftKey(a){return JSON.stringify([a.topic,a.part,a.question])}
 function storeDraft(){if(active){state.drafts[draftKey(active)]=$('speakingNote').value;save()}}
-function useQuestion(a){storeDraft();if(!active&&$('speakingNote').value.trim()){state.drafts.previousFreeNote=$('speakingNote').value;save();$('draftRestore').hidden=false}
-active={topic:a.topic,part:a.part||2,question:a.question};state.active=active;save();showBriefingPractice(active.topic+' · Part '+active.part,active.question);
+function useQuestion(a){if((typeof recorder!=='undefined'&&recorder?.state==='recording')||(typeof recognition!=='undefined'&&recognition)){$('focusStatus').textContent='请先停止当前录音或转文字，再切换题目。';location.hash='speaking';return}storeDraft();if(!active&&$('speakingNote').value.trim()){state.drafts.previousFreeNote=$('speakingNote').value;save();$('draftRestore').hidden=false}
+$('focusStatus').textContent='当前题目已准备好；填写英文回答后再保存。';active={topic:a.topic,part:a.part||2,question:a.question};state.active=active;save();showBriefingPractice(active.topic+' · Part '+active.part,active.question);
 $('focusQuestion').textContent=active.question;$('focusLabel').textContent=active.topic+' · Part '+active.part;$('focusSave').disabled=false;$('focusListen').disabled=false;
 $('speakingNote').value=state.drafts[draftKey(active)]||'';$('speakingNote').dispatchEvent(new Event('input'));
 $('focusFeedback').innerHTML='<p>先直接回答，再补原因和例子。可使用下方录音及转文字；录音本身不会被自动分析。</p>';
