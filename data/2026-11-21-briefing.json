@@ -37,22 +37,17 @@
             "question": "What does accountability mean in an international context?",
             "zh": "国际事务中的“问责”是什么意思？",
             "directions": [
-              "先界定关键词，说明它包括什么、不包括什么。",
-              "选两到三个类别或例子，避免只给一个抽象名词。",
-              "用一句简单解释，连接到学生或日常生活。"
+              "从程序展开：问责还要求受影响的人能够提出申诉。",
+              "区别处罚和监督：公开报告与解释决定，也可以是问责的一部分。"
             ],
             "expressions": [
               {
-                "en": "By …, I mean …",
-                "zh": "我所说的……是指……"
+                "en": "Affected people should have a way to raise complaints.",
+                "zh": "受影响的人应有提出申诉的渠道。"
               },
               {
-                "en": "Some common examples include …",
-                "zh": "常见的例子包括……"
-              },
-              {
-                "en": "It is useful to distinguish … from …",
-                "zh": "把……与……区分开会有帮助。"
+                "en": "Accountability can involve explanation as well as punishment.",
+                "zh": "问责既可以涉及处罚，也可以涉及解释。"
               }
             ],
             "answerAngles": [
@@ -69,30 +64,27 @@
             ],
             "sampleAnswer": {
               "en": "Accountability means being expected to explain your decisions and accept responsibility for their consequences. In international affairs, this can involve governments explaining how they have treated vulnerable groups. It can also involve making things right, for example by compensating affected families. However, identifying responsibility and actually delivering support are separate steps.",
-              "zh": "重点不是单纯表达遗憾，而是查清谁作了决定、谁应解释后果。 再举赔偿、支持受影响家庭等补救；法律认定本身不保证落实。",
-              "kind": "original-practice"
-            }
+              "zh": "问责意味着需要解释自己的决定，并对这些决定造成的后果承担责任。在国际事务中，这可能包括政府解释自己如何对待弱势群体。问责也可能涉及弥补损害，例如赔偿受影响的家庭。不过，认定责任和真正提供支持是两个不同的步骤。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why can it be difficult to turn a court decision into practical change?",
             "zh": "为什么法院裁决难以直接转化为现实改变？",
             "directions": [
-              "从个人选择、资源条件或制度安排中选择两个不同原因。",
-              "解释“为什么会这样”，再说明可能产生什么结果。",
-              "考虑不同群体受到的影响；原因不要只停留在表面。"
+              "补充证据问题：确认受害者身份、损失与补偿资格可能耗时。",
+              "补充安全问题：工作人员如果无法安全进入现场，执行也会受阻。"
             ],
             "expressions": [
               {
-                "en": "One reason for this is that …",
-                "zh": "其中一个原因是……"
+                "en": "Even an agreed remedy may require difficult verification work.",
+                "zh": "即使各方认可补救方案，核实工作也可能很困难。"
               },
               {
-                "en": "This can lead to …, especially when …",
-                "zh": "这可能导致……，尤其当……"
-              },
-              {
-                "en": "Another factor worth considering is …",
-                "zh": "另一个值得考虑的因素是……"
+                "en": "Access and safety can affect implementation.",
+                "zh": "准入和安全状况可能影响执行。"
               }
             ],
             "answerAngles": [
@@ -109,30 +101,27 @@
             ],
             "sampleAnswer": {
               "en": "A court can make a legal decision, but carrying it out may depend on governments providing money, information or access. If they refuse to cooperate, progress can be slow. There are also practical barriers. A displaced family may need safe housing and medical care, which cannot be created simply by announcing a ruling.",
-              "zh": "法院能作出判断，但落实可能仍需要政府合作和资金。 即使有法律裁决，家庭仍需要住房、医疗和安全，不能立刻恢复。",
-              "kind": "original-practice"
-            }
+              "zh": "法院可以作出法律裁决，但落实裁决可能依赖政府提供资金、信息或准入。如果政府拒绝合作，进展可能很慢。还存在现实障碍。流离失所的家庭可能需要安全住房和医疗照护，而这些并不能仅靠宣布一项裁决就产生。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "What could international organisations do to support displaced people?",
             "zh": "国际组织可以怎样帮助流离失所者？",
             "directions": [
-              "分别考虑个人和学校、机构或政府能做的事。",
-              "说明谁来实施、需要哪些资源，以及能改善什么。",
-              "承认成本或局限，提出可行的第一步或替代方案。"
+              "从文件和身份展开：协助补办证件，可能帮助家庭获得服务。",
+              "从参与权展开：让流离失所者参与设计援助，而不只替他们作决定。"
             ],
             "expressions": [
               {
-                "en": "One practical step would be to …",
-                "zh": "一个实际可行的步骤是……"
+                "en": "Practical support may include replacing essential documents.",
+                "zh": "实际支持可能包括补办重要证件。"
               },
               {
-                "en": "This would help … by …",
-                "zh": "这可以通过……帮助……"
-              },
-              {
-                "en": "Although this may require …, it could …",
-                "zh": "尽管这可能需要……，它仍可能……"
+                "en": "People receiving assistance should have a voice in its design.",
+                "zh": "接受援助的人应能参与援助方案的设计。"
               }
             ],
             "answerAngles": [
@@ -149,30 +138,27 @@
             ],
             "sampleAnswer": {
               "en": "International organisations could first help provide safe accommodation, clean water and medical care. For example, a temporary centre could connect families with local health services. They could then support education and language learning so that people can rebuild their lives. Working with local communities would help avoid services being duplicated or unsuitable.",
-              "zh": "可建议提供安全住所、饮水、医疗，举临时安置点例子。 给孩子教育、成人语言和职业支持；与社区合作减少重复。",
-              "kind": "original-practice"
-            }
+              "zh": "国际组织可以首先帮助提供安全住所、清洁饮水和医疗照护。例如，临时安置中心可以帮助家庭联系当地医疗服务。之后，国际组织可以支持教育和语言学习，帮助人们重建生活。与当地社区合作有助于避免服务重复或不适合当地需要。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Can international courts make a difference if they cannot directly enforce their decisions?",
             "zh": "无法直接执行裁决的国际法院还能发挥作用吗？",
             "directions": [
-              "先给出清楚但有条件的立场，再用一个具体例子支持。",
-              "承认反方合理的一点，然后解释你的判断标准。",
-              "比较短期与长期，或说明在什么条件下结论会改变。"
+              "补充长期规范作用：即使立即效果有限，法律解释也可能影响之后的讨论。",
+              "承认代价：诉讼耗时且受害者不能仅靠象征性认可生活。"
             ],
             "expressions": [
               {
-                "en": "On balance, I would argue that …",
-                "zh": "权衡之后，我认为……"
+                "en": "A ruling may influence future expectations of acceptable conduct.",
+                "zh": "裁决可能影响未来对可接受行为的预期。"
               },
               {
-                "en": "Admittedly, …; however, …",
-                "zh": "诚然……；不过……"
-              },
-              {
-                "en": "I would be more likely to support this if …",
-                "zh": "如果……，我会更倾向于支持。"
+                "en": "Symbolic recognition cannot substitute for material support.",
+                "zh": "象征性的认可不能替代物质支持。"
               }
             ],
             "answerAngles": [
@@ -189,9 +175,11 @@
             ],
             "sampleAnswer": {
               "en": "Yes, I think international courts can still make a difference. A ruling can establish responsibility and give other organisations a clearer basis for demanding action. However, a ruling alone cannot provide a family with a safe home. Its practical value depends on cooperation, funding and follow-up, so legal action should be combined with humanitarian support.",
-              "zh": "明确回答有用，法律记录可能让其他机构更有依据地回应。 不把裁决说成问题已解决，建议接上资金和合作。",
-              "kind": "original-practice"
-            }
+              "zh": "能，我认为国际法院仍然可以发挥作用。一项裁决可以确认责任，并为其他组织要求采取行动提供更清楚的依据。不过，单靠裁决无法为家庭提供安全住所。它的实际价值取决于合作、资金和后续行动，因此法律行动应当与人道主义支持相结合。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -227,22 +215,17 @@
             "question": "What are some reasons countries invest in space research?",
             "zh": "国家投资太空研究有哪些原因？",
             "directions": [
-              "先界定关键词，说明它包括什么、不包括什么。",
-              "选两到三个类别或例子，避免只给一个抽象名词。",
-              "用一句简单解释，连接到学生或日常生活。"
+              "补充对地服务的角度：区分天体探索与天气观测等不同类型航天活动。",
+              "说明不同项目目的不同，不能把所有航天预算说成同一种投资。"
             ],
             "expressions": [
               {
-                "en": "By …, I mean …",
-                "zh": "我所说的……是指……"
+                "en": "Not all space programmes serve the same purpose.",
+                "zh": "并非所有航天项目都有相同目的。"
               },
               {
-                "en": "Some common examples include …",
-                "zh": "常见的例子包括……"
-              },
-              {
-                "en": "It is useful to distinguish … from …",
-                "zh": "把……与……区分开会有帮助。"
+                "en": "I would distinguish exploration from Earth-observation services.",
+                "zh": "我会区分探索活动与对地观测服务。"
               }
             ],
             "answerAngles": [
@@ -259,30 +242,27 @@
             ],
             "sampleAnswer": {
               "en": "One reason is to understand how planets formed and why their environments differ. Studying another planet can help scientists ask better questions about our own. Another reason is to develop scientific and engineering skills. Designing instruments for extreme conditions is demanding, although we should not assume that every mission will produce an immediate commercial benefit.",
-              "zh": "说行星研究帮助回答地球与其他行星如何形成；不要保证马上有产品。 举工程师设计极端条件仪器，强调训练价值而非已证实商业收益。",
-              "kind": "original-practice"
-            }
+              "zh": "一个原因是了解行星如何形成，以及它们的环境为什么不同。研究另一颗行星可以帮助科学家提出有关地球的更好问题。另一个原因是发展科学和工程技能。为极端条件设计仪器很有挑战性，不过我们不应认为每次任务都会立即带来商业收益。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why can international cooperation be valuable in scientific research?",
             "zh": "为什么科研中的国际合作有价值？",
             "directions": [
-              "从个人选择、资源条件或制度安排中选择两个不同原因。",
-              "解释“为什么会这样”，再说明可能产生什么结果。",
-              "考虑不同群体受到的影响；原因不要只停留在表面。"
+              "从连续性展开：多方长期合作有时可以分散单一机构中断的风险。",
+              "同时承认协调成本：语言、时间安排和管理规则可能拖慢项目。"
             ],
             "expressions": [
               {
-                "en": "One reason for this is that …",
-                "zh": "其中一个原因是……"
+                "en": "Partnerships can spread risk across institutions.",
+                "zh": "伙伴关系可以在机构之间分散风险。"
               },
               {
-                "en": "This can lead to …, especially when …",
-                "zh": "这可能导致……，尤其当……"
-              },
-              {
-                "en": "Another factor worth considering is …",
-                "zh": "另一个值得考虑的因素是……"
+                "en": "However, coordination itself requires time and resources.",
+                "zh": "不过，协调本身也需要时间和资源。"
               }
             ],
             "answerAngles": [
@@ -299,30 +279,27 @@
             ],
             "sampleAnswer": {
               "en": "Space research can require expensive equipment and specialised knowledge. Cooperation allows teams to share costs and contribute different instruments instead of each country having to do everything alone. It can also improve the checking of results because researchers from different institutions can examine the same data. However, partners need clear agreements about responsibilities and information sharing.",
-              "zh": "不同团队分别提供仪器和研究人员，减少各自承担全部成本。 不同研究者分析同一数据，指出还需清晰分工。",
-              "kind": "original-practice"
-            }
+              "zh": "太空研究可能需要昂贵的设备和专业知识。合作使各团队能够分担成本、提供不同仪器，而不必由每个国家独自完成全部工作。合作也可能改善对研究结果的核查，因为不同机构的研究人员可以分析同一组数据。不过，合作方需要就职责和信息共享达成清楚的约定。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could governments balance scientific research with urgent public needs?",
             "zh": "政府如何平衡科学研究与紧迫的民生需要？",
             "directions": [
-              "分别考虑个人和学校、机构或政府能做的事。",
-              "说明谁来实施、需要哪些资源，以及能改善什么。",
-              "承认成本或局限，提出可行的第一步或替代方案。"
+              "从公众参与展开：可邀请独立专家比较不同项目的公共价值。",
+              "从预算替代展开：可以缩小或延后项目，并非只能全额批准或取消。"
             ],
             "expressions": [
               {
-                "en": "One practical step would be to …",
-                "zh": "一个实际可行的步骤是……"
+                "en": "Independent review could make the trade-offs more visible.",
+                "zh": "独立审查可以让取舍更加清楚。"
               },
               {
-                "en": "This would help … by …",
-                "zh": "这可以通过……帮助……"
-              },
-              {
-                "en": "Although this may require …, it could …",
-                "zh": "尽管这可能需要……，它仍可能……"
+                "en": "A smaller project may be a reasonable compromise.",
+                "zh": "规模较小的项目可能是合理的折中。"
               }
             ],
             "answerAngles": [
@@ -339,30 +316,27 @@
             ],
             "sampleAnswer": {
               "en": "Governments should first protect essential services such as basic healthcare and education. Scientific research could then receive a stable but affordable budget, rather than competing with emergency spending every year. They could also review major projects at agreed stages and publish their costs and goals. This would improve accountability without expecting all research to make a profit immediately.",
-              "zh": "先保证医疗教育等基本预算，再决定可负担的科研投资。 用阶段报告审查成本与目标，不要求科研短期一定盈利。",
-              "kind": "original-practice"
-            }
+              "zh": "政府首先应保护基础医疗和教育等必要服务。随后，可以为科研提供稳定但负担得起的预算，而不是让它每年与紧急支出争夺资金。政府也可以在商定的阶段审查重大项目，并公布其成本和目标。这有助于加强问责，同时不要求所有研究都立即盈利。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should governments spend money on space exploration when there are urgent problems on Earth?",
             "zh": "地球上有紧迫问题时，政府是否仍应为太空探索投入资金？",
             "directions": [
-              "先给出清楚但有条件的立场，再用一个具体例子支持。",
-              "承认反方合理的一点，然后解释你的判断标准。",
-              "比较短期与长期，或说明在什么条件下结论会改变。"
+              "补充受益者问题：成果如果全部封闭，公众价值就更难判断。",
+              "提出共享条件：公开合适的数据和教育资源，但不承诺每次任务必有应用。"
             ],
             "expressions": [
               {
-                "en": "On balance, I would argue that …",
-                "zh": "权衡之后，我认为……"
+                "en": "Publicly funded research should explain how its findings will be shared.",
+                "zh": "公共资助的研究应说明如何分享研究成果。"
               },
               {
-                "en": "Admittedly, …; however, …",
-                "zh": "诚然……；不过……"
-              },
-              {
-                "en": "I would be more likely to support this if …",
-                "zh": "如果……，我会更倾向于支持。"
+                "en": "Open educational resources could broaden its value.",
+                "zh": "开放的教育资源可以扩大其价值。"
               }
             ],
             "answerAngles": [
@@ -379,9 +353,11 @@
             ],
             "sampleAnswer": {
               "en": "I would support some spending on space exploration because scientific knowledge and skills take time to develop. Waiting until every problem on Earth is solved would mean postponing research indefinitely. However, the amount matters. If a government cannot fund basic healthcare, an unlimited space budget would be difficult to justify. I would support a balanced budget with transparent priorities.",
-              "zh": "直接回答可以花一部分，理由是培养知识不能等所有问题解决。 承认财政有限，基本医疗缺口大时不支持无限扩张。",
-              "kind": "original-practice"
-            }
+              "zh": "我支持为太空探索投入一部分资金，因为科学知识和技能的发展需要时间。如果等到地球上每个问题都解决后再投入，就意味着无限期推迟研究。不过，投入多少很重要。如果政府连基础医疗都无力承担，无限制的太空预算就很难合理化。我支持优先事项透明、兼顾各方面的预算。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -415,22 +391,17 @@
             "question": "What does public health involve?",
             "zh": "公共健康包括什么？",
             "directions": [
-              "先界定关键词，说明它包括什么、不包括什么。",
-              "选两到三个类别或例子，避免只给一个抽象名词。",
-              "用一句简单解释，连接到学生或日常生活。"
+              "从环境条件举例：食品卫生检查、空气质量和工作场所安全也属于公共健康。",
+              "补充监测与沟通：发现风险并及时说明，和提供治疗不是同一件事。"
             ],
             "expressions": [
               {
-                "en": "By …, I mean …",
-                "zh": "我所说的……是指……"
+                "en": "Food safety and air quality are also public-health concerns.",
+                "zh": "食品安全和空气质量也属于公共健康问题。"
               },
               {
-                "en": "Some common examples include …",
-                "zh": "常见的例子包括……"
-              },
-              {
-                "en": "It is useful to distinguish … from …",
-                "zh": "把……与……区分开会有帮助。"
+                "en": "Monitoring risks can support earlier responses.",
+                "zh": "监测风险可以支持更早作出应对。"
               }
             ],
             "answerAngles": [
@@ -447,30 +418,27 @@
             ],
             "sampleAnswer": {
               "en": "Public health includes preventing illness across a community, for example through vaccination programmes and clean drinking water. The aim is to reduce risks before people become seriously ill. It also includes making reliable advice and services accessible. A health campaign is less useful if people cannot understand the information or reach a clinic.",
-              "zh": "举疫苗、饮水卫生，说明目标是减少疾病发生。 举易懂的信息和便捷诊所，区别仅仅发通知。",
-              "kind": "original-practice"
-            }
+              "zh": "公共健康包括预防整个社区中的疾病，例如通过疫苗接种计划和清洁饮水来预防。目标是在人们重病之前就降低风险。公共健康也包括让可靠建议和服务易于获取。如果人们看不懂信息或无法到达诊所，健康宣传活动的作用就会较小。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why might people hesitate to follow public health advice?",
             "zh": "人们为什么可能不愿遵循公共健康建议？",
             "directions": [
-              "从个人选择、资源条件或制度安排中选择两个不同原因。",
-              "解释“为什么会这样”，再说明可能产生什么结果。",
-              "考虑不同群体受到的影响；原因不要只停留在表面。"
+              "换到表达方式：过于复杂的术语可能使建议难以理解。",
+              "补充历史经历：过去负面的服务体验也可能影响信任。"
             ],
             "expressions": [
               {
-                "en": "One reason for this is that …",
-                "zh": "其中一个原因是……"
+                "en": "Advice can fail when it is presented in inaccessible language.",
+                "zh": "建议如果用难以理解的语言表达，就可能失效。"
               },
               {
-                "en": "This can lead to …, especially when …",
-                "zh": "这可能导致……，尤其当……"
-              },
-              {
-                "en": "Another factor worth considering is …",
-                "zh": "另一个值得考虑的因素是……"
+                "en": "Trust may be shaped by earlier experiences with services.",
+                "zh": "信任可能受到先前使用服务经历的影响。"
               }
             ],
             "answerAngles": [
@@ -487,30 +455,27 @@
             ],
             "sampleAnswer": {
               "en": "Some people may hesitate because they receive conflicting information or worry about side effects. Simply telling them that they are wrong may make them less willing to listen. Other people may agree with the advice but face practical barriers, such as transport costs or difficulty taking time off work. Convenient appointments could address those barriers.",
-              "zh": "人可能看到矛盾的信息，担心副作用；先承认担忧。 请假、交通和时间也可能阻止就医，提出便利服务。",
-              "kind": "original-practice"
-            }
+              "zh": "有些人可能因收到相互矛盾的信息，或担心副作用而犹豫。仅仅告诉他们错了，可能会使他们更不愿意倾听。另一些人可能赞同建议，却面临交通费用或难以请假等现实障碍。便捷的预约安排可以帮助解决这些障碍。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could schools help students make better-informed health decisions?",
             "zh": "学校如何帮助学生作出更知情的健康决定？",
             "directions": [
-              "分别考虑个人和学校、机构或政府能做的事。",
-              "说明谁来实施、需要哪些资源，以及能改善什么。",
-              "承认成本或局限，提出可行的第一步或替代方案。"
+              "从校园服务设计展开：把服务地点、时间和预约流程说清楚。",
+              "避免公开点名：学生询问健康问题时应保护隐私。"
             ],
             "expressions": [
               {
-                "en": "One practical step would be to …",
-                "zh": "一个实际可行的步骤是……"
+                "en": "Clear appointment information can remove practical confusion.",
+                "zh": "清楚的预约信息可以减少实际操作中的困惑。"
               },
               {
-                "en": "This would help … by …",
-                "zh": "这可以通过……帮助……"
-              },
-              {
-                "en": "Although this may require …, it could …",
-                "zh": "尽管这可能需要……，它仍可能……"
+                "en": "Students should be able to ask questions privately.",
+                "zh": "学生应能私下提出问题。"
               }
             ],
             "answerAngles": [
@@ -527,30 +492,27 @@
             ],
             "sampleAnswer": {
               "en": "Schools could teach students how to compare health information by checking the source, date and relevant expertise. This would be more useful than asking them to memorise a slogan. They could also invite qualified health professionals to answer anonymous questions. Students may feel more comfortable asking about confusing claims when they are not judged in front of classmates.",
-              "zh": "学生比较来源、作者资质、时间，别只看短视频标题。 邀请专业人士回答匿名问题，相关个人医疗建议仍问专业人员。",
-              "kind": "original-practice"
-            }
+              "zh": "学校可以教学生通过核查来源、日期和相关专业背景来比较健康信息。这比要求他们记住一句口号更有用。学校也可以邀请合格的卫生专业人员回答匿名问题。如果不会在同学面前受到评判，学生可能会更自在地询问令人困惑的说法。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should vaccination be considered an individual choice or a collective responsibility?",
             "zh": "接种疫苗应被视为个人选择，还是集体责任？",
             "directions": [
-              "先给出清楚但有条件的立场，再用一个具体例子支持。",
-              "承认反方合理的一点，然后解释你的判断标准。",
-              "比较短期与长期，或说明在什么条件下结论会改变。"
+              "补充比例原则：限制个人选择的措施应解释目的，并定期评估。",
+              "区别道德指责与服务改善：不能把所有未接种者都假定为漠视他人。"
             ],
             "expressions": [
               {
-                "en": "On balance, I would argue that …",
-                "zh": "权衡之后，我认为……"
+                "en": "Any restriction should be proportionate to the risk.",
+                "zh": "任何限制都应与风险相称。"
               },
               {
-                "en": "Admittedly, …; however, …",
-                "zh": "诚然……；不过……"
-              },
-              {
-                "en": "I would be more likely to support this if …",
-                "zh": "如果……，我会更倾向于支持。"
+                "en": "A person's circumstances should be considered before judging their choice.",
+                "zh": "在评判一个人的选择之前，应考虑其具体情况。"
               }
             ],
             "answerAngles": [
@@ -567,9 +529,11 @@
             ],
             "sampleAnswer": {
               "en": "I see vaccination as a collective responsibility as well as a personal decision. Infectious diseases can spread, so one person's choice may affect people who cannot receive certain vaccines. However, policies should allow appropriate medical exceptions and provide clear explanations. Improving trust and access matters too; responsibility should not mean ignoring people's individual circumstances.",
-              "zh": "个人选择可能影响无法接种的脆弱人群，表明为何不只是自己。 不一概强制，医疗例外由专业人员判断、服务要方便。",
-              "kind": "original-practice"
-            }
+              "zh": "我认为接种疫苗既是个人决定，也是一项集体责任。传染病可能传播，因此一个人的选择可能影响无法接种某些疫苗的人。不过，政策应允许适当的医疗例外，并提供清楚解释。增进信任和改善可及性也很重要；责任不应意味着忽视个人情况。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -604,22 +568,17 @@
             "question": "What are some signs of excessive enthusiasm for a new technology?",
             "zh": "对新技术过度热情可能有哪些表现？",
             "directions": [
-              "先界定关键词，说明它包括什么、不包括什么。",
-              "选两到三个类别或例子，避免只给一个抽象名词。",
-              "用一句简单解释，连接到学生或日常生活。"
+              "从信息透明度找信号：宣传只报亮眼数字，却不说明成本与风险。",
+              "从产品证据找信号：演示效果和可持续运营之间可能存在距离。"
             ],
             "expressions": [
               {
-                "en": "By …, I mean …",
-                "zh": "我所说的……是指……"
+                "en": "Selective reporting can make a project look stronger than it is.",
+                "zh": "选择性披露可以让项目显得比实际更强。"
               },
               {
-                "en": "Some common examples include …",
-                "zh": "常见的例子包括……"
-              },
-              {
-                "en": "It is useful to distinguish … from …",
-                "zh": "把……与……区分开会有帮助。"
+                "en": "A successful demonstration is not the same as a sustainable business.",
+                "zh": "成功的演示不等于可持续经营的企业。"
               }
             ],
             "answerAngles": [
@@ -636,30 +595,27 @@
             ],
             "sampleAnswer": {
               "en": "One possible sign is that people discuss rising prices much more than what a business actually produces. Excitement may be running ahead of evidence about useful products or customers. Another sign is a fear of missing out: someone might follow friends or online influencers without understanding the risks. These are reasons for caution, not proof that every new technology is worthless.",
-              "zh": "举公司还未展示收入，宣传只谈价格必涨；这是可能信号非投资判断。 说同伴和社交平台热度影响判断，不声称价格必跌。",
-              "kind": "original-practice"
-            }
+              "zh": "一个可能的信号是，人们谈论价格上涨远多于谈论企业真正生产什么。热情可能超出了有关实用产品或客户的证据。另一个信号是害怕错过机会：有人可能在不了解风险的情况下跟随朋友或网络博主。这些是需要谨慎的理由，并不能证明每项新技术都毫无价值。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why can expectations influence investment decisions?",
             "zh": "为什么预期会影响投资决定？",
             "directions": [
-              "从个人选择、资源条件或制度安排中选择两个不同原因。",
-              "解释“为什么会这样”，再说明可能产生什么结果。",
-              "考虑不同群体受到的影响；原因不要只停留在表面。"
+              "换到融资机制：企业可能因同行融资成功而改变自己的扩张计划。",
+              "补充纠偏：新的证据出现后，预期也可能迅速改变。"
             ],
             "expressions": [
               {
-                "en": "One reason for this is that …",
-                "zh": "其中一个原因是……"
+                "en": "Expectations can influence companies as well as individual investors.",
+                "zh": "预期既可以影响个人投资者，也可以影响企业。"
               },
               {
-                "en": "This can lead to …, especially when …",
-                "zh": "这可能导致……，尤其当……"
-              },
-              {
-                "en": "Another factor worth considering is …",
-                "zh": "另一个值得考虑的因素是……"
+                "en": "New evidence can change the narrative quickly.",
+                "zh": "新证据可以迅速改变现有叙事。"
               }
             ],
             "answerAngles": [
@@ -676,30 +632,27 @@
             ],
             "sampleAnswer": {
               "en": "Investors often make decisions based on what they expect a company to achieve later. If they expect strong demand, they may be willing to support a business before it becomes profitable. Those expectations can spread through advertising and social media. A convincing story may attract attention, but expected success should be distinguished from results that have already been demonstrated.",
-              "zh": "投资者可能提前支持未来需求，但未来表现不确定。 相同乐观故事扩散，区别期待与已有成果。",
-              "kind": "original-practice"
-            }
+              "zh": "投资者常常根据自己预期企业未来能取得什么成果来作决定。如果预期需求强劲，他们可能愿意在企业盈利之前就支持它。这些预期可能通过广告和社交媒体传播。一个有说服力的故事可以吸引注意，但预期成功应与已经证实的成果区分开。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could young people become more critical of financial information online?",
             "zh": "年轻人如何更批判地看待网上的金融信息？",
             "directions": [
-              "分别考虑个人和学校、机构或政府能做的事。",
-              "说明谁来实施、需要哪些资源，以及能改善什么。",
-              "承认成本或局限，提出可行的第一步或替代方案。"
+              "从算法推荐展开：重复看到同一观点，并不等于有多份独立证据。",
+              "给具体核查动作：追溯原始报告，而不是只转发截图。"
             ],
             "expressions": [
               {
-                "en": "One practical step would be to …",
-                "zh": "一个实际可行的步骤是……"
+                "en": "Repeated exposure does not make a claim independently verified.",
+                "zh": "反复看到某个说法，并不意味着它已获独立核实。"
               },
               {
-                "en": "This would help … by …",
-                "zh": "这可以通过……帮助……"
-              },
-              {
-                "en": "Although this may require …, it could …",
-                "zh": "尽管这可能需要……，它仍可能……"
+                "en": "I would trace a screenshot back to its original source.",
+                "zh": "我会追溯截图的原始来源。"
               }
             ],
             "answerAngles": [
@@ -716,30 +669,27 @@
             ],
             "sampleAnswer": {
               "en": "Young people could start by asking who published the information and whether that person benefits from promoting a product. They should also distinguish factual reporting from advertising. Universities could use short classroom activities where students compare two reports about the same claim. The aim would be to assess evidence and uncertainty, rather than tell students what to buy.",
-              "zh": "举检查谁发布、是否有商业利益、信息何时更新。 学校可让学生对比同一主张的来源和证据，避免给买卖建议。",
-              "kind": "original-practice"
-            }
+              "zh": "年轻人可以先问是谁发布信息，以及这个人是否会从推广产品中获利。他们也应区分事实报道与广告。大学可以通过简短的课堂活动，让学生比较针对同一说法的两篇报道。目标是评估证据和不确定性，而不是告诉学生买什么。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Can excessive investment in new technology do more harm than good?",
             "zh": "对新科技的过度投资是否可能弊大于利？",
             "directions": [
-              "先给出清楚但有条件的立场，再用一个具体例子支持。",
-              "承认反方合理的一点，然后解释你的判断标准。",
-              "比较短期与长期，或说明在什么条件下结论会改变。"
+              "补充创新生态：过热退潮后，声誉良好的小项目也可能难以融资。",
+              "讨论可逆性：小规模试点比一次性投入全部资源更易纠错。"
             ],
             "expressions": [
               {
-                "en": "On balance, I would argue that …",
-                "zh": "权衡之后，我认为……"
+                "en": "A sudden loss of confidence can affect useful projects too.",
+                "zh": "信心突然丧失也可能影响有用的项目。"
               },
               {
-                "en": "Admittedly, …; however, …",
-                "zh": "诚然……；不过……"
-              },
-              {
-                "en": "I would be more likely to support this if …",
-                "zh": "如果……，我会更倾向于支持。"
+                "en": "Smaller trials can make mistakes less costly.",
+                "zh": "较小规模的试点可以降低犯错成本。"
               }
             ],
             "answerAngles": [
@@ -756,9 +706,11 @@
             ],
             "sampleAnswer": {
               "en": "Yes, excessive investment can cause harm if money and skilled workers flow into projects with little real demand. Other useful services may then struggle to attract resources. That does not mean technology investment is generally harmful. It can support innovation, but projects should be tested against realistic demand and reviewed in stages rather than expanded simply because a field is fashionable.",
-              "zh": "明确过度投资可能把资源投到缺乏需求项目，其他需要被挤出。 不是说科技投资没用，提出根据实际需求、分阶段检验。",
-              "kind": "original-practice"
-            }
+              "zh": "会，如果资金和技术人才流向缺少真实需求的项目，过度投资就可能造成伤害。其他有用的服务随后可能难以吸引资源。这并不意味着科技投资普遍有害。它可以支持创新，但项目应根据现实需求接受检验，并分阶段审查，而不是仅仅因为某个领域热门就扩大投入。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -792,22 +744,17 @@
             "question": "What does keeping humans in the loop mean?",
             "zh": "“保持人类参与决策”是什么意思？",
             "directions": [
-              "先界定关键词，说明它包括什么、不包括什么。",
-              "选两到三个类别或例子，避免只给一个抽象名词。",
-              "用一句简单解释，连接到学生或日常生活。"
+              "从权限设置定义参与：人工操作者必须能暂停流程，而不只查看结果。",
+              "补充复核质量：如果没有足够时间，名义上的人工审核意义有限。"
             ],
             "expressions": [
               {
-                "en": "By …, I mean …",
-                "zh": "我所说的……是指……"
+                "en": "A reviewer needs the practical ability to stop the process.",
+                "zh": "复核者需要真正具备停止流程的能力。"
               },
               {
-                "en": "Some common examples include …",
-                "zh": "常见的例子包括……"
-              },
-              {
-                "en": "It is useful to distinguish … from …",
-                "zh": "把……与……区分开会有帮助。"
+                "en": "Approval under extreme time pressure may not be meaningful review.",
+                "zh": "在极端时间压力下批准，未必算实质性复核。"
               }
             ],
             "answerAngles": [
@@ -824,30 +771,27 @@
             ],
             "sampleAnswer": {
               "en": "Keeping humans in the loop means that a person can understand, question and reject an AI recommendation before an important action is taken. It should involve real decision-making power. For example, a doctor could review an AI suggestion alongside a patient's medical history instead of accepting it automatically. The same principle of meaningful review can apply to other high-risk settings.",
-              "zh": "解释人工参与是理解建议并有权否决，不只是点批准。 用医生检查建议、结合病人情况的假设类比，不声称真实政策。",
-              "kind": "original-practice"
-            }
+              "zh": "保持人类参与决策意味着，在采取重要行动之前，有人能够理解、质疑并否决 AI 的建议。这应当包含真正的决策权。例如，医生可以结合患者病史审查 AI 的建议，而不是自动接受它。同样的实质性复核原则也可用于其他高风险场景。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why is accountability important when AI supports high-risk decisions?",
             "zh": "AI 辅助高风险决策时，为什么问责很重要？",
             "directions": [
-              "从个人选择、资源条件或制度安排中选择两个不同原因。",
-              "解释“为什么会这样”，再说明可能产生什么结果。",
-              "考虑不同群体受到的影响；原因不要只停留在表面。"
+              "从申诉权展开：受影响的人应能要求解释并纠正错误。",
+              "从组织学习展开：明确责任有助于事故调查和改进流程。"
             ],
             "expressions": [
               {
-                "en": "One reason for this is that …",
-                "zh": "其中一个原因是……"
+                "en": "People need a route to challenge an incorrect decision.",
+                "zh": "人们需要质疑错误决定的渠道。"
               },
               {
-                "en": "This can lead to …, especially when …",
-                "zh": "这可能导致……，尤其当……"
-              },
-              {
-                "en": "Another factor worth considering is …",
-                "zh": "另一个值得考虑的因素是……"
+                "en": "Responsibility also supports learning after a failure.",
+                "zh": "责任归属也有助于在失败之后学习改进。"
               }
             ],
             "answerAngles": [
@@ -864,30 +808,27 @@
             ],
             "sampleAnswer": {
               "en": "Accountability matters because a person affected by a decision needs to know who can explain or review it. An organisation should not simply blame the computer when something goes wrong. Clear responsibilities may also encourage better checks beforehand. For example, one team could verify the information while an authorised person decides whether acting on it is justified.",
-              "zh": "伤害发生后必须知道谁批准、谁检查系统。 谁验证输入、谁批准、谁纠错应事先明确。",
-              "kind": "original-practice"
-            }
+              "zh": "问责很重要，因为受到决定影响的人需要知道谁能够解释或复核该决定。出现问题时，机构不应只把责任推给电脑。清楚划分职责也可能促使人们提前做好核查。例如，一个团队可以验证信息，而由有权限的人决定据此采取行动是否合理。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "What safeguards could organisations introduce before using AI?",
             "zh": "机构使用 AI 前可以引入哪些保障措施？",
             "directions": [
-              "分别考虑个人和学校、机构或政府能做的事。",
-              "说明谁来实施、需要哪些资源，以及能改善什么。",
-              "承认成本或局限，提出可行的第一步或替代方案。"
+              "补充权限与范围：先限制系统能做什么，不给超出任务需要的控制权。",
+              "补充独立检查：由非开发团队的人审查盲点。"
             ],
             "expressions": [
               {
-                "en": "One practical step would be to …",
-                "zh": "一个实际可行的步骤是……"
+                "en": "The system should have only the authority its task requires.",
+                "zh": "系统应只拥有完成任务所需的权限。"
               },
               {
-                "en": "This would help … by …",
-                "zh": "这可以通过……帮助……"
-              },
-              {
-                "en": "Although this may require …, it could …",
-                "zh": "尽管这可能需要……，它仍可能……"
+                "en": "An independent review may reveal overlooked risks.",
+                "zh": "独立审查可能揭示被忽略的风险。"
               }
             ],
             "answerAngles": [
@@ -904,30 +845,27 @@
             ],
             "sampleAnswer": {
               "en": "Organisations could test an AI system under unusual conditions and with incomplete information before using it in practice. If the results are uncertain, the system should not automatically trigger a high-risk action. They could also require trained human review, keep records of the reasons for decisions and provide a way to pause the system. These are safeguards I would recommend, not guarantees that errors will disappear.",
-              "zh": "用不完整数据和意外场景做测试；结果不清楚先暂停。 建议有合格的人复核、留下理由、可中止。",
-              "kind": "original-practice"
-            }
+              "zh": "机构可以在实际使用 AI 系统之前，测试它在异常情形和信息不完整时的表现。如果结果不确定，系统就不应自动触发高风险行动。机构也可以要求受过训练的人进行复核，记录作决定的理由，并提供暂停系统的方式。这些是我建议的保障措施，并不保证错误会消失。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should AI ever be allowed to make decisions that could put human lives at risk?",
             "zh": "是否可以让 AI 作出可能危及人类生命的决定？",
             "directions": [
-              "先给出清楚但有条件的立场，再用一个具体例子支持。",
-              "承认反方合理的一点，然后解释你的判断标准。",
-              "比较短期与长期，或说明在什么条件下结论会改变。"
+              "补充人也会出错：比较人机组合如何互相检查，而不是假定人工完美。",
+              "可区分紧急警报与不可逆行动，后者应要求更强的保障。"
             ],
             "expressions": [
               {
-                "en": "On balance, I would argue that …",
-                "zh": "权衡之后，我认为……"
+                "en": "Human judgement is fallible too, so checks should work in both directions.",
+                "zh": "人类判断也会出错，因此核查应当是双向的。"
               },
               {
-                "en": "Admittedly, …; however, …",
-                "zh": "诚然……；不过……"
-              },
-              {
-                "en": "I would be more likely to support this if …",
-                "zh": "如果……，我会更倾向于支持。"
+                "en": "The less reversible the action, the stronger the safeguards should be.",
+                "zh": "行动越难撤回，保障措施就应越严格。"
               }
             ],
             "answerAngles": [
@@ -944,9 +882,11 @@
             ],
             "sampleAnswer": {
               "en": "I do not think AI should independently make decisions that could put human lives at risk. It may analyse information quickly, but speed does not remove the need for judgement and accountability. AI could still identify possible dangers and present options. However, the responsible person must have enough time, information and authority to challenge its recommendation; otherwise human involvement would be only symbolic.",
-              "zh": "明确把生命风险与简单推荐区别；速度不能替代责任。 举警示风险供人检查，最终人须有时间和能力复核。",
-              "kind": "original-practice"
-            }
+              "zh": "我不认为应让 AI 独立作出可能危及人类生命的决定。它也许能快速分析信息，但速度并不能免除对判断和问责的需要。AI 仍可以识别潜在危险并提供选项。不过，负责的人必须有足够的时间、信息和权限来质疑它的建议；否则，人类参与就只是象征性的。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }

@@ -3,7 +3,7 @@
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function readJSON(key,fallback){try{return JSON.parse(safeGet(key))??fallback}catch{return fallback}}
-function persist(key,value){try{localStorage.setItem(key,JSON.stringify(value));return true}catch{$('storageStatus').textContent='浏览器无法保存记录，请导出备份；关闭页面会丢失本次进度。';return false}}
+function persist(key,value){try{EAPStorage.setItem(key,JSON.stringify(value));return true}catch{$('storageStatus').textContent='浏览器无法保存记录，请导出备份；关闭页面会丢失本次进度。';return false}}
 const DAY=86400000, INTERVALS=[1,2,4,7,15,30];
 let progress=Object.assign(Object.create(null),readJSON('eap_review_v3',{})), reviewMode='due', queue=[], position=0, face=false;
 function wordState(term){return Object.prototype.hasOwnProperty.call(progress,term)?progress[term]:{status:'new',step:0,due:0}}
@@ -53,6 +53,6 @@ $('textFeedback').onclick=()=>{let t=$('speakingNote').value.trim(),words=t.matc
 function downloadJSON(data,name){let url=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));let a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
 exportProgress=function(){downloadJSON({version:3,review:progress,cases,saved:readJSON('eap_saved_v2',[]),note:$('speakingNote').value},'eap-progress.json')};
 $('importProgress').onchange=async e=>{try{const f=e.target.files[0];if(!f)return;const d=JSON.parse(await f.text());if(d.version!==3||!d.review||!Array.isArray(d.cases)||typeof d.note!=='string'||!Array.isArray(d.saved))throw Error();for(const [term,s] of Object.entries(d.review))if(!VOCAB.some(w=>w.term===term)||!['new','learning','known'].includes(s.status)||!Number.isInteger(s.step)||s.step<0||s.step>5||(s.status==='learning'&&!Number.isFinite(s.due)))throw Error();if(d.cases.some(c=>typeof c.id!=='string'||typeof c.title!=='string'||typeof c.topic!=='string'||typeof c.text!=='string'))throw Error();progress=Object.assign(Object.create(null),progress,d.review);cases=[...new Map([...cases,...d.cases].map(c=>[c.id,c])).values()];persist('eap_review_v3',progress);persist('eap_cases_v3',cases);persist('eap_saved_v2',[...new Set([...readJSON('eap_saved_v2',[]),...d.saved.filter(x=>typeof x==='string')])]);if(d.note){$('speakingNote').value=[$('speakingNote').value,d.note].filter(Boolean).filter((x,i,a)=>a.indexOf(x)===i).join('\n\n');safeSet('eap_note_v2',$('speakingNote').value)}syncSaved();refreshWords();buildQueue();drawCases();$('storageStatus').textContent='备份已合并。'}catch{$('storageStatus').textContent='导入失败，请选择本站导出的完整 v3 JSON 备份。'}e.target.value=''};
-try{const probe='eap_probe';localStorage.setItem(probe,'1');localStorage.removeItem(probe)}catch{$('storageStatus').textContent='本地保存不可用，请及时导出备份。'}
+try{const probe='eap_probe';EAPStorage.setItem(probe,'1');EAPStorage.removeItem(probe)}catch{$('storageStatus').textContent='本地保存不可用，请及时导出备份。'}
 
 function filterCourseArchives(){const value=document.getElementById("newsCourseFilter").value;document.querySelectorAll("#archiveList button").forEach(b=>{b.hidden=value!=="all"&&!b.dataset.courseTopics.split(",").includes(value)})}document.getElementById("newsCourseFilter").onchange=filterCourseArchives;

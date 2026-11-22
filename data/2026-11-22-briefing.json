@@ -34,18 +34,17 @@
             "question": "What can children lose when their education is interrupted?",
             "zh": "学习中断会让儿童失去什么？",
             "directions": [
-              "落下阅读数学基础，之后返校更难，也影响长期就业机会。",
-              "学校也提供规律生活和同伴联系；不把所有学校说成都提供安全保障。",
-              "先说明概念再举两个对应的例子。"
+              "还可从语言与归属感展开：转入新学校的孩子可能难以理解授课语言。",
+              "说明这影响的不只是成绩，也包括参与课堂和交朋友的机会。"
             ],
             "expressions": [
               {
-                "en": "Children may miss basic reading and maths skills, making it harder to rejoin classes later.",
-                "zh": "落下阅读数学基础，之后返校更难，也影响长期就业机会。"
+                "en": "Interrupted schooling can make it harder to join a new learning community.",
+                "zh": "学习中断会使融入新的学习群体更加困难。"
               },
               {
-                "en": "They may also lose a daily routine and contact with classmates.",
-                "zh": "学校也提供规律生活和同伴联系；不把所有学校说成都提供安全保障。"
+                "en": "Language support may matter as much as access to a classroom.",
+                "zh": "语言支持可能和获得教室同样重要。"
               }
             ],
             "answerAngles": [
@@ -62,26 +61,27 @@
             ],
             "sampleAnswer": {
               "en": "Children may miss basic reading and maths skills, making it harder to rejoin classes later. A long interruption can also limit their future training and employment opportunities. They may also lose a daily routine and contact with classmates. In a crisis, a suitable learning space can offer structure as well as lessons.",
-              "zh": "落下阅读数学基础，之后返校更难，也影响长期就业机会。 学校也提供规律生活和同伴联系；不把所有学校说成都提供安全保障。",
-              "kind": "original-practice"
-            }
+              "zh": "儿童可能错过基础阅读和数学技能的学习，使之后重返课堂更加困难。长期中断学习也可能限制他们未来接受培训和就业的机会。他们也可能失去日常作息和与同学的联系。危机期间，合适的学习空间不仅能提供课程，也能提供生活秩序。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why might emergency education funding need to be flexible?",
             "zh": "紧急教育资金为什么需要灵活使用？",
             "directions": [
-              "人可能搬离原社区，原有教室方案未必继续适用。",
-              "预留资金可及时转向临时课堂，仍须监督支出。",
-              "说明原因如何产生结果，不把相关性直接说成因果。"
+              "从地方差异展开：城市临时课堂和偏远地区可能需要不同形式的支持。",
+              "从时间安排展开：学年变化或家庭迁移后，原资金用途可能需要调整。"
             ],
             "expressions": [
               {
-                "en": "Children's needs can change quickly during a crisis.",
-                "zh": "人可能搬离原社区，原有教室方案未必继续适用。"
+                "en": "A uniform funding rule may not fit every location.",
+                "zh": "统一的资金规则未必适合每个地点。"
               },
               {
-                "en": "Keeping some resources available for future disruptions could help local organisations respond faster.",
-                "zh": "预留资金可及时转向临时课堂，仍须监督支出。"
+                "en": "Flexibility can help services follow children when families move.",
+                "zh": "灵活性可以帮助服务随着家庭迁移继续覆盖儿童。"
               }
             ],
             "answerAngles": [
@@ -98,26 +98,27 @@
             ],
             "sampleAnswer": {
               "en": "Children's needs can change quickly during a crisis. If families move to a new area, funding tied to one building may no longer help them access lessons. Keeping some resources available for future disruptions could help local organisations respond faster. However, flexibility should come with clear records of how the money is used.",
-              "zh": "人可能搬离原社区，原有教室方案未必继续适用。 预留资金可及时转向临时课堂，仍须监督支出。",
-              "kind": "original-practice"
-            }
+              "zh": "危机期间，儿童的需要可能迅速变化。如果家庭搬到新地区，限定用于某一栋建筑的资金可能不再能帮助他们上课。留出部分资源应对未来的中断，可以帮助当地组织更快反应。不过，灵活使用资金也应配合清楚的支出记录。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could aid organisations help displaced children keep learning?",
             "zh": "援助机构如何帮助流离失所的儿童继续学习？",
             "directions": [
-              "可建议安全临时教室、借用社区空间和补课。",
-              "教材语言、残障需要和交通也要考虑；与当地教师合作。",
-              "说明谁实施、怎样实施以及一个现实限制。"
+              "补充家庭障碍：家长可能不清楚如何登记入学，需要易懂的指引。",
+              "补充教师支持：向本地教师提供教材和培训，避免只投入建筑。"
             ],
             "expressions": [
               {
-                "en": "Aid organisations could provide suitable temporary classrooms and catch-up lessons.",
-                "zh": "可建议安全临时教室、借用社区空间和补课。"
+                "en": "Families may need help navigating enrolment procedures.",
+                "zh": "家庭可能需要帮助才能理解入学登记程序。"
               },
               {
-                "en": "They should also consider language, disability access and transport.",
-                "zh": "教材语言、残障需要和交通也要考虑；与当地教师合作。"
+                "en": "Supporting teachers is as important as providing buildings.",
+                "zh": "支持教师和提供校舍同样重要。"
               }
             ],
             "answerAngles": [
@@ -134,26 +135,27 @@
             ],
             "sampleAnswer": {
               "en": "Aid organisations could provide suitable temporary classrooms and catch-up lessons. For example, a community space might host small classes while a permanent school is unavailable. They should also consider language, disability access and transport. Working with local teachers and families would help identify barriers that an outside organisation might overlook.",
-              "zh": "可建议安全临时教室、借用社区空间和补课。 教材语言、残障需要和交通也要考虑；与当地教师合作。",
-              "kind": "original-practice"
-            }
+              "zh": "援助组织可以提供合适的临时教室和补课课程。例如，当永久学校无法使用时，社区空间可以承办小班课程。它们还应考虑语言、残障人士的可及性和交通。与当地教师及家庭合作，可以帮助发现外部组织可能忽略的障碍。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should education receive priority over other forms of humanitarian aid?",
             "zh": "教育是否应优先于其他人道援助？",
             "directions": [
-              "给清楚立场：食物水医疗通常先，但不能无限推迟教育。",
-              "临时安置点兼顾基础课程和支持，不必二选一。",
-              "先表明立场，再说明你的支持条件或例外。"
+              "换到资源整合：同一服务点可协调医疗、营养和学习，降低家庭奔波成本。",
+              "承认不同危机阶段需求不同，优先级应随情况变化。"
             ],
             "expressions": [
               {
-                "en": "I would not place education above urgent food, water and medical care in every situation.",
-                "zh": "给清楚立场：食物水医疗通常先，但不能无限推迟教育。"
+                "en": "Different forms of aid can reinforce one another.",
+                "zh": "不同形式的援助可以相互加强。"
               },
               {
-                "en": "A phased approach seems more reasonable.",
-                "zh": "临时安置点兼顾基础课程和支持，不必二选一。"
+                "en": "Priorities should change as conditions on the ground change.",
+                "zh": "优先事项应随着当地实际情况的变化而改变。"
               }
             ],
             "answerAngles": [
@@ -170,9 +172,11 @@
             ],
             "sampleAnswer": {
               "en": "I would not place education above urgent food, water and medical care in every situation. People need to survive first, but this should not mean postponing education indefinitely. A phased approach seems more reasonable. Once immediate needs are met, temporary learning activities could begin alongside other support, helping children rebuild routines and protect their future opportunities.",
-              "zh": "给清楚立场：食物水医疗通常先，但不能无限推迟教育。 临时安置点兼顾基础课程和支持，不必二选一。",
-              "kind": "original-practice"
-            }
+              "zh": "我不会在所有情况下都把教育置于紧急的食物、饮水和医疗照护之上。人们首先需要生存，但这不应意味着无限期推迟教育。分阶段的做法似乎更合理。在满足迫切需求后，可以将临时学习活动与其他支持同时开展，帮助儿童重建日常生活并保护未来机会。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -207,18 +211,17 @@
             "question": "What are some ways universities can assess understanding?",
             "zh": "大学可以用哪些方式评估理解程度？",
             "directions": [
-              "举让学生解释一个解题步骤，追问为何选这个方法。",
-              "草稿、分阶段提交与课堂任务相结合，避免只看最终稿。",
-              "先说明概念再举两个对应的例子。"
+              "从真实性展开：让学生比较两个方案并解释选择依据。",
+              "从迁移能力展开：用一个新情景检验学生能否应用所学。"
             ],
             "expressions": [
               {
-                "en": "One method is an oral explanation in which a student describes why they chose a particular method.",
-                "zh": "举让学生解释一个解题步骤，追问为何选这个方法。"
+                "en": "Students could explain why one solution fits better than another.",
+                "zh": "学生可以解释为什么一个方案比另一个更合适。"
               },
               {
-                "en": "Universities can also review drafts, short classroom tasks and project stages.",
-                "zh": "草稿、分阶段提交与课堂任务相结合，避免只看最终稿。"
+                "en": "Applying knowledge to a new case can reveal understanding.",
+                "zh": "将知识用于新案例可以显示理解程度。"
               }
             ],
             "answerAngles": [
@@ -235,26 +238,27 @@
             ],
             "sampleAnswer": {
               "en": "One method is an oral explanation in which a student describes why they chose a particular method. Follow-up questions can reveal whether they understand the reasoning. Universities can also review drafts, short classroom tasks and project stages. Using several forms of evidence may provide a fuller picture than judging only a polished final answer.",
-              "zh": "举让学生解释一个解题步骤，追问为何选这个方法。 草稿、分阶段提交与课堂任务相结合，避免只看最终稿。",
-              "kind": "original-practice"
-            }
+              "zh": "一种方法是口头解释，让学生说明为什么选择某种方法。后续追问可以显示他们是否理解其中的推理。大学也可以审查草稿、简短的课堂任务和项目各阶段的成果。使用多种证据，可能比仅评价一份精致的最终答案更全面。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why might simply banning AI fail to solve cheating problems?",
             "zh": "为什么仅仅禁用 AI 可能无法解决作弊问题？",
             "directions": [
-              "校外使用难监督，学生也需知道哪些辅助允许。",
-              "若只看最终答案，其他代做仍可发生；过程更有帮助。",
-              "说明原因如何产生结果，不把相关性直接说成因果。"
+              "补充公平执行问题：如果某些学生能偷偷使用付费工具，禁令可能执行不均。",
+              "明确不等于取消规则：需要可理解且可执行的边界。"
             ],
             "expressions": [
               {
-                "en": "A ban may be difficult to enforce outside the classroom, and students may be unsure which kinds of assistance are allowed.",
-                "zh": "校外使用难监督，学生也需知道哪些辅助允许。"
+                "en": "Rules lose credibility when enforcement is inconsistent.",
+                "zh": "执行不一致会削弱规则的可信度。"
               },
               {
-                "en": "The assessment may still reward a final answer without checking the thinking behind it.",
-                "zh": "若只看最终答案，其他代做仍可发生；过程更有帮助。"
+                "en": "Students need clear examples of permitted and prohibited assistance.",
+                "zh": "学生需要了解允许和禁止的辅助方式的具体例子。"
               }
             ],
             "answerAngles": [
@@ -271,26 +275,27 @@
             ],
             "sampleAnswer": {
               "en": "A ban may be difficult to enforce outside the classroom, and students may be unsure which kinds of assistance are allowed. Unclear rules can create confusion as well as misconduct. The assessment may still reward a final answer without checking the thinking behind it. Asking students to explain their work could address that weakness more directly.",
-              "zh": "校外使用难监督，学生也需知道哪些辅助允许。 若只看最终答案，其他代做仍可发生；过程更有帮助。",
-              "kind": "original-practice"
-            }
+              "zh": "禁令在课堂以外可能难以执行，学生也可能不清楚哪些辅助方式被允许。不清楚的规则既可能引发困惑，也可能导致不当行为。如果考核仍然奖励最终答案，却不检验背后的思考，那么这个问题依然存在。要求学生解释自己的作品，可以更直接地解决这一弱点。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could teachers redesign assessments while keeping them fair?",
             "zh": "教师如何兼顾考核改革与公平？",
             "directions": [
-              "小部分口试加笔试，避免紧张或语言能力影响全部分数。",
-              "提前公布统一标准、提供练习、考虑合理便利。",
-              "说明谁实施、怎样实施以及一个现实限制。"
+              "从评分一致性展开：考官使用统一问题范围和评分标准。",
+              "从学习支持展开：先安排低风险练习，避免学生首次接触就在正式评分中。"
             ],
             "expressions": [
               {
-                "en": "Teachers could combine written work with a short oral explanation instead of replacing everything with interviews.",
-                "zh": "小部分口试加笔试，避免紧张或语言能力影响全部分数。"
+                "en": "Common criteria can reduce differences between assessors.",
+                "zh": "共同标准可以减少评分者之间的差异。"
               },
               {
-                "en": "They should publish clear criteria, provide practice opportunities and consider appropriate adjustments for students who need them.",
-                "zh": "提前公布统一标准、提供练习、考虑合理便利。"
+                "en": "Low-stakes practice can make a new assessment less intimidating.",
+                "zh": "低风险练习可以降低新考核方式带来的畏惧感。"
               }
             ],
             "answerAngles": [
@@ -307,26 +312,27 @@
             ],
             "sampleAnswer": {
               "en": "Teachers could combine written work with a short oral explanation instead of replacing everything with interviews. This would reduce the impact of anxiety or speaking confidence on the whole grade. They should publish clear criteria, provide practice opportunities and consider appropriate adjustments for students who need them. The task should test the intended subject knowledge rather than unexpected obstacles.",
-              "zh": "小部分口试加笔试，避免紧张或语言能力影响全部分数。 提前公布统一标准、提供练习、考虑合理便利。",
-              "kind": "original-practice"
-            }
+              "zh": "教师可以将书面作业与简短的口头解释结合，而不是把所有考核都换成面试。这样可以降低焦虑或口语自信对总成绩的影响。教师还应公布清楚的标准、提供练习机会，并为有需要的学生考虑适当调整。任务应考查预定的学科知识，而不是意料之外的障碍。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should universities redesign exams rather than simply ban AI tools?",
             "zh": "大学应重新设计考试，而非仅禁止 AI 吗？",
             "directions": [
-              "支持改革，举报告后追问方法与局限。",
-              "改革耗老师时间；结合清楚AI规则和适量传统考试。",
-              "先表明立场，再说明你的支持条件或例外。"
+              "补充现实工作视角：有些岗位允许使用工具，考试可以检验如何核实工具输出。",
+              "保留基础能力：某些核心技能仍可能需要无工具的独立展示。"
             ],
             "expressions": [
               {
-                "en": "Yes, I think universities should redesign some assessments so that students explain their thinking.",
-                "zh": "支持改革，举报告后追问方法与局限。"
+                "en": "Some tasks should assess how students verify AI-assisted work.",
+                "zh": "有些任务应考查学生如何核实 AI 辅助完成的作品。"
               },
               {
-                "en": "However, this takes staff time, so not every task needs an interview.",
-                "zh": "改革耗老师时间；结合清楚AI规则和适量传统考试。"
+                "en": "Core skills may still need to be demonstrated independently.",
+                "zh": "核心技能可能仍需要独立展示。"
               }
             ],
             "answerAngles": [
@@ -343,9 +349,11 @@
             ],
             "sampleAnswer": {
               "en": "Yes, I think universities should redesign some assessments so that students explain their thinking. For example, a short discussion after a report could ask why a method was chosen and what its limitations are. However, this takes staff time, so not every task needs an interview. I would combine clear AI-use rules, selected oral checks and written exams rather than rely on a ban alone.",
-              "zh": "支持改革，举报告后追问方法与局限。 改革耗老师时间；结合清楚AI规则和适量传统考试。",
-              "kind": "original-practice"
-            }
+              "zh": "是的，我认为大学应该重新设计一部分考核，让学生解释自己的思考。例如，在提交报告后进行简短讨论，可以询问为什么选择某种方法，以及它有什么局限。不过，这需要教师时间，因此不是每项任务都需要面试。我会把清楚的 AI 使用规则、部分口头核查和笔试结合起来，而不是只依赖禁令。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -379,18 +387,17 @@
             "question": "What are some ways countries can respond to a diplomatic dispute?",
             "zh": "国家可以如何回应外交争端？",
             "directions": [
-              "提出正式抗议、要求澄清或调查，不预设指控成立。",
-              "在有依据时采取针对措施，保留沟通处理紧急情况。",
-              "先说明概念再举两个对应的例子。"
+              "还可说第三方调解，让双方在不直接公开让步的情况下交流。",
+              "也可以暂停某项合作，而不切断所有日常联系。"
             ],
             "expressions": [
               {
-                "en": "A country could issue a formal protest and request clarification or an investigation.",
-                "zh": "提出正式抗议、要求澄清或调查，不预设指控成立。"
+                "en": "A mediator could help the parties exchange concerns.",
+                "zh": "调解方可以帮助各方交流关切。"
               },
               {
-                "en": "It could also consider targeted diplomatic measures while keeping a channel open for urgent communication.",
-                "zh": "在有依据时采取针对措施，保留沟通处理紧急情况。"
+                "en": "A limited suspension need not end every form of contact.",
+                "zh": "有限的暂停措施不必终止所有形式的联系。"
               }
             ],
             "answerAngles": [
@@ -407,26 +414,27 @@
             ],
             "sampleAnswer": {
               "en": "A country could issue a formal protest and request clarification or an investigation. This allows it to express concern without assuming that every disputed allegation has already been proved. It could also consider targeted diplomatic measures while keeping a channel open for urgent communication. The response should depend on the available evidence and the seriousness of the situation.",
-              "zh": "提出正式抗议、要求澄清或调查，不预设指控成立。 在有依据时采取针对措施，保留沟通处理紧急情况。",
-              "kind": "original-practice"
-            }
+              "zh": "一个国家可以提出正式抗议，并要求澄清或调查。这样既能表达关切，也不必假定每项有争议的指控都已得到证实。它还可以考虑有针对性的外交措施，同时保留紧急沟通渠道。回应应取决于现有证据和局势的严重程度。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why can ending all diplomatic contact create risks?",
             "zh": "彻底中断外交联系为何可能带来风险？",
             "directions": [
-              "无联系人时错误消息更难纠正，危机可能升级。",
-              "签证、在外公民和安全等问题仍会出现。",
-              "说明原因如何产生结果，不把相关性直接说成因果。"
+              "从公众沟通展开：失去正式渠道后，未经核实的传言更难澄清。",
+              "从撤侨和突发事故展开：需要提前保持可用的联系人。"
             ],
             "expressions": [
               {
-                "en": "Without direct contact, it may be harder to clarify intentions or correct inaccurate information.",
-                "zh": "无联系人时错误消息更难纠正，危机可能升级。"
+                "en": "Rumours may be harder to correct without a reliable channel.",
+                "zh": "缺少可靠渠道时，传言可能更难纠正。"
               },
               {
-                "en": "Practical issues also continue during disputes, including consular assistance and the safety of citizens abroad.",
-                "zh": "签证、在外公民和安全等问题仍会出现。"
+                "en": "Emergency coordination may be needed even during a dispute.",
+                "zh": "即使处于争端期间，也可能需要应急协调。"
               }
             ],
             "answerAngles": [
@@ -443,26 +451,27 @@
             ],
             "sampleAnswer": {
               "en": "Without direct contact, it may be harder to clarify intentions or correct inaccurate information. A misunderstanding could then become more serious before either side has explained its position. Practical issues also continue during disputes, including consular assistance and the safety of citizens abroad. Keeping a limited channel does not necessarily mean agreeing with the other government's actions.",
-              "zh": "无联系人时错误消息更难纠正，危机可能升级。 签证、在外公民和安全等问题仍会出现。",
-              "kind": "original-practice"
-            }
+              "zh": "如果没有直接联系，澄清意图或纠正错误信息就可能更困难。在任何一方解释立场之前，误解就可能变得更严重。争端期间，领事协助和海外公民安全等实际事务仍会继续出现。保留有限的联系渠道，不一定意味着认同对方政府的行动。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could governments protect security while avoiding unnecessary escalation?",
             "zh": "政府如何维护安全并避免不必要升级？",
             "directions": [
-              "先核对证据，区分指控、已知事实和不确定内容。",
-              "回应具体问题、设复查条件，不把矛盾扩大到所有公民。",
-              "说明谁实施、怎样实施以及一个现实限制。"
+              "从定期复查展开：判断措施是否达到目的，避免临时回应永久升级。",
+              "从影响范围展开：评估措施对学生、家庭和其他普通人的副作用。"
             ],
             "expressions": [
               {
-                "en": "Governments should investigate carefully and distinguish established facts from allegations.",
-                "zh": "先核对证据，区分指控、已知事实和不确定内容。"
+                "en": "A response should be reviewed rather than allowed to escalate automatically.",
+                "zh": "回应应接受复查，而不应任其自动升级。"
               },
               {
-                "en": "They could choose targeted, reviewable measures and explain what would allow the dispute to de-escalate.",
-                "zh": "回应具体问题、设复查条件，不把矛盾扩大到所有公民。"
+                "en": "The effects on ordinary people should also be considered.",
+                "zh": "还应考虑对普通人的影响。"
               }
             ],
             "answerAngles": [
@@ -479,26 +488,27 @@
             ],
             "sampleAnswer": {
               "en": "Governments should investigate carefully and distinguish established facts from allegations. Public statements should make uncertainty clear rather than present every suspicion as a confirmed conclusion. They could choose targeted, reviewable measures and explain what would allow the dispute to de-escalate. This may be more proportionate than treating all ordinary citizens as responsible.",
-              "zh": "先核对证据，区分指控、已知事实和不确定内容。 回应具体问题、设复查条件，不把矛盾扩大到所有公民。",
-              "kind": "original-practice"
-            }
+              "zh": "政府应仔细调查，并区分已确定的事实和指控。公开声明应明确不确定性，而不是把每一种怀疑都当成已确认的结论。政府可以选择有针对性、可复查的措施，并解释什么条件可以让争端降温。与把所有普通公民都视作责任方相比，这可能更符合比例原则。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should countries maintain diplomatic dialogue even during serious security disputes?",
             "zh": "严重安全争端中是否仍应保持外交对话？",
             "directions": [
-              "表明支持，理由是处理危机和误判，不是免除责任。",
-              "沟通与调查可同时进行，说明有原则的边界。",
-              "先表明立场，再说明你的支持条件或例外。"
+              "补充沟通形式：可保留专业或技术层级交流，不一定每次都由最高领导会面。",
+              "说明沟通不代表宽恕或解除措施，可以清楚表达分歧。"
             ],
             "expressions": [
               {
-                "en": "Yes, I would keep at least a limited diplomatic channel open.",
-                "zh": "表明支持，理由是处理危机和误判，不是免除责任。"
+                "en": "Dialogue can continue at a technical level.",
+                "zh": "对话可以在技术层面继续。"
               },
               {
-                "en": "However, dialogue should not replace investigation or an appropriate response to credible threats.",
-                "zh": "沟通与调查可同时进行，说明有原则的边界。"
+                "en": "Maintaining contact does not require abandoning a firm position.",
+                "zh": "保持联系不意味着必须放弃坚定立场。"
               }
             ],
             "answerAngles": [
@@ -515,9 +525,11 @@
             ],
             "sampleAnswer": {
               "en": "Yes, I would keep at least a limited diplomatic channel open. Serious disputes are precisely when governments need a reliable way to clarify intentions and prevent misunderstandings. However, dialogue should not replace investigation or an appropriate response to credible threats. A country can communicate firmly while still protecting its citizens and explaining what behaviour it considers unacceptable.",
-              "zh": "表明支持，理由是处理危机和误判，不是免除责任。 沟通与调查可同时进行，说明有原则的边界。",
-              "kind": "original-practice"
-            }
+              "zh": "应该，我会至少保留一条有限的外交沟通渠道。恰恰在严重争端期间，政府更需要可靠的方式来澄清意图并防止误解。不过，对话不应取代调查或对可信威胁作出适当回应。一个国家可以一边坚定地沟通，一边保护公民，并解释哪些行为是它不能接受的。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -552,18 +564,17 @@
             "question": "What artistic elements can a video game include?",
             "zh": "电子游戏可以包含哪些艺术元素？",
             "directions": [
-              "举角色、环境、配乐塑造氛围，不需熟悉特定游戏。",
-              "玩家选择可改变体验，这是与被动观看不同的部分。",
-              "先说明概念再举两个对应的例子。"
+              "从规则设计展开：游戏规则可以让玩家体验资源有限或合作的困难。",
+              "这类表达不一定依赖华丽画面，简单作品也能传递想法。"
             ],
             "expressions": [
               {
-                "en": "A video game can include visual design, music and storytelling.",
-                "zh": "举角色、环境、配乐塑造氛围，不需熟悉特定游戏。"
+                "en": "The rules themselves can communicate an idea.",
+                "zh": "规则本身也可以传达想法。"
               },
               {
-                "en": "Games can also use interaction as part of the experience.",
-                "zh": "玩家选择可改变体验，这是与被动观看不同的部分。"
+                "en": "Artistic expression does not always require expensive graphics.",
+                "zh": "艺术表达并不总需要昂贵的画面制作。"
               }
             ],
             "answerAngles": [
@@ -580,26 +591,27 @@
             ],
             "sampleAnswer": {
               "en": "A video game can include visual design, music and storytelling. The appearance of a place and its soundtrack may create an atmosphere in a similar way to a film. Games can also use interaction as part of the experience. A player's choices may affect how a story is understood, so the audience does more than simply watch.",
-              "zh": "举角色、环境、配乐塑造氛围，不需熟悉特定游戏。 玩家选择可改变体验，这是与被动观看不同的部分。",
-              "kind": "original-practice"
-            }
+              "zh": "电子游戏可以包含视觉设计、音乐和叙事。一个场景的外观及配乐可以像电影那样营造氛围。游戏还可以将互动作为体验的一部分。玩家的选择可能影响他们如何理解故事，因此观众不只是观看。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why might commercial success differ from artistic value?",
             "zh": "商业成功为何可能不同于艺术价值？",
             "directions": [
-              "知名度、广告、既有粉丝会影响购买，不只内容质量。",
-              "小众创新也可能有价值，举低预算作品的假设例子。",
-              "说明原因如何产生结果，不把相关性直接说成因果。"
+              "从受众差异展开：不同文化和年龄群体可能有不同评价。",
+              "从时间角度展开：首发热度与多年后的影响可能不同。"
             ],
             "expressions": [
               {
-                "en": "Sales can be influenced by advertising, brand recognition and an existing fan base.",
-                "zh": "知名度、广告、既有粉丝会影响购买，不只内容质量。"
+                "en": "Artistic judgement can vary across audiences.",
+                "zh": "不同受众的艺术评价可能不同。"
               },
               {
-                "en": "A small, experimental game might have original ideas even if few people buy it.",
-                "zh": "小众创新也可能有价值，举低预算作品的假设例子。"
+                "en": "Lasting influence may differ from initial popularity.",
+                "zh": "长久影响可能不同于最初的受欢迎程度。"
               }
             ],
             "answerAngles": [
@@ -616,26 +628,27 @@
             ],
             "sampleAnswer": {
               "en": "Sales can be influenced by advertising, brand recognition and an existing fan base. A large launch therefore shows demand, but it does not directly measure the quality of the storytelling or design. A small, experimental game might have original ideas even if few people buy it. I would judge artistic value using several criteria rather than treating popularity as the only test.",
-              "zh": "知名度、广告、既有粉丝会影响购买，不只内容质量。 小众创新也可能有价值，举低预算作品的假设例子。",
-              "kind": "original-practice"
-            }
+              "zh": "销量会受到广告、品牌知名度和现有粉丝群体的影响。因此，大规模首发说明存在需求，却不直接衡量叙事或设计的质量。即使购买者很少，一款小众的实验性游戏也可能有原创想法。我会用多项标准评价艺术价值，而不是把受欢迎程度当成唯一检验。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could universities use games as learning materials?",
             "zh": "大学如何将游戏用作学习素材？",
             "directions": [
-              "设计课可分析场景音乐如何影响玩家，也可做小型原型。",
-              "别要求昂贵购买，配替代任务并限制使用时间。",
-              "说明谁实施、怎样实施以及一个现实限制。"
+              "从伦理讨论展开：让学生分析人物呈现、刻板印象或玩家选择。",
+              "明确课堂讨论不要求赞同作品中的行为。"
             ],
             "expressions": [
               {
-                "en": "A design class could analyse how a game's music, images and rules influence players.",
-                "zh": "设计课可分析场景音乐如何影响玩家，也可做小型原型。"
+                "en": "A game can be examined critically rather than simply celebrated.",
+                "zh": "可以批判性地分析游戏，而不是只赞扬它。"
               },
               {
-                "en": "However, the learning purpose should be clear.",
-                "zh": "别要求昂贵购买，配替代任务并限制使用时间。"
+                "en": "Discussing a fictional action does not mean endorsing it.",
+                "zh": "讨论虚构行为不代表认可该行为。"
               }
             ],
             "answerAngles": [
@@ -652,26 +665,27 @@
             ],
             "sampleAnswer": {
               "en": "A design class could analyse how a game's music, images and rules influence players. Students might then create a simple prototype to apply those ideas. However, the learning purpose should be clear. Teachers should consider cost, accessibility and alternatives so that students are not required to buy an expensive game simply to participate.",
-              "zh": "设计课可分析场景音乐如何影响玩家，也可做小型原型。 别要求昂贵购买，配替代任务并限制使用时间。",
-              "kind": "original-practice"
-            }
+              "zh": "设计课可以分析游戏的音乐、图像和规则如何影响玩家。随后，学生可以制作简单的原型来运用这些想法。不过，学习目的应当明确。教师应考虑成本、可及性和替代方案，避免学生仅为了参与课程就必须购买昂贵游戏。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Should video games be recognised as an important form of art?",
             "zh": "电子游戏是否应被认可为重要艺术形式？",
             "directions": [
-              "给立场，视觉音乐叙事互动可以表达情感想法。",
-              "承认商业化和过度游戏问题，艺术判断不等于无限鼓励使用。",
-              "先表明立场，再说明你的支持条件或例外。"
+              "补充保存与研究角度：如果游戏具有文化价值，也值得研究和保存。",
+              "区分载体与质量：承认游戏可成为艺术，不代表所有游戏都值得同样评价。"
             ],
             "expressions": [
               {
-                "en": "Yes, I think video games can be an important form of art because they combine images, music, stories and interaction.",
-                "zh": "给立场，视觉音乐叙事互动可以表达情感想法。"
+                "en": "Recognising a medium does not mean praising every work within it.",
+                "zh": "认可一种媒介，不等于赞扬其中每一部作品。"
               },
               {
-                "en": "That does not mean every game has high artistic value or that unlimited gaming is healthy.",
-                "zh": "承认商业化和过度游戏问题，艺术判断不等于无限鼓励使用。"
+                "en": "Preservation could help future audiences study digital culture.",
+                "zh": "保存作品可以帮助未来的受众研究数字文化。"
               }
             ],
             "answerAngles": [
@@ -688,9 +702,11 @@
             ],
             "sampleAnswer": {
               "en": "Yes, I think video games can be an important form of art because they combine images, music, stories and interaction. These elements can communicate emotions and ideas. That does not mean every game has high artistic value or that unlimited gaming is healthy. I would separate judging a creative work from deciding how much time someone should spend playing it.",
-              "zh": "给立场，视觉音乐叙事互动可以表达情感想法。 承认商业化和过度游戏问题，艺术判断不等于无限鼓励使用。",
-              "kind": "original-practice"
-            }
+              "zh": "是的，我认为电子游戏可以是一种重要的艺术形式，因为它将图像、音乐、故事和互动结合起来。这些元素可以传达情感和想法。但这不意味着每款游戏都有很高的艺术价值，也不意味着无限制地玩游戏是健康的。我会将评价一部创意作品与决定应该花多少时间玩它区分开。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }
@@ -725,18 +741,17 @@
             "question": "What indicators could show whether living standards are improving?",
             "zh": "哪些指标能反映生活水平是否提高？",
             "directions": [
-              "看工资能否覆盖住房食品，名义收入增加不一定更宽裕。",
-              "医疗教育、通勤时间和就业稳定性也影响实际生活。",
-              "先说明概念再举两个对应的例子。"
+              "补充时间与环境指标：休息时间、空气质量也影响生活质量。",
+              "说明收入相近的人也可能拥有不同生活体验。"
             ],
             "expressions": [
               {
-                "en": "I would look at whether household income covers housing, food and other essentials.",
-                "zh": "看工资能否覆盖住房食品，名义收入增加不一定更宽裕。"
+                "en": "Quality of life includes time and environmental conditions.",
+                "zh": "生活质量包括时间和环境条件。"
               },
               {
-                "en": "I would also consider access to healthcare and education, job security and commuting time.",
-                "zh": "医疗教育、通勤时间和就业稳定性也影响实际生活。"
+                "en": "Similar incomes can support very different daily experiences.",
+                "zh": "相近的收入可能对应非常不同的日常体验。"
               }
             ],
             "answerAngles": [
@@ -753,26 +768,27 @@
             ],
             "sampleAnswer": {
               "en": "I would look at whether household income covers housing, food and other essentials. A higher salary does not necessarily improve daily life if living costs rise just as quickly. I would also consider access to healthcare and education, job security and commuting time. These factors affect how people experience economic change in practice.",
-              "zh": "看工资能否覆盖住房食品，名义收入增加不一定更宽裕。 医疗教育、通勤时间和就业稳定性也影响实际生活。",
-              "kind": "original-practice"
-            }
+              "zh": "我会看家庭收入能否覆盖住房、食品和其他必需品的开支。如果生活成本上涨得同样快，更高的工资不一定改善日常生活。我还会考虑医疗和教育的可及性、工作稳定性以及通勤时间。这些因素影响人们在实际生活中如何感受经济变化。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Why might export growth fail to benefit every household?",
             "zh": "出口增长为何未必惠及每个家庭？",
             "directions": [
-              "出口行业员工与股东可能先受益，其他服务行业未必同步。",
-              "租金和必需品成本可能抵消工资改善，需看实际收入。",
-              "说明原因如何产生结果，不把相关性直接说成因果。"
+              "从劳动分工展开：自动化或外包可能使产出增长快于本地岗位增长。",
+              "从地区分布展开：出口企业集中的地区可能先获益。"
             ],
             "expressions": [
               {
-                "en": "Export growth may mainly benefit firms and workers in particular industries.",
-                "zh": "出口行业员工与股东可能先受益，其他服务行业未必同步。"
+                "en": "Higher output does not always create proportionally more local jobs.",
+                "zh": "更高产出并不总会按比例创造更多本地岗位。"
               },
               {
-                "en": "Households also face different living costs.",
-                "zh": "租金和必需品成本可能抵消工资改善，需看实际收入。"
+                "en": "Benefits may be concentrated in particular regions.",
+                "zh": "收益可能集中在特定地区。"
               }
             ],
             "answerAngles": [
@@ -789,26 +805,27 @@
             ],
             "sampleAnswer": {
               "en": "Export growth may mainly benefit firms and workers in particular industries. Someone working in a different sector may not receive a higher wage simply because national exports increase. Households also face different living costs. Even when some incomes rise, expensive housing or essential goods may reduce the improvement people actually feel.",
-              "zh": "出口行业员工与股东可能先受益，其他服务行业未必同步。 租金和必需品成本可能抵消工资改善，需看实际收入。",
-              "kind": "original-practice"
-            }
+              "zh": "出口增长可能主要使特定行业的企业和员工受益。在其他行业工作的人，不会仅仅因为全国出口增长就得到更高工资。各家庭也面临不同的生活成本。即使部分收入提高，高昂的住房或必需品价格也可能削弱人们真正感受到的改善。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "How could governments help more people benefit from economic growth?",
             "zh": "政府如何让更多人受益于经济增长？",
             "directions": [
-              "培训对接岗位，给不在增长行业的人转入机会。",
-              "支持医疗教育和小企业参与供应链；说明资金有限需选择。",
-              "说明谁实施、怎样实施以及一个现实限制。"
+              "从转型保障展开：帮助换行业的人获得过渡期支持。",
+              "从竞争角度展开：减少不必要的进入壁垒，让更多企业参与。"
             ],
             "expressions": [
               {
-                "en": "Governments could provide relevant training and improve access to job opportunities.",
-                "zh": "培训对接岗位，给不在增长行业的人转入机会。"
+                "en": "Workers changing sectors may need transitional support.",
+                "zh": "转换行业的劳动者可能需要过渡期支持。"
               },
               {
-                "en": "They could also invest in public services and help smaller firms participate in supply chains.",
-                "zh": "支持医疗教育和小企业参与供应链；说明资金有限需选择。"
+                "en": "Broader participation can make growth more inclusive.",
+                "zh": "更广泛的参与可以使增长更具包容性。"
               }
             ],
             "answerAngles": [
@@ -825,26 +842,27 @@
             ],
             "sampleAnswer": {
               "en": "Governments could provide relevant training and improve access to job opportunities. This may help people outside a growing industry develop skills that employers actually need. They could also invest in public services and help smaller firms participate in supply chains. However, spending priorities should be evaluated because public resources are limited.",
-              "zh": "培训对接岗位，给不在增长行业的人转入机会。 支持医疗教育和小企业参与供应链；说明资金有限需选择。",
-              "kind": "original-practice"
-            }
+              "zh": "政府可以提供相关培训，并改善获取工作机会的渠道。这可能帮助增长行业之外的人培养雇主真正需要的技能。政府还可以投资公共服务，并帮助较小的企业参与供应链。不过，公共资源有限，因此支出优先事项应当接受评估。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           },
           {
             "question": "Is economic growth a reliable measure of people's quality of life?",
             "zh": "经济增长是否可靠地衡量生活质量？",
             "directions": [
-              "增长可扩大资源，但不能看出分配和实际感受。",
-              "用出口公司盈利、家庭房租上涨作假设，不冒称实际韩国数据。",
-              "先表明立场，再说明你的支持条件或例外。"
+              "补充可持续性：今天的增长若损害环境，未来生活质量可能受影响。",
+              "补充主观体验：居民满意度可提供总量指标看不到的信息。"
             ],
             "expressions": [
               {
-                "en": "Economic growth is useful because it can indicate a country's capacity to produce goods and services.",
-                "zh": "增长可扩大资源，但不能看出分配和实际感受。"
+                "en": "The durability of growth matters as well as its speed.",
+                "zh": "增长的持久性和速度同样重要。"
               },
               {
-                "en": "For example, an exporting firm might earn more while a household still struggles with rent.",
-                "zh": "用出口公司盈利、家庭房租上涨作假设，不冒称实际韩国数据。"
+                "en": "People's own assessments can complement economic statistics.",
+                "zh": "人们自身的评价可以补充经济统计数据。"
               }
             ],
             "answerAngles": [
@@ -861,9 +879,11 @@
             ],
             "sampleAnswer": {
               "en": "Economic growth is useful because it can indicate a country's capacity to produce goods and services. However, it does not show how the benefits are shared or whether daily life has become easier. For example, an exporting firm might earn more while a household still struggles with rent. I would combine growth figures with information about real incomes, essential services and job security.",
-              "zh": "增长可扩大资源，但不能看出分配和实际感受。 用出口公司盈利、家庭房租上涨作假设，不冒称实际韩国数据。",
-              "kind": "original-practice"
-            }
+              "zh": "经济增长是有用的，因为它可以反映一个国家生产商品和服务的能力。不过，它无法说明收益如何分配，也无法说明日常生活是否变得更轻松。例如，出口企业可能赚得更多，而一个家庭仍在为房租发愁。我会将增长数据与实际收入、基本服务和工作稳定性的信息结合起来。",
+              "kind": "original-practice",
+              "translationType": "faithful"
+            },
+            "additionalAngleLabel": "换一个角度，还可以这样说"
           }
         ]
       }

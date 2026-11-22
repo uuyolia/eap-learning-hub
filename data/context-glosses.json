@@ -1,0 +1,780 @@
+{
+  "version": 1,
+  "note": "本站按具体文章编辑的语境释义；词典音标另行查询。",
+  "entries": [
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "backed",
+      "meaning": "支持了"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "voluntary pledge",
+      "meaning": "自愿承诺"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "share",
+      "meaning": "占比；份额"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "consumption",
+      "meaning": "消耗；消费"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "roughly",
+      "meaning": "大约"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "require",
+      "meaning": "要求"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "renewable sources",
+      "meaning": "可再生能源来源"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "critics",
+      "meaning": "批评者"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "limited",
+      "meaning": "有限的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "dominate",
+      "meaning": "占主导地位"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "power generation",
+      "meaning": "发电"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 0,
+      "term": "deliver",
+      "meaning": "带来；实现"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 1,
+      "term": "restrictions",
+      "meaning": "限制措施"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 1,
+      "term": "advanced",
+      "meaning": "先进的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 1,
+      "term": "access",
+      "meaning": "获取；使用的机会"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 1,
+      "term": "domestic",
+      "meaning": "国内的；本土的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 2,
+      "term": "leaders",
+      "meaning": "领导人"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 2,
+      "term": "meeting",
+      "meaning": "会晤；会议"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 2,
+      "term": "agreement",
+      "meaning": "协议"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 2,
+      "term": "concrete",
+      "meaning": "实质性的；具体的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 2,
+      "term": "channels",
+      "meaning": "渠道"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "investment",
+      "meaning": "投资"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "inflation",
+      "meaning": "通货膨胀"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "rapid",
+      "meaning": "快速的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "spending",
+      "meaning": "支出"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "infrastructure",
+      "meaning": "基础设施"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "productivity",
+      "meaning": "生产率"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "capacity",
+      "meaning": "能力；产能"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 3,
+      "term": "short term",
+      "meaning": "短期"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "adaptation",
+      "meaning": "适应气候变化的应对措施"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "funding",
+      "meaning": "资金；资助"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "vulnerable",
+      "meaning": "脆弱的；易受影响的"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "floods",
+      "meaning": "洪水"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "droughts",
+      "meaning": "干旱"
+    },
+    {
+      "issueId": "2026-11-20-briefing",
+      "articleIndex": 4,
+      "term": "risk",
+      "meaning": "风险"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "ruled",
+      "meaning": "作出裁决"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "committed",
+      "meaning": "实施了；犯下了"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "minority",
+      "meaning": "少数群体"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "military campaign",
+      "meaning": "军事行动"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "ordered",
+      "meaning": "命令；要求"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "measures",
+      "meaning": "措施"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "enable",
+      "meaning": "使能够"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "rejected",
+      "meaning": "拒绝接受"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "judgment",
+      "meaning": "裁决"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "enforcing",
+      "meaning": "执行；落实"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "challenge",
+      "meaning": "难题；挑战"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 0,
+      "term": "legally significant",
+      "meaning": "具有法律意义的"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 1,
+      "term": "mission",
+      "meaning": "探测任务"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 1,
+      "term": "orbit",
+      "meaning": "轨道"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "elimination",
+      "meaning": "消除（疾病持续传播）"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "measles",
+      "meaning": "麻疹"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "vaccination",
+      "meaning": "疫苗接种"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "coverage",
+      "meaning": "覆盖率"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "public health",
+      "meaning": "公共健康"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 2,
+      "term": "disease",
+      "meaning": "疾病"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "valuations",
+      "meaning": "估值"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "expectations",
+      "meaning": "预期"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "excessive",
+      "meaning": "过度的"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "growth",
+      "meaning": "增长"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "investors",
+      "meaning": "投资者"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 3,
+      "term": "market",
+      "meaning": "市场"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 4,
+      "term": "human",
+      "meaning": "人类的；人的"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 4,
+      "term": "oversight",
+      "meaning": "监督；复核"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 4,
+      "term": "decisions",
+      "meaning": "决策；决定"
+    },
+    {
+      "issueId": "2026-11-21-briefing",
+      "articleIndex": 4,
+      "term": "military",
+      "meaning": "军事的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "fund",
+      "meaning": "基金"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "UN-hosted",
+      "meaning": "由联合国承办的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "announced",
+      "meaning": "宣布"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "support",
+      "meaning": "资助；支持"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "affected by crises",
+      "meaning": "受危机影响的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "funding",
+      "meaning": "资金；资助"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "aims",
+      "meaning": "旨在"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "access",
+      "meaning": "获得……的机会"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "reserved",
+      "meaning": "预留"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "disrupt",
+      "meaning": "扰乱；中断"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "schooling",
+      "meaning": "学校教育"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "inequalities",
+      "meaning": "不平等现象"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "initiative",
+      "meaning": "倡议；举措"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 0,
+      "term": "highlights",
+      "meaning": "凸显；突显"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "comprehensive",
+      "meaning": "全面的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "national examination system",
+      "meaning": "国家考试制度"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "following",
+      "meaning": "在……之后；继……之后"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "cheating",
+      "meaning": "作弊"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "scandals",
+      "meaning": "丑闻；风波"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "prohibited",
+      "meaning": "被禁止的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "devices",
+      "meaning": "设备"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "controversy",
+      "meaning": "争议"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "reliability",
+      "meaning": "可靠性"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "assessments",
+      "meaning": "考核；评估"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "adapt",
+      "meaning": "适应"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 1,
+      "term": "emerging technologies",
+      "meaning": "新兴技术"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "ordered",
+      "meaning": "命令；要求"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "restrictions",
+      "meaning": "限制措施"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "non-essential",
+      "meaning": "非必要的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "citizens",
+      "meaning": "公民"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "authorities",
+      "meaning": "当局"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "linked",
+      "meaning": "把……联系起来"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "alleged",
+      "meaning": "被指控的；据称的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "assassination plot",
+      "meaning": "暗杀阴谋"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "targeting",
+      "meaning": "以……为目标的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "intelligence services",
+      "meaning": "情报机构"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "security concerns",
+      "meaning": "安全方面的担忧"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "trigger",
+      "meaning": "引发"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "contested claims",
+      "meaning": "存在争议的说法"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 2,
+      "term": "resolved",
+      "meaning": "得到解决；被查清"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "reported",
+      "meaning": "报告；称"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "estimated",
+      "meaning": "估计的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "retail sales",
+      "meaning": "零售销售额"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "launch day",
+      "meaning": "首发日"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "pre-release sales",
+      "meaning": "发售前销量"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "publisher",
+      "meaning": "发行商"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "described",
+      "meaning": "形容；描述"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "company-reported figures",
+      "meaning": "公司公布的数字"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "independently audited",
+      "meaning": "经过独立审计的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "illustrate",
+      "meaning": "说明；展示"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 3,
+      "term": "interactive entertainment",
+      "meaning": "互动娱乐"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "annual exports",
+      "meaning": "年度出口额"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "passed",
+      "meaning": "超过；突破"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "provisional",
+      "meaning": "初步的；暂定的"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "government tally",
+      "meaning": "政府统计"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "demand",
+      "meaning": "需求"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "drive",
+      "meaning": "推动"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "milestone",
+      "meaning": "里程碑"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "alone",
+      "meaning": "仅凭这一项；单独"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "benefits",
+      "meaning": "收益；好处"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "shared",
+      "meaning": "分配；分享"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "households",
+      "meaning": "家庭"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "starting point",
+      "meaning": "起点；切入点"
+    },
+    {
+      "issueId": "2026-11-22-briefing",
+      "articleIndex": 4,
+      "term": "quality of life",
+      "meaning": "生活质量"
+    }
+  ]
+}
