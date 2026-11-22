@@ -1,0 +1,171 @@
+原聊天简报档案（未经逐项核实，不等于本站编辑后的新闻）。原文中的两项芯片统计未纳入正式阅读正文；请以编辑版及其来源说明为准。
+
+# 🌍 EAP Daily Briefing · 2026年11月22日
+
+第 4 期 · 星期日｜5 条新闻｜阅读约 10 分钟 + 2 分钟口语挑战
+
+今天的主题是 **Who benefits, and who bears the cost?（谁受益，谁承担代价？）**
+
+今天不重复前两期的 AI 芯片限制、股市下跌和国际法院裁决，而是关注教育公平、公共健康、国际安全、文化产业与经济发展。尤其值得思考：一个政策或一项技术看起来成功，是否意味着所有人都能受益？
+
+## 📰 今日五条新闻
+
+(01 · 教育 / 人道援助) 11月21日报道
+
+## 联合国教育基金拨款5200万美元，帮助危机中的儿童
+
+**UN education fund announces \$52 million for children affected by crises**
+
+image_group{"query":["UNICEF education in emergencies children temporary classroom humanitarian education school supplies"],"aspect_ratio":"16:9","layout":"carousel","num_per_query":1}
+
+**English brief**
+
+Education Cannot Wait, a UN-hosted global fund, announced \$52 million in support for more than 300,000 children affected by crises in Lebanon, Myanmar and South Sudan. The funding aims to improve access to education in emergencies（紧急情况下的教育机会）, with some resources reserved for future crises. The initiative highlights how conflict and displacement（流离失所）can disrupt schooling and deepen existing inequalities.
+
+**中文理解：** 联合国体系内的教育基金宣布提供5200万美元，帮助黎巴嫩、缅甸和南苏丹超过30万名受危机影响的儿童。资金也将用于应对未来紧急情况。
+
+**Why it matters：** 教育不仅关系到考试成绩，也影响儿童未来的就业机会、安全感和社会流动性。危机期间中断学习，可能造成长期影响。
+
+**EAP Speaking question\:** Should education receive priority over other forms of humanitarian aid?
+
+**观点思路：** 食物、饮水和医疗往往是立即需求，但教育有长期价值。可以提出分阶段援助，而不是简单二选一。
+
+表达：*meet immediate needs*（满足迫切需求） · *break the cycle of poverty*（打破贫困循环）
+
+来源：urlAnadolu Agency · 11月21日新闻简报https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676 citeturn380024search1
+
+---
+
+(02 · 韩国 / 教育科技) 11月21日报道
+
+## 韩国拟改革国家考试制度，应对 AI 作弊问题
+
+**South Korea calls for an overhaul of national examinations amid AI cheating concerns**
+
+**English brief**
+
+South Korean President Lee Jae Myung called for a comprehensive overhaul（全面改革）of the national examination system following cheating scandals involving artificial intelligence and prohibited electronic devices. The controversy raises questions about academic integrity（学术诚信）, the reliability of traditional assessments and whether education systems can adapt quickly enough to emerging technologies.
+
+**中文理解：** 韩国总统呼吁全面改革国家考试制度，并加强对使用 AI 和违规电子设备作弊行为的处罚。这里的关键问题不仅是如何防作弊，还包括考试方式是否需要随着技术变化而调整。
+
+**Why it matters：** 对大学生尤其有现实意义：AI 可以辅助学习，但如果考核只关注最终答案，就很难判断学生是否真正掌握知识。
+
+**EAP Speaking question\:** Should universities redesign exams rather than simply ban AI tools?
+
+**观点思路：** 可以支持更注重过程的考核，如口头解释、课堂展示和分阶段任务；同时承认传统考试在公平性和效率方面仍有优势。
+
+表达：*assess genuine understanding*（评估真正的理解） · *keep pace with technological change*（跟上技术变革）
+
+来源：urlAnadolu Agency · 11月21日新闻简报https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676 citeturn380024search1
+
+---
+
+(03 · 国际安全 / 欧洲) 11月21日报道
+
+## 丹麦驱逐俄罗斯武官，外交紧张局势升级
+
+**Denmark expels Russian defence attaché over alleged assassination plot**
+
+**English brief**
+
+Denmark ordered Russia's defence attaché（国防武官）to leave the country within seven days and announced restrictions on non-essential visas for Russian citizens. Danish authorities linked an alleged assassination plot targeting a US-Ukrainian citizen to Russian intelligence services. Russia denied the allegation（指控）. The dispute illustrates how security concerns can trigger diplomatic retaliation（外交报复措施）even before all contested claims are publicly resolved.
+
+**中文理解：** 丹麦指称一起针对美乌双重背景人士的暗杀阴谋与俄罗斯情报机构有关，因此驱逐俄罗斯武官，并限制部分签证。俄罗斯否认相关指控。这里必须区分丹麦的指控与已被独立证实的事实。
+
+**Why it matters：** 国家需要维护安全，但外交措施也可能加剧紧张关系。如何在安全和沟通之间保持平衡，是国际关系的重要问题。
+
+**EAP Speaking question\:** Should countries maintain diplomatic dialogue even during serious security disputes?
+
+**观点思路：** 支持维持最低限度的沟通以避免误判，同时认为严重安全问题需要调查和适当回应。
+
+表达：*respond to security threats*（应对安全威胁） · *avoid further escalation*（避免进一步升级）
+
+来源：urlAnadolu Agency · 11月21日报道https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676 citeturn380024search1
+
+---
+(04 · 文化产业 / 数字经济) 11月21日报道
+
+## 《GTA VI》首日销售额据称达37.9亿美元
+
+**Grand Theft Auto VI reports a record-breaking commercial launch**
+
+image_group{"query":["Grand Theft Auto VI official game cover artwork Rockstar Games"],"aspect_ratio":"16:9","layout":"carousel","num_per_query":1}
+
+**English brief**
+
+Rockstar Games reported that Grand Theft Auto VI generated an estimated \$3.79 billion in retail sales on its launch day, following 32.5 million pre-release sales. The publisher described it as an unprecedented（史无前例的）entertainment launch. While these are company-reported figures rather than independently audited results, they illustrate the enormous commercial reach（商业影响范围）of interactive entertainment.
+
+**中文理解：** Rockstar 称《GTA VI》首日零售销售额估计达到37.9亿美元，并在正式发售前售出3250万份。这是发行商公布的数据，应与独立核实的最终财务结果区分。
+
+**Why it matters：** 电子游戏不只是娱乐产品，还涉及软件开发、艺术设计、音乐、叙事和全球文化传播。
+
+**EAP Speaking question\:** Should video games be recognised as an important form of art?
+
+**观点思路：** 支持者强调游戏融合视觉艺术、音乐和互动叙事；反对者可能担心商业化和过度游戏。可以讨论商业成功是否等于艺术价值。
+
+表达：*blur the line between art and entertainment*（模糊艺术与娱乐的界限） · *commercial success does not necessarily reflect artistic value*（商业成功未必代表艺术价值）
+
+来源：urlThe World in Summary · 11月21日（转述发行商数据）https://www.worldinsummary.com/editions/2026-11-21/ citeturn380024search0
+
+---
+
+(05 · 韩国 / 全球经济) 11月19日报道 · 延伸观察
+
+## 韩国出口突破一万亿美元，但经济增长成果分配仍不均衡
+
+**South Korea's export milestone raises questions about inclusive growth**
+
+image_group{"query":["South Korea Busan container port shipping cranes international trade"],"aspect_ratio":"16:9","layout":"carousel","num_per_query":1}
+
+**English brief**
+
+South Korea's exports surpassed \$1 trillion on November 19, largely driven by booming demand for AI semiconductors（半导体）. Chip exports rose 184% year on year in the first three quarters and accounted for 42% of total exports. However, weak domestic demand and high living costs suggest that export success does not automatically translate into improved household well-being（家庭生活福祉）.
+
+**中文理解：** 韩国年度累计出口额突破一万亿美元，成为全球第四个达到这一规模的国家。AI 芯片需求是主要推动力，但国内消费疲软、生活成本较高，说明宏观经济成绩不一定立刻改善普通人的生活。
+
+**Why it matters：** 这是讨论经济增长与社会公平的好例子。一个国家的 GDP 或出口额增长，不代表每个人都同等受益。
+
+**EAP Speaking question\:** Is economic growth a reliable measure of people's quality of life?
+
+**观点思路：** 经济增长很重要，但还需要考虑收入分配、就业、生活成本和公共服务。韩国出口数据可以作为具体例证。
+
+表达：*translate into tangible benefits*（转化为切实好处） · *ensure that growth is inclusive*（确保增长惠及更多人）
+
+来源：urlReuters · 11月19日报道https://www.reuters.com/world/south-korea-becomes-fourth-country-globally-hit-1-trillion-exports-ai-chip-boom-2026-11-19/ citeturn380024news5
+
+---
+
+## 🎙️ Today's Speaking Challenge
+
+**AI in Education** (1–2 分钟)
+
+Do you think universities should change the way they assess students because of AI?
+
+你认为大学是否应该因为 AI 的发展而改变学生评价方式？
+
+建议回答结构
+
+1. **观点 Opinion**：*To some extent, yes. Traditional exams may no longer be sufficient on their own.*
+2. **例子 Example**：韩国近期出现涉及 AI 和电子设备的考试作弊争议，政府呼吁改革。
+3. **解释 Explanation**：大学可以增加口头答辩、过程性考核，让学生解释自己的思考过程。
+4. **让步 + 总结 Concession**：*Admittedly, traditional exams are efficient, but they shouldn't be the only way to measure learning.*
+
+---
+
+**Part 2 Follow-up**
+
+*Would oral examinations be fairer than written examinations?*
+
+示范思路：口试能更直接地检验理解，但也可能受到紧张情绪、语言能力和考官主观判断的影响。因此，结合口试与笔试可能更公平。
+
+## 📚 今日重点词块 · 主动回忆
+
+CARD  /  已掌握  / 5
+
+[上一个]  [下一个]
+
+熟词标记仅用于本次简报的临时练习，不代表已同步到 EAP Learning Hub 网站。
+
+今天的口语重点是学会**提出观点后马上给出具体事实，再解释它为什么能支持你的观点**。例如，不要只说 *AI is changing education*，而要说韩国的考试争议说明了什么、为什么大学可能需要调整考核方式。
+
+资料核查截至北京时间 2026年11月22日早间。主要采用11月21日报道，并保留一条11月19日的亚洲经济重要进展。部分图片为主题示意而非新闻现场；对于公司公布的数据和国际争议中的指控，均保留来源归属及不确定性。以上口语题为 EAP 风格练习，并非 EAP047 官方考题。

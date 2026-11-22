@@ -178,5 +178,64 @@
     "courseTopics": [
       "Technology"
     ]
+  },
+  {
+    "id": "2026-11-22-briefing:联合国教育基金拨款5200万美元，帮助危机中的儿童",
+    "date": "2026-11-22",
+    "topic": "教育 / 人道援助",
+    "title": "联合国教育基金拨款5200万美元，帮助危机中的儿童",
+    "text": "联合国体系内的教育基金宣布提供5200万美元，帮助黎巴嫩、缅甸和南苏丹超过30万名受危机影响的儿童。资金也将用于应对未来紧急情况。\nEducation Cannot Wait, a UN-hosted global fund, announced $52 million in support for more than 300,000 children affected by crises in Lebanon, Myanmar and South Sudan. The funding aims to improve access to education in emergencies（紧急情况下的教育机会）, with some resources reserved for future crises. The initiative highlights how conflict and displacement（流离失所）can disrupt schooling and deepen existing inequalities.",
+    "note": "",
+    "courseTopics": [
+      "Education",
+      "People"
+    ]
+  },
+  {
+    "id": "2026-11-22-briefing:韩国拟改革国家考试制度，应对 AI 作弊问题",
+    "date": "2026-11-22",
+    "topic": "韩国 / 教育科技",
+    "title": "韩国拟改革国家考试制度，应对 AI 作弊问题",
+    "text": "韩国总统呼吁全面改革国家考试制度，并加强对使用 AI 和违规电子设备作弊行为的处罚。这里的关键问题不仅是如何防作弊，还包括考试方式是否需要随着技术变化而调整。\nSouth Korean President Lee Jae Myung called for a comprehensive overhaul（全面改革）of the national examination system following cheating scandals involving artificial intelligence and prohibited electronic devices. The controversy raises questions about academic integrity（学术诚信）, the reliability of traditional assessments and whether education systems can adapt quickly enough to emerging technologies.",
+    "note": "",
+    "courseTopics": [
+      "Education",
+      "Technology"
+    ]
+  },
+  {
+    "id": "2026-11-22-briefing:丹麦驱逐俄罗斯武官，外交紧张局势升级",
+    "date": "2026-11-22",
+    "topic": "国际安全 / 欧洲",
+    "title": "丹麦驱逐俄罗斯武官，外交紧张局势升级",
+    "text": "Anadolu 11月21日报道，丹麦要求俄罗斯国防武官七天内离境，并将限制非必要签证。丹麦方面将一起暗杀阴谋指控与俄情报机构相联系。指控归属丹麦当局，不能直接写成已独立证实的事实。\nDenmark ordered Russia's defence attaché（国防武官）to leave the country within seven days and announced restrictions on non-essential visas for Russian citizens. Danish authorities linked an alleged assassination plot targeting a US-Ukrainian citizen to Russian intelligence services. The dispute illustrates how security concerns can trigger diplomatic retaliation（外交报复措施）even before all contested claims are publicly resolved.",
+    "note": "",
+    "courseTopics": [
+      "Communication"
+    ]
+  },
+  {
+    "id": "2026-11-22-briefing:《GTA VI》首日销售额据称达37.9亿美元",
+    "date": "2026-11-22",
+    "topic": "文化产业 / 数字经济",
+    "title": "《GTA VI》首日销售额据称达37.9亿美元",
+    "text": "Rockstar 称《GTA VI》首日零售销售额估计达到37.9亿美元，并在正式发售前售出3250万份。这是发行商公布的数据，应与独立核实的最终财务结果区分。\nRockstar Games reported that Grand Theft Auto VI generated an estimated $3.79 billion in retail sales on its launch day, following 32.5 million pre-release sales. The publisher described it as an unprecedented（史无前例的）entertainment launch. While these are company-reported figures rather than independently audited results, they illustrate the enormous commercial reach（商业影响范围）of interactive entertainment.",
+    "note": "",
+    "courseTopics": [
+      "Technology",
+      "Jobs"
+    ]
+  },
+  {
+    "id": "2026-11-22-briefing:韩国出口突破一万亿美元，但经济增长成果分配仍不均衡",
+    "date": "2026-11-22",
+    "topic": "韩国 / 全球经济",
+    "title": "韩国出口突破一万亿美元，但经济增长成果分配仍不均衡",
+    "text": "据基于政府初步统计的报道，韩国年度累计出口额在11月19日突破一万亿美元，AI相关需求推动半导体出口。出口规模本身不能说明家庭如何分享增长成果。原聊天中的184%和42%两项数字未得到本次核查支持，未纳入本站正文。\nSouth Korea's annual exports passed $1 trillion on November 19, according to reporting on a provisional government tally. Demand linked to artificial intelligence helped drive semiconductor exports（半导体出口）. However, an export milestone（出口里程碑）alone cannot show how the benefits are shared across households. This provides a starting point for discussing inclusive growth（包容性增长）and quality of life.",
+    "note": "",
+    "courseTopics": [
+      "Change",
+      "Jobs"
+    ]
   }
 ]

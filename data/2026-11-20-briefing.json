@@ -27,7 +27,171 @@
       "courseTopics": [
         "Environment",
         "Technology"
-      ]
+      ],
+      "part2Practice": {
+        "questions": [
+          {
+            "question": "What are some examples of electric technology in everyday life?",
+            "zh": "日常生活中有哪些电气化技术？",
+            "directions": [
+              "先界定关键词，说明它包括什么、不包括什么。",
+              "选两到三个类别或例子，避免只给一个抽象名词。",
+              "用一句简单解释，连接到学生或日常生活。"
+            ],
+            "expressions": [
+              {
+                "en": "By …, I mean …",
+                "zh": "我所说的……是指……"
+              },
+              {
+                "en": "Some common examples include …",
+                "zh": "常见的例子包括……"
+              },
+              {
+                "en": "It is useful to distinguish … from …",
+                "zh": "把……与……区分开会有帮助。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "交通",
+                "zh": "举电动公交和自行车，直接说明用途。",
+                "en": "Electric buses and electric bicycles are two everyday examples. They use electricity for transport instead of relying directly on fuel burned in a conventional engine."
+              },
+              {
+                "title": "建筑与生活",
+                "zh": "举电热泵或电磁炉，补充取代何种过程。",
+                "en": "Electric heat pumps and induction cookers are other examples in buildings. These technologies change how energy is used, but their overall environmental impact still depends on how the electricity is generated."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Electric buses and electric bicycles are two everyday examples. They use electricity for transport instead of relying directly on fuel burned in a conventional engine. Electric heat pumps and induction cookers are other examples in buildings. These technologies change how energy is used, but their overall environmental impact still depends on how the electricity is generated.",
+              "zh": "举电动公交和自行车，直接说明用途。 举电热泵或电磁炉，补充取代何种过程。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Why does the source of electricity matter for environmental outcomes?",
+            "zh": "为什么电力来源会影响环保效果？",
+            "directions": [
+              "从个人选择、资源条件或制度安排中选择两个不同原因。",
+              "解释“为什么会这样”，再说明可能产生什么结果。",
+              "考虑不同群体受到的影响；原因不要只停留在表面。"
+            ],
+            "expressions": [
+              {
+                "en": "One reason for this is that …",
+                "zh": "其中一个原因是……"
+              },
+              {
+                "en": "This can lead to …, especially when …",
+                "zh": "这可能导致……，尤其当……"
+              },
+              {
+                "en": "Another factor worth considering is …",
+                "zh": "另一个值得考虑的因素是……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "排放可能转移",
+                "zh": "用煤电充车假设说明车不冒烟不等于发电无排放。",
+                "en": "If electricity is generated using fossil fuels, an electric device may still be linked to emissions at the power station. The pollution has not necessarily disappeared just because the device produces no exhaust itself."
+              },
+              {
+                "title": "清洁来源提高潜力",
+                "zh": "风能太阳能等低排放来源，结合用电效率判断。",
+                "en": "With lower-emission electricity sources, the same device may offer greater environmental benefits. So I would look at both the energy source and how efficiently the device is used."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "If electricity is generated using fossil fuels, an electric device may still be linked to emissions at the power station. The pollution has not necessarily disappeared just because the device produces no exhaust itself. With lower-emission electricity sources, the same device may offer greater environmental benefits. So I would look at both the energy source and how efficiently the device is used.",
+              "zh": "用煤电充车假设说明车不冒烟不等于发电无排放。 风能太阳能等低排放来源，结合用电效率判断。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "How could universities reduce the environmental impact of their technology use?",
+            "zh": "大学可以如何减少使用科技的环境影响？",
+            "directions": [
+              "分别考虑个人和学校、机构或政府能做的事。",
+              "说明谁来实施、需要哪些资源，以及能改善什么。",
+              "承认成本或局限，提出可行的第一步或替代方案。"
+            ],
+            "expressions": [
+              {
+                "en": "One practical step would be to …",
+                "zh": "一个实际可行的步骤是……"
+              },
+              {
+                "en": "This would help … by …",
+                "zh": "这可以通过……帮助……"
+              },
+              {
+                "en": "Although this may require …, it could …",
+                "zh": "尽管这可能需要……，它仍可能……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "减少浪费",
+                "zh": "举空教室关闭空调，预约控制设备时间，别只换设备。",
+                "en": "Universities could reduce unnecessary energy use by switching off cooling and equipment in empty rooms. This could be a practical first step before buying expensive replacement technology."
+              },
+              {
+                "title": "延长设备寿命",
+                "zh": "维修电脑、回收设备、采购时考虑能耗和可修性。",
+                "en": "They could also repair computers where possible and include energy efficiency and repairability in purchasing decisions. Reducing waste involves how long equipment is used as well as how it is powered."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Universities could reduce unnecessary energy use by switching off cooling and equipment in empty rooms. This could be a practical first step before buying expensive replacement technology. They could also repair computers where possible and include energy efficiency and repairability in purchasing decisions. Reducing waste involves how long equipment is used as well as how it is powered.",
+              "zh": "举空教室关闭空调，预约控制设备时间，别只换设备。 维修电脑、回收设备、采购时考虑能耗和可修性。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Is switching to electric technology always beneficial for the environment?",
+            "zh": "改用电气化技术是否总是有利于环境？",
+            "directions": [
+              "先给出清楚但有条件的立场，再用一个具体例子支持。",
+              "承认反方合理的一点，然后解释你的判断标准。",
+              "比较短期与长期，或说明在什么条件下结论会改变。"
+            ],
+            "expressions": [
+              {
+                "en": "On balance, I would argue that …",
+                "zh": "权衡之后，我认为……"
+              },
+              {
+                "en": "Admittedly, …; however, …",
+                "zh": "诚然……；不过……"
+              },
+              {
+                "en": "I would be more likely to support this if …",
+                "zh": "如果……，我会更倾向于支持。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "不总是：看电源与生产",
+                "zh": "直接说不总是，说明制造与发电都要考虑。",
+                "en": "Not always. Electric technology can have environmental benefits, but its overall impact depends on electricity generation and manufacturing. An electric vehicle is not automatically a zero-impact product."
+              },
+              {
+                "title": "条件性支持",
+                "zh": "结合清洁电力、合理用量、公共交通；不要承诺固定减排数字。",
+                "en": "I would support electrification alongside cleaner power and efficient use. For example, improving public transport may be more useful than only encouraging everyone to buy a new electric car."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Not always. Electric technology can have environmental benefits, but its overall impact depends on electricity generation and manufacturing. An electric vehicle is not automatically a zero-impact product. I would support electrification alongside cleaner power and efficient use. For example, improving public transport may be more useful than only encouraging everyone to buy a new electric car.",
+              "zh": "直接说不总是，说明制造与发电都要考虑。 结合清洁电力、合理用量、公共交通；不要承诺固定减排数字。",
+              "kind": "original-practice"
+            }
+          }
+        ]
+      }
     },
     {
       "topic": "中国与科技",
@@ -52,7 +216,171 @@
       "courseTopics": [
         "Technology",
         "Change"
-      ]
+      ],
+      "part2Practice": {
+        "questions": [
+          {
+            "question": "What does technological self-reliance mean?",
+            "zh": "技术自主是什么意思？",
+            "directions": [
+              "先界定关键词，说明它包括什么、不包括什么。",
+              "选两到三个类别或例子，避免只给一个抽象名词。",
+              "用一句简单解释，连接到学生或日常生活。"
+            ],
+            "expressions": [
+              {
+                "en": "By …, I mean …",
+                "zh": "我所说的……是指……"
+              },
+              {
+                "en": "Some common examples include …",
+                "zh": "常见的例子包括……"
+              },
+              {
+                "en": "It is useful to distinguish … from …",
+                "zh": "把……与……区分开会有帮助。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "关键能力",
+                "zh": "定义是维持重要设备与服务，不等同所有零件自己造。",
+                "en": "Technological self-reliance means having enough capability to maintain important technologies and services. It does not necessarily mean producing every component within one country."
+              },
+              {
+                "title": "例子与平衡",
+                "zh": "举培养工程师、备用供应商，同时仍可合作研究。",
+                "en": "For example, a country might train engineers and develop alternative suppliers while continuing to cooperate with overseas researchers. The key aim would be to reduce vulnerability rather than end all international connections."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Technological self-reliance means having enough capability to maintain important technologies and services. It does not necessarily mean producing every component within one country. For example, a country might train engineers and develop alternative suppliers while continuing to cooperate with overseas researchers. The key aim would be to reduce vulnerability rather than end all international connections.",
+              "zh": "定义是维持重要设备与服务，不等同所有零件自己造。 举培养工程师、备用供应商，同时仍可合作研究。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Why can dependence on a small number of suppliers create risks?",
+            "zh": "依赖少量供应商为什么可能带来风险？",
+            "directions": [
+              "从个人选择、资源条件或制度安排中选择两个不同原因。",
+              "解释“为什么会这样”，再说明可能产生什么结果。",
+              "考虑不同群体受到的影响；原因不要只停留在表面。"
+            ],
+            "expressions": [
+              {
+                "en": "One reason for this is that …",
+                "zh": "其中一个原因是……"
+              },
+              {
+                "en": "This can lead to …, especially when …",
+                "zh": "这可能导致……，尤其当……"
+              },
+              {
+                "en": "Another factor worth considering is …",
+                "zh": "另一个值得考虑的因素是……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "供应中断",
+                "zh": "假设工厂停产或出口限制，学校小企业也可能拿不到设备。",
+                "en": "If a country depends on only a few suppliers, a factory closure or a trade restriction could interrupt access to important equipment. Schools and small businesses might then face delays."
+              },
+              {
+                "title": "缺少选择",
+                "zh": "替代少意味着成本与调整压力，分散也有成本。",
+                "en": "Having few alternatives may also make it harder to negotiate prices or change products. However, maintaining several suppliers has costs, so resilience needs to be planned rather than assumed."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "If a country depends on only a few suppliers, a factory closure or a trade restriction could interrupt access to important equipment. Schools and small businesses might then face delays. Having few alternatives may also make it harder to negotiate prices or change products. However, maintaining several suppliers has costs, so resilience needs to be planned rather than assumed.",
+              "zh": "假设工厂停产或出口限制，学校小企业也可能拿不到设备。 替代少意味着成本与调整压力，分散也有成本。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "How could countries make their technology supply chains more resilient?",
+            "zh": "国家如何增强科技供应链的韧性？",
+            "directions": [
+              "分别考虑个人和学校、机构或政府能做的事。",
+              "说明谁来实施、需要哪些资源，以及能改善什么。",
+              "承认成本或局限，提出可行的第一步或替代方案。"
+            ],
+            "expressions": [
+              {
+                "en": "One practical step would be to …",
+                "zh": "一个实际可行的步骤是……"
+              },
+              {
+                "en": "This would help … by …",
+                "zh": "这可以通过……帮助……"
+              },
+              {
+                "en": "Although this may require …, it could …",
+                "zh": "尽管这可能需要……，它仍可能……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "多元供应",
+                "zh": "国家和企业可以寻找替代供应来源，避免单一点故障。",
+                "en": "Countries could encourage firms to use a wider range of reliable suppliers. This would reduce the chance that a problem in one location interrupts the whole supply chain."
+              },
+              {
+                "title": "人才与合作",
+                "zh": "培训本地工程师、投资研究，同时保持技术交流。",
+                "en": "They could also invest in technical education and long-term research. Building domestic skills takes time, so this should be combined with cooperation rather than treated as an immediate replacement for imported technology."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Countries could encourage firms to use a wider range of reliable suppliers. This would reduce the chance that a problem in one location interrupts the whole supply chain. They could also invest in technical education and long-term research. Building domestic skills takes time, so this should be combined with cooperation rather than treated as an immediate replacement for imported technology.",
+              "zh": "国家和企业可以寻找替代供应来源，避免单一点故障。 培训本地工程师、投资研究，同时保持技术交流。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Should countries prioritise technological independence over international cooperation?",
+            "zh": "国家是否应优先追求技术独立，而非国际合作？",
+            "directions": [
+              "先给出清楚但有条件的立场，再用一个具体例子支持。",
+              "承认反方合理的一点，然后解释你的判断标准。",
+              "比较短期与长期，或说明在什么条件下结论会改变。"
+            ],
+            "expressions": [
+              {
+                "en": "On balance, I would argue that …",
+                "zh": "权衡之后，我认为……"
+              },
+              {
+                "en": "Admittedly, …; however, …",
+                "zh": "诚然……；不过……"
+              },
+              {
+                "en": "I would be more likely to support this if …",
+                "zh": "如果……，我会更倾向于支持。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "关键技术需保障",
+                "zh": "直接给平衡立场，重要基础设施不能毫无替代。",
+                "en": "I think countries need some independence in critical technologies so that essential services are not completely vulnerable to supply disruptions. Developing local expertise can therefore be worthwhile."
+              },
+              {
+                "title": "完全独立代价高",
+                "zh": "举成本与重复研发，主张多元供应+合作。",
+                "en": "However, complete independence could be very expensive and limit the exchange of ideas. I would favour diversified suppliers, domestic skills and continued research cooperation instead of trying to produce everything alone."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "I think countries need some independence in critical technologies so that essential services are not completely vulnerable to supply disruptions. Developing local expertise can therefore be worthwhile. However, complete independence could be very expensive and limit the exchange of ideas. I would favour diversified suppliers, domestic skills and continued research cooperation instead of trying to produce everything alone.",
+              "zh": "直接给平衡立场，重要基础设施不能毫无替代。 举成本与重复研发，主张多元供应+合作。",
+              "kind": "original-practice"
+            }
+          }
+        ]
+      }
     },
     {
       "topic": "国际关系",
@@ -76,7 +404,171 @@
       "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
       "courseTopics": [
         "Communication"
-      ]
+      ],
+      "part2Practice": {
+        "questions": [
+          {
+            "question": "What are some purposes of diplomatic meetings?",
+            "zh": "外交会谈有哪些目的？",
+            "directions": [
+              "先界定关键词，说明它包括什么、不包括什么。",
+              "选两到三个类别或例子，避免只给一个抽象名词。",
+              "用一句简单解释，连接到学生或日常生活。"
+            ],
+            "expressions": [
+              {
+                "en": "By …, I mean …",
+                "zh": "我所说的……是指……"
+              },
+              {
+                "en": "Some common examples include …",
+                "zh": "常见的例子包括……"
+              },
+              {
+                "en": "It is useful to distinguish … from …",
+                "zh": "把……与……区分开会有帮助。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "交换信息",
+                "zh": "说清想法与限制，减少把对方行为误判为敌意。",
+                "en": "One purpose is to clarify each side's intentions and concerns. When governments understand what others are trying to do, they may be less likely to misinterpret an action."
+              },
+              {
+                "title": "建立沟通渠道",
+                "zh": "即使没协议，也能商定下次联系、紧急联系人。",
+                "en": "Another purpose is to create channels for future communication. A meeting might establish who should be contacted during a crisis, even if it does not produce a major agreement."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "One purpose is to clarify each side's intentions and concerns. When governments understand what others are trying to do, they may be less likely to misinterpret an action. Another purpose is to create channels for future communication. A meeting might establish who should be contacted during a crisis, even if it does not produce a major agreement.",
+              "zh": "说清想法与限制，减少把对方行为误判为敌意。 即使没协议，也能商定下次联系、紧急联系人。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Why can communication be useful even without immediate agreement?",
+            "zh": "即使无法立刻达成协议，沟通为什么仍有价值？",
+            "directions": [
+              "从个人选择、资源条件或制度安排中选择两个不同原因。",
+              "解释“为什么会这样”，再说明可能产生什么结果。",
+              "考虑不同群体受到的影响；原因不要只停留在表面。"
+            ],
+            "expressions": [
+              {
+                "en": "One reason for this is that …",
+                "zh": "其中一个原因是……"
+              },
+              {
+                "en": "This can lead to …, especially when …",
+                "zh": "这可能导致……，尤其当……"
+              },
+              {
+                "en": "Another factor worth considering is …",
+                "zh": "另一个值得考虑的因素是……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "纠正误解",
+                "zh": "各方解释底线与担忧，降低基于错误假设行动的风险。",
+                "en": "Communication can reveal misunderstandings before they lead to worse decisions. One side may discover that an action it saw as threatening had a different purpose."
+              },
+              {
+                "title": "为后续铺路",
+                "zh": "用小组分工争议作假设类比，指出国家争端复杂得多。",
+                "en": "In a simple group-project analogy, students might first explain their concerns before agreeing on a plan. International disputes are much more complex, but clarification can still be a useful first step."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Communication can reveal misunderstandings before they lead to worse decisions. One side may discover that an action it saw as threatening had a different purpose. In a simple group-project analogy, students might first explain their concerns before agreeing on a plan. International disputes are much more complex, but clarification can still be a useful first step.",
+              "zh": "各方解释底线与担忧，降低基于错误假设行动的风险。 用小组分工争议作假设类比，指出国家争端复杂得多。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "How could parties build trust when they have conflicting interests?",
+            "zh": "利益冲突的各方可以怎样建立信任？",
+            "directions": [
+              "分别考虑个人和学校、机构或政府能做的事。",
+              "说明谁来实施、需要哪些资源，以及能改善什么。",
+              "承认成本或局限，提出可行的第一步或替代方案。"
+            ],
+            "expressions": [
+              {
+                "en": "One practical step would be to …",
+                "zh": "一个实际可行的步骤是……"
+              },
+              {
+                "en": "This would help … by …",
+                "zh": "这可以通过……帮助……"
+              },
+              {
+                "en": "Although this may require …, it could …",
+                "zh": "尽管这可能需要……，它仍可能……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "从小承诺开始",
+                "zh": "举共享信息、按时回复、落实小范围合作。",
+                "en": "Parties could begin with small, realistic commitments, such as sharing agreed information or responding within a set period. Keeping those promises may be more convincing than making a dramatic public statement."
+              },
+              {
+                "title": "记录并复查",
+                "zh": "会议后明确下一步和时间，避免只有合照。",
+                "en": "They could also record what was agreed and arrange a follow-up meeting. Trust is more likely to grow if words are followed by observable actions."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Parties could begin with small, realistic commitments, such as sharing agreed information or responding within a set period. Keeping those promises may be more convincing than making a dramatic public statement. They could also record what was agreed and arrange a follow-up meeting. Trust is more likely to grow if words are followed by observable actions.",
+              "zh": "举共享信息、按时回复、落实小范围合作。 会议后明确下一步和时间，避免只有合照。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Can diplomatic meetings be considered successful even without an agreement?",
+            "zh": "没有达成协议的外交会议也能算成功吗？",
+            "directions": [
+              "先给出清楚但有条件的立场，再用一个具体例子支持。",
+              "承认反方合理的一点，然后解释你的判断标准。",
+              "比较短期与长期，或说明在什么条件下结论会改变。"
+            ],
+            "expressions": [
+              {
+                "en": "On balance, I would argue that …",
+                "zh": "权衡之后，我认为……"
+              },
+              {
+                "en": "Admittedly, …; however, …",
+                "zh": "诚然……；不过……"
+              },
+              {
+                "en": "I would be more likely to support this if …",
+                "zh": "如果……，我会更倾向于支持。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "有条件算成功",
+                "zh": "成功有不同层次：降低误判、保留沟通都可算有限成果。",
+                "en": "Yes, a meeting can have limited success even without an agreement. Clarifying concerns or establishing an emergency contact may reduce the risk of misunderstandings."
+              },
+              {
+                "title": "不能只看见面",
+                "zh": "长期无落实则不够，需要后续目标。",
+                "en": "However, a meeting should not be praised simply because it happened. I would look for follow-up actions and realistic goals, while accepting that some disagreements cannot be resolved in one conversation."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Yes, a meeting can have limited success even without an agreement. Clarifying concerns or establishing an emergency contact may reduce the risk of misunderstandings. However, a meeting should not be praised simply because it happened. I would look for follow-up actions and realistic goals, while accepting that some disagreements cannot be resolved in one conversation.",
+              "zh": "成功有不同层次：降低误判、保留沟通都可算有限成果。 长期无落实则不够，需要后续目标。",
+              "kind": "original-practice"
+            }
+          }
+        ]
+      }
     },
     {
       "topic": "经济与 AI",
@@ -101,7 +593,171 @@
       "courseTopics": [
         "Technology",
         "Change"
-      ]
+      ],
+      "part2Practice": {
+        "questions": [
+          {
+            "question": "What resources are needed to build new digital infrastructure?",
+            "zh": "建设数字基础设施需要哪些资源？",
+            "directions": [
+              "先界定关键词，说明它包括什么、不包括什么。",
+              "选两到三个类别或例子，避免只给一个抽象名词。",
+              "用一句简单解释，连接到学生或日常生活。"
+            ],
+            "expressions": [
+              {
+                "en": "By …, I mean …",
+                "zh": "我所说的……是指……"
+              },
+              {
+                "en": "Some common examples include …",
+                "zh": "常见的例子包括……"
+              },
+              {
+                "en": "It is useful to distinguish … from …",
+                "zh": "把……与……区分开会有帮助。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "物理基础设施",
+                "zh": "举数据中心需要电、土地、冷却系统和设备，AI不是只需要代码。",
+                "en": "Digital infrastructure requires physical resources such as electricity, land, cooling systems and computer equipment. A data centre is not simply a piece of software that can be expanded without limits."
+              },
+              {
+                "title": "人和公共配套",
+                "zh": "还需工程师、工人及稳定供电交通配套。",
+                "en": "It also needs skilled engineers and construction workers. Local power networks and other services may need to expand as well, so the costs go beyond buying computers."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Digital infrastructure requires physical resources such as electricity, land, cooling systems and computer equipment. A data centre is not simply a piece of software that can be expanded without limits. It also needs skilled engineers and construction workers. Local power networks and other services may need to expand as well, so the costs go beyond buying computers.",
+              "zh": "举数据中心需要电、土地、冷却系统和设备，AI不是只需要代码。 还需工程师、工人及稳定供电交通配套。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Why might rapid spending create short-term pressures?",
+            "zh": "快速增加支出为什么可能带来短期压力？",
+            "directions": [
+              "从个人选择、资源条件或制度安排中选择两个不同原因。",
+              "解释“为什么会这样”，再说明可能产生什么结果。",
+              "考虑不同群体受到的影响；原因不要只停留在表面。"
+            ],
+            "expressions": [
+              {
+                "en": "One reason for this is that …",
+                "zh": "其中一个原因是……"
+              },
+              {
+                "en": "This can lead to …, especially when …",
+                "zh": "这可能导致……，尤其当……"
+              },
+              {
+                "en": "Another factor worth considering is …",
+                "zh": "另一个值得考虑的因素是……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "需求快于供给",
+                "zh": "假设许多项目同时抢电工设备，供给短期跟不上。",
+                "en": "Rapid spending can create pressure when many projects need the same workers and equipment at once. Those resources may not become available as quickly as demand increases."
+              },
+              {
+                "title": "成本传递不均",
+                "zh": "建设地点供电或住房承压，长期收益未必马上出现。",
+                "en": "Local services and housing may also come under pressure during construction. A project could bring longer-term benefits while still creating short-term difficulties for nearby communities."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Rapid spending can create pressure when many projects need the same workers and equipment at once. Those resources may not become available as quickly as demand increases. Local services and housing may also come under pressure during construction. A project could bring longer-term benefits while still creating short-term difficulties for nearby communities.",
+              "zh": "假设许多项目同时抢电工设备，供给短期跟不上。 建设地点供电或住房承压，长期收益未必马上出现。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "How could governments support innovation while managing its costs?",
+            "zh": "政府如何支持创新并管理其成本？",
+            "directions": [
+              "分别考虑个人和学校、机构或政府能做的事。",
+              "说明谁来实施、需要哪些资源，以及能改善什么。",
+              "承认成本或局限，提出可行的第一步或替代方案。"
+            ],
+            "expressions": [
+              {
+                "en": "One practical step would be to …",
+                "zh": "一个实际可行的步骤是……"
+              },
+              {
+                "en": "This would help … by …",
+                "zh": "这可以通过……帮助……"
+              },
+              {
+                "en": "Although this may require …, it could …",
+                "zh": "尽管这可能需要……，它仍可能……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "分阶段建设",
+                "zh": "先测试需求，再扩建，给公共设施留准备时间。",
+                "en": "Governments could support projects in stages so that infrastructure has time to catch up. Before expanding a programme, they could review whether there is real demand and whether local services can cope."
+              },
+              {
+                "title": "培训和透明",
+                "zh": "培养相关技术人才，公布成本与目标，承认公共资金有限。",
+                "en": "They could also fund relevant skills training and publish clear spending priorities. This may support innovation while making it easier to question projects whose costs are becoming unrealistic."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Governments could support projects in stages so that infrastructure has time to catch up. Before expanding a programme, they could review whether there is real demand and whether local services can cope. They could also fund relevant skills training and publish clear spending priorities. This may support innovation while making it easier to question projects whose costs are becoming unrealistic.",
+              "zh": "先测试需求，再扩建，给公共设施留准备时间。 培养相关技术人才，公布成本与目标，承认公共资金有限。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Does rapid technological investment always benefit the economy?",
+            "zh": "快速的科技投资是否总有利于经济？",
+            "directions": [
+              "先给出清楚但有条件的立场，再用一个具体例子支持。",
+              "承认反方合理的一点，然后解释你的判断标准。",
+              "比较短期与长期，或说明在什么条件下结论会改变。"
+            ],
+            "expressions": [
+              {
+                "en": "On balance, I would argue that …",
+                "zh": "权衡之后，我认为……"
+              },
+              {
+                "en": "Admittedly, …; however, …",
+                "zh": "诚然……；不过……"
+              },
+              {
+                "en": "I would be more likely to support this if …",
+                "zh": "如果……，我会更倾向于支持。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "不总是立即获益",
+                "zh": "技术需先花钱建设施培训，收益需时间。",
+                "en": "No, rapid technological investment does not always bring immediate benefits. Equipment must be installed and workers trained before a new system can improve how a business operates."
+              },
+              {
+                "title": "不同人受益不同",
+                "zh": "技术公司获益而当地有成本，主张配套和评估。",
+                "en": "The benefits may also be uneven: a technology company could gain while a community faces higher demand for electricity. I would assess investment over time and consider who receives the benefits and bears the costs."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "No, rapid technological investment does not always bring immediate benefits. Equipment must be installed and workers trained before a new system can improve how a business operates. The benefits may also be uneven: a technology company could gain while a community faces higher demand for electricity. I would assess investment over time and consider who receives the benefits and bears the costs.",
+              "zh": "技术需先花钱建设施培训，收益需时间。 技术公司获益而当地有成本，主张配套和评估。",
+              "kind": "original-practice"
+            }
+          }
+        ]
+      }
     },
     {
       "topic": "全球公平与气候",
@@ -125,7 +781,171 @@
       "verification": "来自原聊天的学习摘要；本站迁移时未独立核验报道。",
       "courseTopics": [
         "Environment"
-      ]
+      ],
+      "part2Practice": {
+        "questions": [
+          {
+            "question": "What are some ways communities can respond to environmental risks?",
+            "zh": "社区可以如何应对环境风险？",
+            "directions": [
+              "先界定关键词，说明它包括什么、不包括什么。",
+              "选两到三个类别或例子，避免只给一个抽象名词。",
+              "用一句简单解释，连接到学生或日常生活。"
+            ],
+            "expressions": [
+              {
+                "en": "By …, I mean …",
+                "zh": "我所说的……是指……"
+              },
+              {
+                "en": "Some common examples include …",
+                "zh": "常见的例子包括……"
+              },
+              {
+                "en": "It is useful to distinguish … from …",
+                "zh": "把……与……区分开会有帮助。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "预警",
+                "zh": "举高温提醒、洪水短信、避暑空间，是适应风险。",
+                "en": "Communities could use early-warning systems, such as heat alerts or flood messages, to give people time to respond. Public cooling spaces could help people who cannot keep their homes safe during extreme heat."
+              },
+              {
+                "title": "长期基础设施",
+                "zh": "维护排水和住房，区别灾后临时援助。",
+                "en": "They could also improve drainage and housing over time. Emergency aid helps after a disaster, but better infrastructure may reduce the damage before the next event occurs."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Communities could use early-warning systems, such as heat alerts or flood messages, to give people time to respond. Public cooling spaces could help people who cannot keep their homes safe during extreme heat. They could also improve drainage and housing over time. Emergency aid helps after a disaster, but better infrastructure may reduce the damage before the next event occurs.",
+              "zh": "举高温提醒、洪水短信、避暑空间，是适应风险。 维护排水和住房，区别灾后临时援助。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Why can environmental problems affect some groups more than others?",
+            "zh": "环境问题为什么会对不同群体造成不同影响？",
+            "directions": [
+              "从个人选择、资源条件或制度安排中选择两个不同原因。",
+              "解释“为什么会这样”，再说明可能产生什么结果。",
+              "考虑不同群体受到的影响；原因不要只停留在表面。"
+            ],
+            "expressions": [
+              {
+                "en": "One reason for this is that …",
+                "zh": "其中一个原因是……"
+              },
+              {
+                "en": "This can lead to …, especially when …",
+                "zh": "这可能导致……，尤其当……"
+              },
+              {
+                "en": "Another factor worth considering is …",
+                "zh": "另一个值得考虑的因素是……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "暴露程度",
+                "zh": "举户外工人更直接受热，低洼住宅易受洪水影响。",
+                "en": "Some people are more exposed because of where they live or work. Outdoor workers, for example, may find it harder to avoid extreme heat than people working in cooled offices."
+              },
+              {
+                "title": "应对资源",
+                "zh": "同样灾害富裕家庭有搬迁维修选择，低收入者缺少。",
+                "en": "People also have different resources for responding. A family with savings may repair its home or move temporarily, while another family may have no affordable alternative."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Some people are more exposed because of where they live or work. Outdoor workers, for example, may find it harder to avoid extreme heat than people working in cooled offices. People also have different resources for responding. A family with savings may repair its home or move temporarily, while another family may have no affordable alternative.",
+              "zh": "举户外工人更直接受热，低洼住宅易受洪水影响。 同样灾害富裕家庭有搬迁维修选择，低收入者缺少。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "How could limited funding be used more effectively to protect communities?",
+            "zh": "怎样更有效地使用有限资金保护社区？",
+            "directions": [
+              "分别考虑个人和学校、机构或政府能做的事。",
+              "说明谁来实施、需要哪些资源，以及能改善什么。",
+              "承认成本或局限，提出可行的第一步或替代方案。"
+            ],
+            "expressions": [
+              {
+                "en": "One practical step would be to …",
+                "zh": "一个实际可行的步骤是……"
+              },
+              {
+                "en": "This would help … by …",
+                "zh": "这可以通过……帮助……"
+              },
+              {
+                "en": "Although this may require …, it could …",
+                "zh": "尽管这可能需要……，它仍可能……"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "找最紧迫问题",
+                "zh": "先和居民识别哪里风险最大，再优先低成本措施。",
+                "en": "I would begin by identifying the most exposed groups and asking residents what they need. Limited funding could first support practical measures such as warnings, drinking-water access and safe shelters."
+              },
+              {
+                "title": "维护和跟踪",
+                "zh": "预算留维护，检查是否真正覆盖老人等弱势群体。",
+                "en": "Some money should be reserved for maintenance and evaluation. A new warning system is not useful if it stops working or fails to reach older residents and people without reliable internet access."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "I would begin by identifying the most exposed groups and asking residents what they need. Limited funding could first support practical measures such as warnings, drinking-water access and safe shelters. Some money should be reserved for maintenance and evaluation. A new warning system is not useful if it stops working or fails to reach older residents and people without reliable internet access.",
+              "zh": "先和居民识别哪里风险最大，再优先低成本措施。 预算留维护，检查是否真正覆盖老人等弱势群体。",
+              "kind": "original-practice"
+            }
+          },
+          {
+            "question": "Should wealthier countries contribute more to climate adaptation?",
+            "zh": "较富裕的国家是否应为气候适应投入更多？",
+            "directions": [
+              "先给出清楚但有条件的立场，再用一个具体例子支持。",
+              "承认反方合理的一点，然后解释你的判断标准。",
+              "比较短期与长期，或说明在什么条件下结论会改变。"
+            ],
+            "expressions": [
+              {
+                "en": "On balance, I would argue that …",
+                "zh": "权衡之后，我认为……"
+              },
+              {
+                "en": "Admittedly, …; however, …",
+                "zh": "诚然……；不过……"
+              },
+              {
+                "en": "I would be more likely to support this if …",
+                "zh": "如果……，我会更倾向于支持。"
+              }
+            ],
+            "answerAngles": [
+              {
+                "title": "应多承担：能力",
+                "zh": "较富裕国家可负担技术和资金支持，更能承担大项目。",
+                "en": "Yes, wealthier countries should contribute more because they generally have greater financial and technical capacity. They may be better able to fund infrastructure that poorer communities cannot afford on their own."
+              },
+              {
+                "title": "配合本地决策",
+                "zh": "资金非唯一，听当地需要并透明追踪，避免强加方案。",
+                "en": "However, funding should respond to local priorities and be monitored transparently. Sending money is not enough if projects are unsuitable or communities cannot maintain them afterwards."
+              }
+            ],
+            "sampleAnswer": {
+              "en": "Yes, wealthier countries should contribute more because they generally have greater financial and technical capacity. They may be better able to fund infrastructure that poorer communities cannot afford on their own. However, funding should respond to local priorities and be monitored transparently. Sending money is not enough if projects are unsuitable or communities cannot maintain them afterwards.",
+              "zh": "较富裕国家可负担技术和资金支持，更能承担大项目。 资金非唯一，听当地需要并透明追踪，避免强加方案。",
+              "kind": "original-practice"
+            }
+          }
+        ]
+      }
     }
   ],
   "speaking": {

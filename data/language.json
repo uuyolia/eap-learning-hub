@@ -344,6 +344,184 @@
       "courseTopics": [
         "Environment"
       ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:education-in-emergencies",
+      "term": "education in emergencies",
+      "meaning": "紧急情况下的教育",
+      "ipa": "",
+      "example": "The funding aims to improve access to education in emergencies（紧急情况下的教育机会）, with some resources reserved for future crises.",
+      "sourceText": "Education Cannot Wait, a UN-hosted global fund, announced $52 million in support for more than 300,000 children affected by crises in Lebanon, Myanmar and South Sudan. The funding aims to improve access to education in emergencies（紧急情况下的教育机会）, with some resources reserved for future crises. The initiative highlights how conflict and displacement（流离失所）can disrupt schooling and deepen existing inequalities.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "联合国教育基金拨款5200万美元，帮助危机中的儿童",
+      "articleIndex": 0,
+      "sourceUrl": "https://www.educationcannotwait.org/news-stories/press-releases/education-cannot-wait-announces-us52-million-keep-300000-children",
+      "courseTopics": [
+        "Education",
+        "People"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:displacement",
+      "term": "displacement",
+      "meaning": "流离失所",
+      "ipa": "",
+      "example": "The initiative highlights how conflict and displacement（流离失所）can disrupt schooling and deepen existing inequalities.",
+      "sourceText": "Education Cannot Wait, a UN-hosted global fund, announced $52 million in support for more than 300,000 children affected by crises in Lebanon, Myanmar and South Sudan. The funding aims to improve access to education in emergencies（紧急情况下的教育机会）, with some resources reserved for future crises. The initiative highlights how conflict and displacement（流离失所）can disrupt schooling and deepen existing inequalities.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "联合国教育基金拨款5200万美元，帮助危机中的儿童",
+      "articleIndex": 0,
+      "sourceUrl": "https://www.educationcannotwait.org/news-stories/press-releases/education-cannot-wait-announces-us52-million-keep-300000-children",
+      "courseTopics": [
+        "Education",
+        "People"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:overhaul",
+      "term": "overhaul",
+      "meaning": "全面改革",
+      "ipa": "",
+      "example": "South Korean President Lee Jae Myung called for a comprehensive overhaul（全面改革）of the national examination system following cheating scandals involving artificial intelligence and prohibited electronic devices.",
+      "sourceText": "South Korean President Lee Jae Myung called for a comprehensive overhaul（全面改革）of the national examination system following cheating scandals involving artificial intelligence and prohibited electronic devices. The controversy raises questions about academic integrity（学术诚信）, the reliability of traditional assessments and whether education systems can adapt quickly enough to emerging technologies.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国拟改革国家考试制度，应对 AI 作弊问题",
+      "articleIndex": 1,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:academic-integrity",
+      "term": "academic integrity",
+      "meaning": "学术诚信",
+      "ipa": "",
+      "example": "The controversy raises questions about academic integrity（学术诚信）, the reliability of traditional assessments and whether education systems can adapt quickly enough to emerging technologies.",
+      "sourceText": "South Korean President Lee Jae Myung called for a comprehensive overhaul（全面改革）of the national examination system following cheating scandals involving artificial intelligence and prohibited electronic devices. The controversy raises questions about academic integrity（学术诚信）, the reliability of traditional assessments and whether education systems can adapt quickly enough to emerging technologies.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国拟改革国家考试制度，应对 AI 作弊问题",
+      "articleIndex": 1,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:defence-attaché",
+      "term": "defence attaché",
+      "meaning": "国防武官",
+      "ipa": "",
+      "example": "Denmark ordered Russia's defence attaché（国防武官）to leave the country within seven days and announced restrictions on non-essential visas for Russian citizens.",
+      "sourceText": "Denmark ordered Russia's defence attaché（国防武官）to leave the country within seven days and announced restrictions on non-essential visas for Russian citizens. Danish authorities linked an alleged assassination plot targeting a US-Ukrainian citizen to Russian intelligence services. The dispute illustrates how security concerns can trigger diplomatic retaliation（外交报复措施）even before all contested claims are publicly resolved.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "丹麦驱逐俄罗斯武官，外交紧张局势升级",
+      "articleIndex": 2,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:diplomatic-retaliation",
+      "term": "diplomatic retaliation",
+      "meaning": "外交回应或报复措施",
+      "ipa": "",
+      "example": "The dispute illustrates how security concerns can trigger diplomatic retaliation（外交报复措施）even before all contested claims are publicly resolved.",
+      "sourceText": "Denmark ordered Russia's defence attaché（国防武官）to leave the country within seven days and announced restrictions on non-essential visas for Russian citizens. Danish authorities linked an alleged assassination plot targeting a US-Ukrainian citizen to Russian intelligence services. The dispute illustrates how security concerns can trigger diplomatic retaliation（外交报复措施）even before all contested claims are publicly resolved.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "丹麦驱逐俄罗斯武官，外交紧张局势升级",
+      "articleIndex": 2,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:unprecedented",
+      "term": "unprecedented",
+      "meaning": "史无前例的",
+      "ipa": "",
+      "example": "The publisher described it as an unprecedented（史无前例的）entertainment launch.",
+      "sourceText": "Rockstar Games reported that Grand Theft Auto VI generated an estimated $3.79 billion in retail sales on its launch day, following 32.5 million pre-release sales. The publisher described it as an unprecedented（史无前例的）entertainment launch. While these are company-reported figures rather than independently audited results, they illustrate the enormous commercial reach（商业影响范围）of interactive entertainment.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "《GTA VI》首日销售额据称达37.9亿美元",
+      "articleIndex": 3,
+      "sourceUrl": "https://taketwointeractivesoftwareinc.gcs-web.com/static-files/3a79aae6-5ca4-465c-851a-3a90d83e39f3",
+      "courseTopics": [
+        "Technology",
+        "Jobs"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:commercial-reach",
+      "term": "commercial reach",
+      "meaning": "商业影响范围",
+      "ipa": "",
+      "example": "While these are company-reported figures rather than independently audited results, they illustrate the enormous commercial reach（商业影响范围）of interactive entertainment.",
+      "sourceText": "Rockstar Games reported that Grand Theft Auto VI generated an estimated $3.79 billion in retail sales on its launch day, following 32.5 million pre-release sales. The publisher described it as an unprecedented（史无前例的）entertainment launch. While these are company-reported figures rather than independently audited results, they illustrate the enormous commercial reach（商业影响范围）of interactive entertainment.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "《GTA VI》首日销售额据称达37.9亿美元",
+      "articleIndex": 3,
+      "sourceUrl": "https://taketwointeractivesoftwareinc.gcs-web.com/static-files/3a79aae6-5ca4-465c-851a-3a90d83e39f3",
+      "courseTopics": [
+        "Technology",
+        "Jobs"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:semiconductor-exports",
+      "term": "semiconductor exports",
+      "meaning": "半导体出口",
+      "ipa": "",
+      "example": "Demand linked to artificial intelligence helped drive semiconductor exports（半导体出口）.",
+      "sourceText": "South Korea's annual exports passed $1 trillion on November 19, according to reporting on a provisional government tally. Demand linked to artificial intelligence helped drive semiconductor exports（半导体出口）. However, an export milestone（出口里程碑）alone cannot show how the benefits are shared across households. This provides a starting point for discussing inclusive growth（包容性增长）and quality of life.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国出口突破一万亿美元，但经济增长成果分配仍不均衡",
+      "articleIndex": 4,
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_business/1288144.html",
+      "courseTopics": [
+        "Change",
+        "Jobs"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:word:inclusive-growth",
+      "term": "inclusive growth",
+      "meaning": "包容性增长",
+      "ipa": "",
+      "example": "This provides a starting point for discussing inclusive growth（包容性增长）and quality of life.",
+      "sourceText": "South Korea's annual exports passed $1 trillion on November 19, according to reporting on a provisional government tally. Demand linked to artificial intelligence helped drive semiconductor exports（半导体出口）. However, an export milestone（出口里程碑）alone cannot show how the benefits are shared across households. This provides a starting point for discussing inclusive growth（包容性增长）and quality of life.",
+      "sourceKind": "article",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国出口突破一万亿美元，但经济增长成果分配仍不均衡",
+      "articleIndex": 4,
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_business/1288144.html",
+      "courseTopics": [
+        "Change",
+        "Jobs"
+      ]
     }
   ],
   "phrases": [
@@ -517,6 +695,95 @@
       "sourceUrl": "https://www.reuters.com/sustainability/cop/el-nino-raises-stakes-cop31-wrestles-over-finance-2026-11-19/",
       "courseTopics": [
         "Environment"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:phrase:0",
+      "term": "meet immediate needs",
+      "meaning": "满足迫切需求",
+      "example": "练习改写：Aid organisations should meet immediate needs while planning long-term educational support.",
+      "use": "本站练习改写，非新闻原句。",
+      "sourceText": "meet immediate needs（满足迫切需求） · break the cycle of poverty（打破贫困循环）",
+      "sourceKind": "briefing-expression",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "联合国教育基金拨款5200万美元，帮助危机中的儿童",
+      "articleIndex": 0,
+      "sourceUrl": "https://www.educationcannotwait.org/news-stories/press-releases/education-cannot-wait-announces-us52-million-keep-300000-children",
+      "courseTopics": [
+        "Education",
+        "People"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:phrase:1",
+      "term": "assess genuine understanding",
+      "meaning": "评估真正的理解",
+      "example": "练习改写：A short oral explanation can help teachers assess genuine understanding.",
+      "use": "本站练习改写，非新闻原句。",
+      "sourceText": "assess genuine understanding（评估真正的理解） · keep pace with technological change（跟上技术变革）",
+      "sourceKind": "briefing-expression",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国拟改革国家考试制度，应对 AI 作弊问题",
+      "articleIndex": 1,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Education",
+        "Technology"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:phrase:2",
+      "term": "avoid further escalation",
+      "meaning": "避免进一步升级",
+      "example": "练习改写：Countries could keep communication channels open to avoid further escalation.",
+      "use": "本站练习改写，非新闻原句。",
+      "sourceText": "respond to security threats（应对安全威胁） · avoid further escalation（避免进一步升级）",
+      "sourceKind": "briefing-expression",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "丹麦驱逐俄罗斯武官，外交紧张局势升级",
+      "articleIndex": 2,
+      "sourceUrl": "https://www.aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676",
+      "courseTopics": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:phrase:3",
+      "term": "commercial success does not necessarily reflect artistic value",
+      "meaning": "商业成功未必代表艺术价值",
+      "example": "练习改写：Commercial success does not necessarily reflect artistic value, so sales should not be the only criterion.",
+      "use": "本站练习改写，非新闻原句。",
+      "sourceText": "blur the line between art and entertainment（模糊艺术与娱乐的界限） · commercial success does not necessarily reflect artistic value（商业成功未必代表艺术价值）",
+      "sourceKind": "briefing-expression",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "《GTA VI》首日销售额据称达37.9亿美元",
+      "articleIndex": 3,
+      "sourceUrl": "https://taketwointeractivesoftwareinc.gcs-web.com/static-files/3a79aae6-5ca4-465c-851a-3a90d83e39f3",
+      "courseTopics": [
+        "Technology",
+        "Jobs"
+      ]
+    },
+    {
+      "id": "2026-11-22-briefing:phrase:4",
+      "term": "translate into tangible benefits",
+      "meaning": "转化为切实好处",
+      "example": "练习改写：Economic growth should translate into tangible benefits for households.",
+      "use": "本站练习改写，非新闻原句。",
+      "sourceText": "translate into tangible benefits（转化为切实好处） · ensure that growth is inclusive（确保增长惠及更多人）",
+      "sourceKind": "briefing-expression",
+      "issueId": "2026-11-22-briefing",
+      "date": "2026-11-22",
+      "articleTitle": "韩国出口突破一万亿美元，但经济增长成果分配仍不均衡",
+      "articleIndex": 4,
+      "sourceUrl": "https://www.hani.co.kr/arti/english_edition/e_business/1288144.html",
+      "courseTopics": [
+        "Change",
+        "Jobs"
       ]
     }
   ]

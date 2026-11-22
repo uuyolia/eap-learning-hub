@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-22-briefing",
+    "date": "2026-11-22",
+    "title": "第 4 期 · 聊天每日简报",
+    "file": "data/2026-11-22-briefing.json",
+    "kind": "chat-briefing",
+    "courseTopics": [
+      "Education",
+      "People",
+      "Technology",
+      "Communication",
+      "Jobs",
+      "Change"
+    ]
+  },
+  {
     "id": "2026-11-21-briefing",
     "date": "2026-11-21",
     "title": "第 3 期 · 聊天每日简报",
