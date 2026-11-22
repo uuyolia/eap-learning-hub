@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "appId": ""
+  },
+  "note": "尚未配置云服务。此文件只放 Firebase Web 公开配置，禁止写入服务账号私钥或管理员凭据。"
+}
