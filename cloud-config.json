@@ -1,10 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "firebase": {
-    "apiKey": "",
-    "authDomain": "",
-    "projectId": "",
-    "appId": ""
+    "projectId": "eap-learning-hub-uuyolia",
+    "appId": "1:295860899751:web:03bab651025c1e2dd3f082",
+    "apiKey": "AIzaSyAsJygc1oPk5i-B0f1urLL9P-ni0UaGIWg",
+    "authDomain": "eap-learning-hub-uuyolia.firebaseapp.com",
+    "messagingSenderId": "295860899751"
   },
-  "note": "尚未配置云服务。此文件只放 Firebase Web 公开配置，禁止写入服务账号私钥或管理员凭据。"
+  "note": "Firebase Web 公开配置；学习记录由认证及数据库规则保护。禁止放入管理员凭据。"
 }
