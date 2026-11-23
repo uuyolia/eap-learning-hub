@@ -1,0 +1,38 @@
+// Prototype account-isolation rules; validate with the CLI and two-account tests before activation.
+// Model: users/{Firebase Auth uid}/records/{recordKey}.
+// The Auth uid is the owner; no parent users document is required.
+// Fields: value (required string, <=600000 bytes/characters), revision (required positive int),
+// updatedAt (required server timestamp). No email, password, role or owner fields are stored.
+// Clients only get individual allowlisted documents and use transactions for revision increments.
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAuthenticated() { return request.auth != null; }
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId
+        && request.auth.token.email_verified == true;
+    }
+    function allowedRecord(recordId) {
+      return recordId in ['eap_review_v3', 'eap_cases_v3', 'eap_saved_v2',
+        'eap_note_v2', 'eap_personal_language_v1', 'eap_learning_v1'];
+    }
+    function isValidRecord(data) {
+      return data.keys().hasAll(['value', 'revision', 'updatedAt'])
+        && data.keys().hasOnly(['value', 'revision', 'updatedAt'])
+        && data.value is string && data.value.size() <= 600000
+        && data.revision is int && data.revision >= 1 && data.revision <= 2147483647
+        && data.updatedAt is timestamp && data.updatedAt == request.time;
+    }
+    match /users/{userId}/records/{recordId} {
+      allow get: if isOwner(userId) && allowedRecord(recordId);
+      allow list: if false;
+      allow create: if isOwner(userId) && allowedRecord(recordId)
+        && isValidRecord(request.resource.data) && request.resource.data.revision == 1;
+      allow update: if isOwner(userId) && allowedRecord(recordId)
+        && isValidRecord(request.resource.data)
+        && request.resource.data.revision == resource.data.revision + 1;
+      allow delete: if false;
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}
